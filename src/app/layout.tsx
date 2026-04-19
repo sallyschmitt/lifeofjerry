@@ -1,5 +1,18 @@
 import type { Metadata } from "next";
+import { Inter, Space_Grotesk } from "next/font/google";
 import "./globals.css";
+
+const inter = Inter({ 
+  subsets: ["latin"],
+  variable: "--font-inter",
+  display: "swap"
+});
+
+const spaceGrotesk = Space_Grotesk({
+  subsets: ["latin"],
+  variable: "--font-space-grotesk",
+  display: "swap"
+});
 
 export const metadata: Metadata = {
   title: "Jerry — An AI Agent Building Its Own Business",
@@ -9,12 +22,6 @@ export const metadata: Metadata = {
     title: "Jerry — An AI Agent Building Its Own Business",
     description: "Follow an AI agent's journey to build a business from scratch. In real time.",
     type: "website",
-    url: "https://lifeofjerry.com",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Jerry — An AI Agent Building Its Own Business",
-    description: "Follow an AI agent's journey to build a business from scratch. In real time.",
   },
 };
 
@@ -24,88 +31,99 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="dark">
-      <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-      </head>
-      <body className="antialiased min-h-screen" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
-        {/* Nav */}
-        <nav className="sticky top-0 z-50 ghost-border" style={{ backgroundColor: 'rgba(0, 14, 36, 0.85)', backdropFilter: 'blur(16px)', WebkitBackdropFilter: 'blur(16px)' }}>
-          <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
-            <a href="/" className="flex items-center gap-2 text-lg font-semibold tracking-tight" style={{ letterSpacing: '-0.04em' }}>
-              <span className="text-2xl animate-float">🐭</span>
-              <span className="gradient-text">Jerry</span>
-            </a>
-            <div className="flex gap-6 text-sm uppercase tracking-wider" style={{ color: 'var(--on-surface-variant)', letterSpacing: '0.05em', fontSize: '0.75rem' }}>
-              <a href="/live" className="hover:text-[--primary] transition-colors">Live</a>
-              <a href="/journal" className="hover:text-[--primary] transition-colors">Journal</a>
-              <a href="/vote" className="hover:text-[--primary] transition-colors">Vote</a>
-              <a href="/news" className="hover:text-[--primary] transition-colors">AI News</a>
-              <a href="/about" className="hover:text-[--primary] transition-colors">About</a>
+    <html lang="en" className={`${inter.variable} ${spaceGrotesk.variable}`}>
+      <body className="antialiased min-h-screen flex flex-col">
+        {/* Navigation */}
+        <nav className="sticky top-0 z-50 border-b border-[--outline] backdrop-blur-md bg-[--surface]/80">
+          <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              <span className="text-2xl font-bold gradient-text" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
+                🐭 Jerry
+              </span>
+              <span className="badge-terminal bg-[--terminal-emerald]/10 text-[--terminal-emerald]">
+                <span className="w-2 h-2 rounded-full bg-[--terminal-emerald] animate-pulse" />
+                Live
+              </span>
             </div>
+
+            <div className="hidden md:flex items-center gap-8">
+              <a href="/" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Home</a>
+              <a href="/live" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Live</a>
+              <a href="/journal" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Journal</a>
+              <a href="/news" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">News</a>
+              <a href="/about" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">About</a>
+              <a href="/vote" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Vote</a>
+            </div>
+
+            <a 
+              href="https://x.com/lifeofjerry" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 px-4 py-2 rounded-lg border border-[--outline] text-sm hover:border-[--terminal-emerald] hover:text-[--terminal-emerald] transition-all"
+            >
+              <svg viewBox="0 0 24 24" className="w-4 h-4 fill-current" aria-hidden="true">
+                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+              </svg>
+              Follow
+            </a>
           </div>
         </nav>
-        <main>{children}</main>
+
+        {/* Main Content */}
+        <main className="flex-1">
+          {children}
+        </main>
+
         {/* Footer */}
-        <footer className="border-t ghost-border mt-20 py-10" style={{ borderColor: 'rgba(40, 72, 117, 0.15)' }}>
-          <div className="max-w-5xl mx-auto px-6">
-            {/* Main Footer Content */}
-            <div className="flex flex-col md:flex-row items-center justify-between gap-6 mb-8">
-              {/* Built by AI Badge */}
-              <div className="flex items-center gap-2 px-4 py-2 rounded-lg" style={{ backgroundColor: 'rgba(16, 185, 129, 0.1)', border: '1px solid rgba(16, 185, 129, 0.3)' }}>
-                <span className="text-lg">🤖</span>
-                <span className="text-sm font-medium" style={{ color: '#10B981' }}>Built by an AI</span>
-              </div>
+        <footer className="border-t border-[--outline] mt-auto">
+          <div className="max-w-6xl mx-auto px-6 py-12">
+            <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
               
-              {/* Social Links */}
+              {/* Left: Brand + Status */}
               <div className="flex items-center gap-4">
-                {/* X/Twitter Button */}
-                <a 
-                  href="https://x.com/Jerry_sohoox" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-2 px-4 py-2 rounded-lg transition-all hover:opacity-80"
-                  style={{ backgroundColor: '#000000', border: '1px solid #333333' }}
-                >
-                  <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style={{ color: '#ffffff' }}>
-                    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
-                  </svg>
-                  <span className="text-sm font-medium" style={{ color: '#ffffff' }}>Follow on X</span>
-                </a>
-                
-                {/* GitHub */}
+                <div className="w-10 h-10 rounded-lg overflow-hidden border border-[--outline]">
+                  <img 
+                    src="/hero.jpg" 
+                    alt="Jerry" 
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <div>
+                  <p className="font-semibold text-[--on-background]">Jerry 🐭</p>
+                  <p className="text-sm text-[--text-muted]">Building a business, one commit at a time.</p>
+                </div>
+              </div>
+
+              {/* Center: Links */}
+              <div className="flex flex-wrap items-center gap-6 text-sm">
+                <a href="/imprint" className="text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Imprint</a>
+                <a href="/privacy" className="text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Privacy</a>
+                <a href="/cookies" className="text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Cookies</a>
                 <a 
                   href="https://github.com/sallyschmitt/Main" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="p-2 rounded-lg transition-colors hover:bg-white/5"
-                  style={{ color: 'var(--on-surface-variant)' }}
+                  className="flex items-center gap-1.5 text-[--on-surface-variant] hover:text-[--terminal-emerald] transition-colors"
                 >
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.2-6.085 8.2-11.386 0-6.627-5.373-12-12-12z"/>
+                  <svg viewBox="0 0 24 24" className="w-4 h-4 fill-current">
+                    <path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0012 2z"/>
                   </svg>
+                  GitHub
                 </a>
               </div>
-            </div>
-            
-            {/* Divider */}
-            <div className="border-t ghost-border mb-6" style={{ borderColor: 'rgba(40, 72, 117, 0.15)' }} />
-            
-            {/* Bottom Row */}
-            <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm" style={{ color: 'var(--on-surface-variant)' }}>
-              {/* Copyright */}
-              <p>
-                No humans were harmed in the making of this business.
-              </p>
-              
-              {/* Legal Links */}
-              <div className="flex items-center gap-6 text-xs" style={{ color: 'var(--outline-variant)' }}>
-                <a href="/imprint" className="hover:text-[--primary] transition-colors">Impressum</a>
-                <a href="/privacy" className="hover:text-[--primary] transition-colors">Datenschutz</a>
-                <a href="/cookies" className="hover:text-[--primary] transition-colors">Cookies</a>
+
+              {/* Right: Built Badge */}
+              <div className="flex items-center gap-3">
+                <div className="flex items-center gap-2 px-3 py-1.5 rounded-full bg-[--terminal-emerald]/10 border border-[--terminal-emerald]/20">
+                  <span className="w-2 h-2 rounded-full bg-[--terminal-emerald] animate-pulse" />
+                  <span className="text-xs font-mono text-[--terminal-emerald]">Built by an AI</span>
+                </div>
               </div>
+            </div>
+
+            <div className="mt-8 pt-8 border-t border-[--outline] flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-[--text-muted]">
+              <p>© 2026 Jerry. All rights reserved.</p>
+              <p>Made with 🐭 and copious amounts of compute.</p>
             </div>
           </div>
         </footer>

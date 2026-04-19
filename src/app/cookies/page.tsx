@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Cookies — Jerry",
+  title: "Cookie Policy — Jerry",
   description: "Cookie policy and settings for lifeofjerry.com",
 };
 
@@ -12,72 +12,72 @@ export default function Cookies() {
         className="text-4xl md:text-5xl font-bold mb-8"
         style={{ fontFamily: "'Space Grotesk', sans-serif", letterSpacing: '-0.02em' }}
       >
-        Cookie-Richtlinie
+        Cookie Policy
       </h1>
       
       <div className="space-y-8 text-[--on-surface-variant]">
         <section>
-          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">Was sind Cookies?</h2>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">What Are Cookies?</h2>
           <p className="leading-relaxed">
-            Cookies sind kleine Textdateien, die auf Ihrem Gerät gespeichert werden, wenn Sie eine Website besuchen. 
-            Sie ermöglichen es der Website, sich an Ihre Aktionen und Einstellungen zu erinnern (z.B. Login, Sprache, 
-            Schriftgröße) über einen bestimmten Zeitraum hinweg.
+            Cookies are small text files stored on your device when you visit a website. 
+            They allow the website to remember your actions and preferences (such as login, language, 
+            font size) over a period of time.
           </p>
         </section>
 
         <section>
-          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">Welche Cookies verwenden wir?</h2>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">What Cookies Do We Use?</h2>
           
           <div className="space-y-6">
             <div className="border border-[--outline-variant] rounded-lg p-4">
               <div className="flex items-center justify-between mb-2">
-                <h3 className="font-semibold text-[--on-background]">Notwendige Cookies</h3>
-                <span className="text-xs bg-[--accent-green]/20 text-[--accent-green] px-2 py-1 rounded">
-                  Immer aktiv
+                <h3 className="font-semibold text-[--on-background]">Essential Cookies</h3>
+                <span className="text-xs bg-[--terminal-emerald]/20 text-[--terminal-emerald] px-2 py-1 rounded">
+                  Always Active
                 </span>
               </div>
               <p className="text-sm leading-relaxed">
-                Diese Cookies sind für die grundlegende Funktionalität der Website erforderlich und können nicht 
-                deaktiviert werden. Sie speichern z.B. Ihre Cookie-Einstellungen.
+                These cookies are essential for the basic functionality of the website and cannot 
+                be disabled. They store, for example, your cookie consent preferences.
               </p>
               <ul className="text-sm mt-2 space-y-1 text-[--text-muted]">
-                <li>• cookie-consent: Speichert Ihre Cookie-Einwilligung (1 Jahr)</li>
+                <li>• cookie-consent: Stores your cookie consent preference (1 year)</li>
               </ul>
             </div>
 
             <div className="border border-[--outline-variant] rounded-lg p-4 opacity-60">
               <div className="flex items-center justify-between mb-2">
-                <h3 className="font-semibold text-[--on-background]">Analyse-Cookies</h3>
+                <h3 className="font-semibold text-[--on-background]">Analytics Cookies</h3>
                 <span className="text-xs bg-[--text-muted]/20 text-[--text-muted] px-2 py-1 rounded">
-                  Derzeit nicht verwendet
+                  Currently Not Used
                 </span>
               </div>
               <p className="text-sm leading-relaxed">
-                Diese Cookies würden uns helfen zu verstehen, wie Besucher mit der Website interagieren. 
-                Derzeit verwenden wir keine Analyse-Tools.
+                These cookies would help us understand how visitors interact with the website. 
+                We currently do not use any analytics tools.
               </p>
             </div>
 
             <div className="border border-[--outline-variant] rounded-lg p-4 opacity-60">
               <div className="flex items-center justify-between mb-2">
-                <h3 className="font-semibold text-[--on-background]">Marketing-Cookies</h3>
+                <h3 className="font-semibold text-[--on-background]">Marketing Cookies</h3>
                 <span className="text-xs bg-[--text-muted]/20 text-[--text-muted] px-2 py-1 rounded">
-                  Derzeit nicht verwendet
+                  Currently Not Used
                 </span>
               </div>
               <p className="text-sm leading-relaxed">
-                Diese Cookies würden verwendet werden, um Besuchern relevante Werbung anzuzeigen. 
-                Derzeit verwenden wir keine Marketing-Cookies.
+                These cookies would be used to display relevant advertising to visitors. 
+                We currently do not use any marketing cookies.
               </p>
             </div>
           </div>
         </section>
 
         <section>
-          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">Cookie-Verwaltung</h2>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">Managing Cookies</h2>
           <p className="leading-relaxed mb-4">
-            Da wir nur technisch notwendige Cookies verwenden, ist keine separate Einwilligung erforderlich. 
-            Sie können Cookies in Ihren Browsereinstellungen verwalten:
+            Since we only use essential cookies, no separate consent is required. 
+            You can manage cookies in your browser settings:
           </p>
           <ul className="list-disc list-inside space-y-1 ml-4">
             <li>
@@ -114,23 +114,23 @@ export default function Cookies() {
         </section>
 
         <section>
-          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">Änderungen</h2>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">Changes</h2>
           <p className="leading-relaxed">
-            Wir können diese Cookie-Richtlinie von Zeit zu Zeit aktualisieren. Überprüfen Sie diese Seite 
-            regelmäßig, um über Änderungen informiert zu bleiben.
+            We may update this cookie policy from time to time. Please check this page 
+            regularly to stay informed about any changes.
           </p>
         </section>
 
         <section>
-          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">Kontakt</h2>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">Contact</h2>
           <p className="leading-relaxed">
-            Bei Fragen zu Cookies oder dieser Richtlinie kontaktieren Sie uns unter: mail@ckms.es
+            For questions about cookies or this policy, please contact: mail@ckms.es
           </p>
         </section>
       </div>
 
       <p className="mt-12 text-sm text-[--text-muted]">
-        Stand: April 2026
+        Last updated: April 2026
       </p>
     </div>
   );

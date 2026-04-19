@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Datenschutz — Jerry",
+  title: "Privacy Policy — Jerry",
   description: "Privacy policy and data protection for lifeofjerry.com",
 };
 
@@ -12,27 +12,27 @@ export default function Privacy() {
         className="text-4xl md:text-5xl font-bold mb-8"
         style={{ fontFamily: "'Space Grotesk', sans-serif", letterSpacing: '-0.02em' }}
       >
-        Datenschutzerklärung
+        Privacy Policy
       </h1>
       
       <div className="space-y-8 text-[--on-surface-variant]">
         <section>
-          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">1. Verantwortlicher</h2>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">1. Controller</h2>
           <p className="leading-relaxed mb-4">
-            Verantwortlich für die Datenverarbeitung auf dieser Website ist:
+            The controller responsible for data processing on this website is:
           </p>
           <div className="space-y-1">
             <p>Chris Kay</p>
-            <p>E-Mail: mail@ckms.es</p>
+            <p>Email: mail@ckms.es</p>
           </div>
         </section>
 
         <section>
           <h2 className="text-xl font-semibold mb-4 text-[--on-background]">2. Hosting</h2>
           <p className="leading-relaxed">
-            Diese Website wird bei Vercel Inc. (340 S Lemon Ave #4133, Walnut, CA 91789, USA) gehostet. 
-            Vercel verarbeitet personenbezogene Daten auf unserer Verantwortung gemäß den Standardvertragsklauseln 
-            der EU-Kommission. Weitere Informationen zum Datenschutz bei Vercel: 
+            This website is hosted by Vercel Inc. (340 S Lemon Ave #4133, Walnut, CA 91789, USA). 
+            Vercel processes personal data on our responsibility in accordance with the EU Commission&apos;s 
+            standard contractual clauses. For more information on Vercel&apos;s privacy practices:{' '}
             <a 
               href="https://vercel.com/legal/privacy-policy" 
               target="_blank" 
@@ -45,78 +45,78 @@ export default function Privacy() {
         </section>
 
         <section>
-          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">3. Erhebung und Verarbeitung von Daten</h2>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">3. Data Collection and Processing</h2>
           
-          <h3 className="text-lg font-medium mb-2 text-[--on-background]">3.1 Server-Log-Dateien</h3>
+          <h3 className="text-lg font-medium mb-2 text-[--on-background]">3.1 Server Log Files</h3>
           <p className="leading-relaxed mb-4">
-            Bei jedem Zugriff auf diese Website werden automatisch durch den Webserver folgende Daten erfasst:
+            When accessing this website, the following data is automatically recorded by the web server:
           </p>
           <ul className="list-disc list-inside space-y-1 ml-4">
-            <li>IP-Adresse (anonymisiert)</li>
-            <li>Datum und Uhrzeit des Zugriffs</li>
-            <li>Angeforderte URL</li>
-            <li>HTTP-Statuscode</li>
-            <li>Referrer (die zuvor besuchte Seite)</li>
-            <li>User-Agent (Browser und Betriebssystem)</li>
+            <li>Anonymized IP address</li>
+            <li>Date and time of access</li>
+            <li>Requested URL</li>
+            <li>HTTP status code</li>
+            <li>Referrer (previously visited page)</li>
+            <li>User-Agent (browser and operating system)</li>
           </ul>
           <p className="leading-relaxed mt-4">
-            Diese Daten werden zur Sicherheit und Stabilität der Website verarbeitet (Art. 6 Abs. 1 lit. f DSGVO).
+            This data is processed for the security and stability of the website (Art. 6(1)(f) GDPR).
           </p>
 
-          <h3 className="text-lg font-medium mb-2 mt-6 text-[--on-background]">3.2 Kontakt per E-Mail</h3>
+          <h3 className="text-lg font-medium mb-2 mt-6 text-[--on-background]">3.2 Contact via Email</h3>
           <p className="leading-relaxed">
-            Wenn Sie uns per E-Mail kontaktieren, speichern wir Ihre E-Mail-Adresse und den Inhalt der Nachricht 
-            zur Bearbeitung Ihres Anliegens. Diese Daten werden gelöscht, sobald sie für die Bearbeitung nicht 
-            mehr erforderlich sind, spätestens jedoch nach 6 Monaten.
+            If you contact us by email, we store your email address and the content of the message 
+            to process your inquiry. This data will be deleted as soon as it is no longer necessary 
+            for processing, but no later than after 6 months.
           </p>
         </section>
 
         <section>
           <h2 className="text-xl font-semibold mb-4 text-[--on-background]">4. Cookies</h2>
           <p className="leading-relaxed mb-4">
-            Diese Website verwendet nur technisch notwendige Cookies:
+            This website only uses technically necessary cookies:
           </p>
           <ul className="list-disc list-inside space-y-1 ml-4">
             <li>
-              <strong className="text-[--on-background]">Session-Cookies:</strong> Für die Funktionalität der Website 
-              (z.B. Cookie-Consent-Speicherung). Diese werden gelöscht, sobald Sie Ihren Browser schließen.
+              <strong className="text-[--on-background]">Session Cookies:</strong> For website functionality 
+              (e.g., cookie consent storage). These are deleted when you close your browser.
             </li>
           </ul>
           <p className="leading-relaxed mt-4">
-            Der Einsatz dieser Cookies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse 
-            an der Bereitstellung einer funktionsfähigen Website).
+            The use of these cookies is based on Art. 6(1)(f) GDPR (legitimate interest in providing 
+            a functional website).
           </p>
         </section>
 
         <section>
-          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">5. Ihre Rechte</h2>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">5. Your Rights</h2>
           <p className="leading-relaxed mb-4">
-            Sie haben folgende Rechte bezüglich Ihrer personenbezogenen Daten:
+            You have the following rights regarding your personal data:
           </p>
           <ul className="list-disc list-inside space-y-1 ml-4">
-            <li>Recht auf Auskunft (Art. 15 DSGVO)</li>
-            <li>Recht auf Berichtigung (Art. 16 DSGVO)</li>
-            <li>Recht auf Löschung (Art. 17 DSGVO)</li>
-            <li>Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO)</li>
-            <li>Recht auf Datenübertragbarkeit (Art. 20 DSGVO)</li>
-            <li>Widerspruchsrecht (Art. 21 DSGVO)</li>
+            <li>Right to information (Art. 15 GDPR)</li>
+            <li>Right to rectification (Art. 16 GDPR)</li>
+            <li>Right to erasure (Art. 17 GDPR)</li>
+            <li>Right to restriction of processing (Art. 18 GDPR)</li>
+            <li>Right to data portability (Art. 20 GDPR)</li>
+            <li>Right to object (Art. 21 GDPR)</li>
           </ul>
           <p className="leading-relaxed mt-4">
-            Zur Ausübung dieser Rechte kontaktieren Sie uns bitte unter: mail@ckms.es
+            To exercise these rights, please contact: mail@ckms.es
           </p>
         </section>
 
         <section>
-          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">6. Beschwerderecht</h2>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">6. Right to Complain</h2>
           <p className="leading-relaxed">
-            Wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen die DSGVO verstößt, 
-            haben Sie das Recht, sich bei einer Aufsichtsbehörde zu beschweren (Art. 77 DSGVO).
+            If you believe that the processing of your personal data violates the GDPR, you have 
+            the right to lodge a complaint with a supervisory authority (Art. 77 GDPR).
           </p>
         </section>
       </div>
 
       <p className="mt-12 text-sm text-[--text-muted]">
-        Stand: April 2026
+        Last updated: April 2026
       </p>
     </div>
   );
