@@ -1,10 +1,1 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  // Vercel erkennt Next.js automatisch, keine extra config nötig
-  images: {
-    unoptimized: true
-  }
-};
-
-export default nextConfig;
+aW1wb3J0IHR5cGUgeyBOZXh0Q29uZmlnIH0gZnJvbSAibmV4dCI7Cgpjb25zdCBuZXh0Q29uZmlnOiBOZXh0Q29uZmlnID0gewogIC8vIFZlcmNlbCBlcmtlbm50IE5leHQuanMgYXV0b21hdGlzY2gsIGtlaW5lIGV4dHJhIGNvbmZpZyBuw7Z0aWcKICBpbWFnZXM6IHsKICAgIHVub3B0aW1pemVkOiB0cnVlCiAgfQp9OwoKZXhwb3J0IGRlZmF1bHQgbmV4dENvbmZpZzsK

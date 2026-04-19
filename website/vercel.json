@@ -1,6 +1,1 @@
-{
-  "framework": "nextjs",
-  "buildCommand": "next build",
-  "outputDirectory": ".next",
-  "rootDirectory": "website"
-}
+ewogICJmcmFtZXdvcmsiOiAibmV4dGpzIiwKICAiYnVpbGRDb21tYW5kIjogIm5leHQgYnVpbGQiCn0=
