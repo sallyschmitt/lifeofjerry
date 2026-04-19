@@ -1,8 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
-  distDir: '.next',
+  // Vercel erkennt Next.js automatisch, keine extra config nötig
   images: {
     unoptimized: true
   }
