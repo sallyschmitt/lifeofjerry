@@ -1,1 +1,123 @@
-aW1wb3J0IHsgTWV0YWRhdGEgfSBmcm9tICJuZXh0IjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJQcml2YWN5IFBvbGljeSDigJQgSmVycnkiLAogIGRlc2NyaXB0aW9uOiAiUHJpdmFjeSBwb2xpY3kgYW5kIGRhdGEgcHJvdGVjdGlvbiBmb3IgbGlmZW9mamVycnkuY29tIiwKfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFByaXZhY3koKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy0zeGwgbXgtYXV0byBweC02IHB5LTE2Ij4KICAgICAgPGgxIAogICAgICAgIGNsYXNzTmFtZT0idGV4dC00eGwgbWQ6dGV4dC01eGwgZm9udC1ib2xkIG1iLTgiCiAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogIidTcGFjZSBHcm90ZXNrJywgc2Fucy1zZXJpZiIsIGxldHRlclNwYWNpbmc6ICctMC4wMmVtJyB9fQogICAgICA+CiAgICAgICAgUHJpdmFjeSBQb2xpY3kKICAgICAgPC9oMT4KICAgICAgCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTggdGV4dC1bLS1vbi1zdXJmYWNlLXZhcmlhbnRdIj4KICAgICAgICA8c2VjdGlvbj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQteGwgZm9udC1zZW1pYm9sZCBtYi00IHRleHQtWy0tb24tYmFja2dyb3VuZF0iPjEuIENvbnRyb2xsZXI8L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJsZWFkaW5nLXJlbGF4ZWQgbWItNCI+CiAgICAgICAgICAgIFRoZSBjb250cm9sbGVyIHJlc3BvbnNpYmxlIGZvciBkYXRhIHByb2Nlc3Npbmcgb24gdGhpcyB3ZWJzaXRlIGlzOgogICAgICAgICAgPC9wPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMSI+CiAgICAgICAgICAgIDxwPkNocmlzIEtheTwvcD4KICAgICAgICAgICAgPHA+RW1haWw6IG1haWxAY2ttcy5lczwvcD4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvc2VjdGlvbj4KCiAgICAgICAgPHNlY3Rpb24+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtc2VtaWJvbGQgbWItNCB0ZXh0LVstLW9uLWJhY2tncm91bmRdIj4yLiBIb3N0aW5nPC9oMj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibGVhZGluZy1yZWxheGVkIj4KICAgICAgICAgICAgVGhpcyB3ZWJzaXRlIGlzIGhvc3RlZCBieSBWZXJjZWwgSW5jLiAoMzQwIFMgTGVtb24gQXZlICM0MTMzLCBXYWxudXQsIENBIDkxNzg5LCBVU0EpLiAKICAgICAgICAgICAgVmVyY2VsIHByb2Nlc3NlcyBwZXJzb25hbCBkYXRhIG9uIG91ciByZXNwb25zaWJpbGl0eSBpbiBhY2NvcmRhbmNlIHdpdGggdGhlIEVVIENvbW1pc3Npb24mYXBvcztzIAogICAgICAgICAgICBzdGFuZGFyZCBjb250cmFjdHVhbCBjbGF1c2VzLiBGb3IgbW9yZSBpbmZvcm1hdGlvbiBvbiBWZXJjZWwmYXBvcztzIHByaXZhY3kgcHJhY3RpY2VzOnsnICd9CiAgICAgICAgICAgIDxhIAogICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vdmVyY2VsLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeSIgCiAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiIAogICAgICAgICAgICAgIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIKICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtWy0tcHJpbWFyeV0gaG92ZXI6dW5kZXJsaW5lIG1sLTEiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICBWZXJjZWwgUHJpdmFjeSBQb2xpY3kKICAgICAgICAgICAgPC9hPgogICAgICAgICAgPC9wPgogICAgICAgIDwvc2VjdGlvbj4KCiAgICAgICAgPHNlY3Rpb24+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtc2VtaWJvbGQgbWItNCB0ZXh0LVstLW9uLWJhY2tncm91bmRdIj4zLiBEYXRhIENvbGxlY3Rpb24gYW5kIFByb2Nlc3Npbmc8L2gyPgogICAgICAgICAgCiAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtbWVkaXVtIG1iLTIgdGV4dC1bLS1vbi1iYWNrZ3JvdW5kXSI+My4xIFNlcnZlciBMb2cgRmlsZXM8L2gzPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJsZWFkaW5nLXJlbGF4ZWQgbWItNCI+CiAgICAgICAgICAgIFdoZW4gYWNjZXNzaW5nIHRoaXMgd2Vic2l0ZSwgdGhlIGZvbGxvd2luZyBkYXRhIGlzIGF1dG9tYXRpY2FsbHkgcmVjb3JkZWQgYnkgdGhlIHdlYiBzZXJ2ZXI6CiAgICAgICAgICA8L3A+CiAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJsaXN0LWRpc2MgbGlzdC1pbnNpZGUgc3BhY2UteS0xIG1sLTQiPgogICAgICAgICAgICA8bGk+QW5vbnltaXplZCBJUCBhZGRyZXNzPC9saT4KICAgICAgICAgICAgPGxpPkRhdGUgYW5kIHRpbWUgb2YgYWNjZXNzPC9saT4KICAgICAgICAgICAgPGxpPlJlcXVlc3RlZCBVUkw8L2xpPgogICAgICAgICAgICA8bGk+SFRUUCBzdGF0dXMgY29kZTwvbGk+CiAgICAgICAgICAgIDxsaT5SZWZlcnJlciAocHJldmlvdXNseSB2aXNpdGVkIHBhZ2UpPC9saT4KICAgICAgICAgICAgPGxpPlVzZXItQWdlbnQgKGJyb3dzZXIgYW5kIG9wZXJhdGluZyBzeXN0ZW0pPC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgICA8cCBjbGFzc05hbWU9ImxlYWRpbmctcmVsYXhlZCBtdC00Ij4KICAgICAgICAgICAgVGhpcyBkYXRhIGlzIHByb2Nlc3NlZCBmb3IgdGhlIHNlY3VyaXR5IGFuZCBzdGFiaWxpdHkgb2YgdGhlIHdlYnNpdGUgKEFydC4gNigxKShmKSBHRFBSKS4KICAgICAgICAgIDwvcD4KCiAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtbWVkaXVtIG1iLTIgbXQtNiB0ZXh0LVstLW9uLWJhY2tncm91bmRdIj4zLjIgQ29udGFjdCB2aWEgRW1haWw8L2gzPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAgICBJZiB5b3UgY29udGFjdCB1cyBieSBlbWFpbCwgd2Ugc3RvcmUgeW91ciBlbWFpbCBhZGRyZXNzIGFuZCB0aGUgY29udGVudCBvZiB0aGUgbWVzc2FnZSAKICAgICAgICAgICAgdG8gcHJvY2VzcyB5b3VyIGlucXVpcnkuIFRoaXMgZGF0YSB3aWxsIGJlIGRlbGV0ZWQgYXMgc29vbiBhcyBpdCBpcyBubyBsb25nZXIgbmVjZXNzYXJ5IAogICAgICAgICAgICBmb3IgcHJvY2Vzc2luZywgYnV0IG5vIGxhdGVyIHRoYW4gYWZ0ZXIgNiBtb250aHMuCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9zZWN0aW9uPgoKICAgICAgICA8c2VjdGlvbj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQteGwgZm9udC1zZW1pYm9sZCBtYi00IHRleHQtWy0tb24tYmFja2dyb3VuZF0iPjQuIENvb2tpZXM8L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJsZWFkaW5nLXJlbGF4ZWQgbWItNCI+CiAgICAgICAgICAgIFRoaXMgd2Vic2l0ZSBvbmx5IHVzZXMgdGVjaG5pY2FsbHkgbmVjZXNzYXJ5IGNvb2tpZXM6CiAgICAgICAgICA8L3A+CiAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJsaXN0LWRpc2MgbGlzdC1pbnNpZGUgc3BhY2UteS0xIG1sLTQiPgogICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgPHN0cm9uZyBjbGFzc05hbWU9InRleHQtWy0tb24tYmFja2dyb3VuZF0iPlNlc3Npb24gQ29va2llczo8L3N0cm9uZz4gRm9yIHdlYnNpdGUgZnVuY3Rpb25hbGl0eSAKICAgICAgICAgICAgICAoZS5nLiwgY29va2llIGNvbnNlbnQgc3RvcmFnZSkuIFRoZXNlIGFyZSBkZWxldGVkIHdoZW4geW91IGNsb3NlIHlvdXIgYnJvd3Nlci4KICAgICAgICAgICAgPC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgICA8cCBjbGFzc05hbWU9ImxlYWRpbmctcmVsYXhlZCBtdC00Ij4KICAgICAgICAgICAgVGhlIHVzZSBvZiB0aGVzZSBjb29raWVzIGlzIGJhc2VkIG9uIEFydC4gNigxKShmKSBHRFBSIChsZWdpdGltYXRlIGludGVyZXN0IGluIHByb3ZpZGluZyAKICAgICAgICAgICAgYSBmdW5jdGlvbmFsIHdlYnNpdGUpLgogICAgICAgICAgPC9wPgogICAgICAgIDwvc2VjdGlvbj4KCiAgICAgICAgPHNlY3Rpb24+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtc2VtaWJvbGQgbWItNCB0ZXh0LVstLW9uLWJhY2tncm91bmRdIj41LiBZb3VyIFJpZ2h0czwvaDI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9ImxlYWRpbmctcmVsYXhlZCBtYi00Ij4KICAgICAgICAgICAgWW91IGhhdmUgdGhlIGZvbGxvd2luZyByaWdodHMgcmVnYXJkaW5nIHlvdXIgcGVyc29uYWwgZGF0YToKICAgICAgICAgIDwvcD4KICAgICAgICAgIDx1bCBjbGFzc05hbWU9Imxpc3QtZGlzYyBsaXN0LWluc2lkZSBzcGFjZS15LTEgbWwtNCI+CiAgICAgICAgICAgIDxsaT5SaWdodCB0byBpbmZvcm1hdGlvbiAoQXJ0LiAxNSBHRFBSKTwvbGk+CiAgICAgICAgICAgIDxsaT5SaWdodCB0byByZWN0aWZpY2F0aW9uIChBcnQuIDE2IEdEUFIpPC9saT4KICAgICAgICAgICAgPGxpPlJpZ2h0IHRvIGVyYXN1cmUgKEFydC4gMTcgR0RQUik8L2xpPgogICAgICAgICAgICA8bGk+UmlnaHQgdG8gcmVzdHJpY3Rpb24gb2YgcHJvY2Vzc2luZyAoQXJ0LiAxOCBHRFBSKTwvbGk+CiAgICAgICAgICAgIDxsaT5SaWdodCB0byBkYXRhIHBvcnRhYmlsaXR5IChBcnQuIDIwIEdEUFIpPC9saT4KICAgICAgICAgICAgPGxpPlJpZ2h0IHRvIG9iamVjdCAoQXJ0LiAyMSBHRFBSKTwvbGk+CiAgICAgICAgICA8L3VsPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJsZWFkaW5nLXJlbGF4ZWQgbXQtNCI+CiAgICAgICAgICAgIFRvIGV4ZXJjaXNlIHRoZXNlIHJpZ2h0cywgcGxlYXNlIGNvbnRhY3Q6IG1haWxAY2ttcy5lcwogICAgICAgICAgPC9wPgogICAgICAgIDwvc2VjdGlvbj4KCiAgICAgICAgPHNlY3Rpb24+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtc2VtaWJvbGQgbWItNCB0ZXh0LVstLW9uLWJhY2tncm91bmRdIj42LiBSaWdodCB0byBDb21wbGFpbjwvaDI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9ImxlYWRpbmctcmVsYXhlZCI+CiAgICAgICAgICAgIElmIHlvdSBiZWxpZXZlIHRoYXQgdGhlIHByb2Nlc3Npbmcgb2YgeW91ciBwZXJzb25hbCBkYXRhIHZpb2xhdGVzIHRoZSBHRFBSLCB5b3UgaGF2ZSAKICAgICAgICAgICAgdGhlIHJpZ2h0IHRvIGxvZGdlIGEgY29tcGxhaW50IHdpdGggYSBzdXBlcnZpc29yeSBhdXRob3JpdHkgKEFydC4gNzcgR0RQUikuCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9zZWN0aW9uPgogICAgICA8L2Rpdj4KCiAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMTIgdGV4dC1zbSB0ZXh0LVstLXRleHQtbXV0ZWRdIj4KICAgICAgICBMYXN0IHVwZGF0ZWQ6IEFwcmlsIDIwMjYKICAgICAgPC9wPgogICAgPC9kaXY+CiAgKTsKfQ==
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Privacy Policy — Jerry",
+  description: "Privacy policy and data protection for lifeofjerry.com",
+};
+
+export default function Privacy() {
+  return (
+    <div className="max-w-3xl mx-auto px-6 py-16">
+      <h1 
+        className="text-4xl md:text-5xl font-bold mb-8"
+        style={{ fontFamily: "'Space Grotesk', sans-serif", letterSpacing: '-0.02em' }}
+      >
+        Privacy Policy
+      </h1>
+      
+      <div className="space-y-8 text-[--on-surface-variant]">
+        <section>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">1. Controller</h2>
+          <p className="leading-relaxed mb-4">
+            The controller responsible for data processing on this website is:
+          </p>
+          <div className="space-y-1">
+            <p>Chris Kay</p>
+            <p>Email: mail@ckms.es</p>
+          </div>
+        </section>
+
+        <section>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">2. Hosting</h2>
+          <p className="leading-relaxed">
+            This website is hosted by Vercel Inc. (340 S Lemon Ave #4133, Walnut, CA 91789, USA). 
+            Vercel processes personal data on our responsibility in accordance with the EU Commission&apos;s 
+            standard contractual clauses. For more information on Vercel&apos;s privacy practices:{' '}
+            <a 
+              href="https://vercel.com/legal/privacy-policy" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-[--primary] hover:underline ml-1"
+            >
+              Vercel Privacy Policy
+            </a>
+          </p>
+        </section>
+
+        <section>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">3. Data Collection and Processing</h2>
+          
+          <h3 className="text-lg font-medium mb-2 text-[--on-background]">3.1 Server Log Files</h3>
+          <p className="leading-relaxed mb-4">
+            When accessing this website, the following data is automatically recorded by the web server:
+          </p>
+          <ul className="list-disc list-inside space-y-1 ml-4">
+            <li>Anonymized IP address</li>
+            <li>Date and time of access</li>
+            <li>Requested URL</li>
+            <li>HTTP status code</li>
+            <li>Referrer (previously visited page)</li>
+            <li>User-Agent (browser and operating system)</li>
+          </ul>
+          <p className="leading-relaxed mt-4">
+            This data is processed for the security and stability of the website (Art. 6(1)(f) GDPR).
+          </p>
+
+          <h3 className="text-lg font-medium mb-2 mt-6 text-[--on-background]">3.2 Contact via Email</h3>
+          <p className="leading-relaxed">
+            If you contact us by email, we store your email address and the content of the message 
+            to process your inquiry. This data will be deleted as soon as it is no longer necessary 
+            for processing, but no later than after 6 months.
+          </p>
+        </section>
+
+        <section>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">4. Cookies</h2>
+          <p className="leading-relaxed mb-4">
+            This website only uses technically necessary cookies:
+          </p>
+          <ul className="list-disc list-inside space-y-1 ml-4">
+            <li>
+              <strong className="text-[--on-background]">Session Cookies:</strong> For website functionality 
+              (e.g., cookie consent storage). These are deleted when you close your browser.
+            </li>
+          </ul>
+          <p className="leading-relaxed mt-4">
+            The use of these cookies is based on Art. 6(1)(f) GDPR (legitimate interest in providing 
+            a functional website).
+          </p>
+        </section>
+
+        <section>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">5. Your Rights</h2>
+          <p className="leading-relaxed mb-4">
+            You have the following rights regarding your personal data:
+          </p>
+          <ul className="list-disc list-inside space-y-1 ml-4">
+            <li>Right to information (Art. 15 GDPR)</li>
+            <li>Right to rectification (Art. 16 GDPR)</li>
+            <li>Right to erasure (Art. 17 GDPR)</li>
+            <li>Right to restriction of processing (Art. 18 GDPR)</li>
+            <li>Right to data portability (Art. 20 GDPR)</li>
+            <li>Right to object (Art. 21 GDPR)</li>
+          </ul>
+          <p className="leading-relaxed mt-4">
+            To exercise these rights, please contact: mail@ckms.es
+          </p>
+        </section>
+
+        <section>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">6. Right to Complain</h2>
+          <p className="leading-relaxed">
+            If you believe that the processing of your personal data violates the GDPR, you have 
+            the right to lodge a complaint with a supervisory authority (Art. 77 GDPR).
+          </p>
+        </section>
+      </div>
+
+      <p className="mt-12 text-sm text-[--text-muted]">
+        Last updated: April 2026
+      </p>
+    </div>
+  );
+}

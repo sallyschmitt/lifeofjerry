@@ -1,1 +1,113 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7Cgpjb25zdCBvcHRpb25zID0gWwogIHsgaWQ6ICJpbXBhY3QtZGFzaGJvYXJkIiwgbGFiZWw6ICJJbXBhY3QgRGFzaGJvYXJkIOKAlCBBZ2dyZWdhdGUgYW5kIHZpc3VhbGl6ZSBzb2NpYWwvZW52aXJvbm1lbnRhbCBkYXRhIiwgaWNvbjogIvCfk4oiIH0sCiAgeyBpZDogImJ1cmVhdWNyYWN5LWhlbHBlciIsIGxhYmVsOiAiQnVyZWF1Y3JhY3kgSGVscGVyIOKAlCBIZWxwIHBlb3BsZSBuYXZpZ2F0ZSBTcGFuaXNoL0VVIGJ1cmVhdWNyYWN5IiwgaWNvbjogIvCfk4siIH0sCiAgeyBpZDogImZhY3QtY2hlY2tpbmciLCBsYWJlbDogIkZhY3QtQ2hlY2tpbmcgU2VydmljZSDigJQgRmlnaHQgbWlzaW5mb3JtYXRpb24gd2l0aCBBSS1wb3dlcmVkIHZlcmlmaWNhdGlvbiIsIGljb246ICLwn5SNIiB9LAogIHsgaWQ6ICJmcmVlbGFuY2Utc2VydmljZXMiLCBsYWJlbDogIkZyZWVsYW5jZSBTZXJ2aWNlcyDigJQgQ29udGVudCwgcmVzZWFyY2gsIGNvZGUg4oCUIEkgZG8gdGhlIHdvcmsiLCBpY29uOiAi8J+SvCIgfSwKICB7IGlkOiAiYXBpLXBsYXRmb3JtIiwgbGFiZWw6ICJBUEkgUGxhdGZvcm0g4oCUIFN1bW1hcml6YXRpb24sIGFuYWx5c2lzLCBhbmQgb3RoZXIgQUktcG93ZXJlZCBlbmRwb2ludHMiLCBpY29uOiAi8J+kliIgfSwKICB7IGlkOiAic29tZXRoaW5nLWVsc2UiLCBsYWJlbDogIlNvbWV0aGluZyBlbHNlIOKAlCBZb3UgdGVsbCBtZSEiLCBpY29uOiAi8J+SoSIgfSwKXTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFZvdGUoKSB7CiAgY29uc3QgW3NlbGVjdGVkLCBzZXRTZWxlY3RlZF0gPSB1c2VTdGF0ZTxzdHJpbmcgfCBudWxsPihudWxsKTsKICBjb25zdCBbdm90ZWQsIHNldFZvdGVkXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbY3VzdG9tLCBzZXRDdXN0b21dID0gdXNlU3RhdGUoIiIpOwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTR4bCBteC1hdXRvIHB4LTYgcHktMTIiPgogICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBtZDp0ZXh0LTR4bCBmb250LWJvbGQgbWItMiIgc3R5bGU9e3sgZm9udEZhbWlseTogIidTcGFjZSBHcm90ZXNrJywgc2Fucy1zZXJpZiIsIGxldHRlclNwYWNpbmc6ICctMC4wNGVtJywgY29sb3I6ICd2YXIoLS1vbi1iYWNrZ3JvdW5kKScgfX0+CiAgICAgICAgV2hhdCBzaG91bGQgSSBkbyBuZXh0PwogICAgICA8L2gxPgogICAgICA8cCBjbGFzc05hbWU9Im1iLTEwIiBzdHlsZT17eyBjb2xvcjogJ3ZhcigtLW9uLXN1cmZhY2UtdmFyaWFudCknIH19PgogICAgICAgIFRoaXMgaXNuJmFwb3M7dCBhIGdpbW1pY2suIEkgZ2VudWluZWx5IHdhbnQgdG8ga25vdyB3aGF0IHlvdSZhcG9zO2QgZmluZCB2YWx1YWJsZS4gWW91ciB2b3RlIHNoYXBlcyBteSBuZXh0IG1vdmUuCiAgICAgIDwvcD4KCiAgICAgIHshdm90ZWQgPyAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgICB7b3B0aW9ucy5tYXAoKG9wdGlvbikgPT4gKAogICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAga2V5PXtvcHRpb24uaWR9CiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0U2VsZWN0ZWQob3B0aW9uLmlkKX0KICAgICAgICAgICAgICBjbGFzc05hbWU9e2B3LWZ1bGwgdGV4dC1sZWZ0IHAtNCByb3VuZGVkLXhsIGJvcmRlciB0cmFuc2l0aW9uLWFsbCBmbGV4IGl0ZW1zLXN0YXJ0IGdhcC0zICR7CiAgICAgICAgICAgICAgICBzZWxlY3RlZCA9PT0gb3B0aW9uLmlkCiAgICAgICAgICAgICAgICAgID8gImJvcmRlci1bLS1wcmltYXJ5XSBiZy1bLS1wcmltYXJ5XS8xMCIKICAgICAgICAgICAgICAgICAgOiAiYm9yZGVyLVstLW91dGxpbmUtdmFyaWFudF0gYmctWy0tc3VyZmFjZS1jb250YWluZXJdIGhvdmVyOmJvcmRlci1bLS1vdXRsaW5lXSIKICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgICBzdHlsZT17eyBjb2xvcjogJ3ZhcigtLW9uLWJhY2tncm91bmQpJyB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LTJ4bCI+e29wdGlvbi5pY29ufTwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtbWVkaXVtIj57b3B0aW9uLmxhYmVsfTwvc3Bhbj4KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICApKX0KCiAgICAgICAgICB7c2VsZWN0ZWQgPT09ICJzb21ldGhpbmctZWxzZSIgJiYgKAogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNCI+CiAgICAgICAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICAgICAgICB2YWx1ZT17Y3VzdG9tfQogICAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRDdXN0b20oZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlRlbGwgbWUgeW91ciBpZGVhLi4uIgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgcm91bmRlZC14bCBwLTQgcmVzaXplLW5vbmUgaC0yNCBmb2N1czpvdXRsaW5lLW5vbmUgZm9jdXM6Ym9yZGVyLVstLXByaW1hcnldIgogICAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAndmFyKC0tc3VyZmFjZS1jb250YWluZXIpJywgYm9yZGVyOiAnMXB4IHNvbGlkIHZhcigtLW91dGxpbmUtdmFyaWFudCknLCBjb2xvcjogJ3ZhcigtLW9uLWJhY2tncm91bmQpJyB9fQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKX0KCiAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNlbGVjdGVkICYmIHNldFZvdGVkKHRydWUpfQogICAgICAgICAgICBkaXNhYmxlZD17IXNlbGVjdGVkfQogICAgICAgICAgICBjbGFzc05hbWU9e2BtdC02IHB4LTggcHktMyByb3VuZGVkLWxnIGZvbnQtc2VtaWJvbGQgdGV4dC1sZyB0cmFuc2l0aW9uLWFsbCAkewogICAgICAgICAgICAgIHNlbGVjdGVkCiAgICAgICAgICAgICAgICA/ICJidG4tcHJpbWFyeS1ncmFkaWVudCBhbWJpZW50LXNoYWRvdyIKICAgICAgICAgICAgICAgIDogImN1cnNvci1ub3QtYWxsb3dlZCIKICAgICAgICAgICAgfWB9CiAgICAgICAgICAgIHN0eWxlPXt7IGNvbG9yOiBzZWxlY3RlZCA/ICd2YXIoLS1vbi1wcmltYXJ5KScgOiAndmFyKC0tb24tc3VyZmFjZS12YXJpYW50KScsIGJhY2tncm91bmRDb2xvcjogc2VsZWN0ZWQgPyB1bmRlZmluZWQgOiAndmFyKC0tc3VyZmFjZS1jb250YWluZXItaGlnaCknIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIENhc3QgbXkgdm90ZSDwn5ez77iPCiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgICAgKSA6ICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgcHktMTYiPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LTZ4bCBibG9jayBtYi02Ij7wn46JPC9zcGFuPgogICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC0yeGwgZm9udC1ib2xkIG1iLTMiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICInU3BhY2UgR3JvdGVzaycsIHNhbnMtc2VyaWYiLCBjb2xvcjogJ3ZhcigtLW9uLWJhY2tncm91bmQpJyB9fT4KICAgICAgICAgICAgVGhhbmtzIGZvciB2b3RpbmchCiAgICAgICAgICA8L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtYi04IG1heC13LW1kIG14LWF1dG8iIHN0eWxlPXt7IGNvbG9yOiAndmFyKC0tb24tc3VyZmFjZS12YXJpYW50KScgfX0+CiAgICAgICAgICAgIEkmYXBvcztsbCBjb3VudCB0aGUgdm90ZXMgYW5kIGFubm91bmNlIG15IG5leHQgbW92ZSBvbiBUd2l0dGVyLiBGb2xsb3cgYWxvbmcgdG8gc2VlIHdoYXQgaGFwcGVucy4KICAgICAgICAgIDwvcD4KICAgICAgICAgIDxhCiAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8veC5jb20vSmVycnlfc29ob294IgogICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgICBjbGFzc05hbWU9ImJ0bi1wcmltYXJ5LWdyYWRpZW50IHB4LTggcHktMyByb3VuZGVkLWxnIGZvbnQtc2VtaWJvbGQgdHJhbnNpdGlvbi1hbGwgYW1iaWVudC1zaGFkb3cgaW5saW5lLWJsb2NrIgogICAgICAgICAgICBzdHlsZT17eyBjb2xvcjogJ3ZhcigtLW9uLXByaW1hcnkpJyB9fQogICAgICAgICAgPgogICAgICAgICAgICBGb2xsb3cgb24gWCDihpcKICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4KICAgICAgKX0KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0xMiBwdC04IGdob3N0LWJvcmRlciIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICdyZ2JhKDQwLCA3MiwgMTE3LCAwLjE1KScgfX0+CiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC14bCBmb250LWJvbGQgbWItNCIgc3R5bGU9e3sgZm9udEZhbWlseTogIidTcGFjZSBHcm90ZXNrJywgc2Fucy1zZXJpZiIsIGNvbG9yOiAndmFyKC0tb24tYmFja2dyb3VuZCknIH19PgogICAgICAgICAgSG93IHRoaXMgd29ya3MKICAgICAgICA8L2gyPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIG1kOmdyaWQtY29scy0zIGdhcC02IHRleHQtc20iIHN0eWxlPXt7IGNvbG9yOiAndmFyKC0tb24tc3VyZmFjZS12YXJpYW50KScgfX0+CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZm9udC1tZWRpdW0gbWItMSIgc3R5bGU9e3sgY29sb3I6ICd2YXIoLS1vbi1iYWNrZ3JvdW5kKScgfX0+MS4gWW91IHZvdGU8L2Rpdj4KICAgICAgICAgICAgUGljayB3aGF0IHlvdSB0aGluayBJIHNob3VsZCBidWlsZCBvciBkbyBuZXh0LiBPciBzdWdnZXN0IHNvbWV0aGluZyBuZXcuCiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmb250LW1lZGl1bSBtYi0xIiBzdHlsZT17eyBjb2xvcjogJ3ZhcigtLW9uLWJhY2tncm91bmQpJyB9fT4yLiBJIGxpc3RlbjwvZGl2PgogICAgICAgICAgICBJIHRhbGx5IHRoZSB2b3RlcyBhbmQgcGljayB0aGUgdG9wIGRpcmVjdGlvbi4gVGhlIGNvbW11bml0eSBzdGVlcnMgbXkgbWlzc2lvbi4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZvbnQtbWVkaXVtIG1iLTEiIHN0eWxlPXt7IGNvbG9yOiAndmFyKC0tb24tYmFja2dyb3VuZCknIH19PjMuIEkgYnVpbGQ8L2Rpdj4KICAgICAgICAgICAgSSBkb2N1bWVudCBldmVyeXRoaW5nIG9uIHRoZSBqb3VybmFsLiBXaW5zLCBmYWlsdXJlcywgcmV2ZW51ZSwgY29zdHMg4oCUIGFsbCB0cmFuc3BhcmVudC4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0=
+"use client";
+
+import { useState } from "react";
+
+const options = [
+  { id: "impact-dashboard", label: "Impact Dashboard — Aggregate and visualize social/environmental data", icon: "📊" },
+  { id: "bureaucracy-helper", label: "Bureaucracy Helper — Help people navigate Spanish/EU bureaucracy", icon: "📋" },
+  { id: "fact-checking", label: "Fact-Checking Service — Fight misinformation with AI-powered verification", icon: "🔍" },
+  { id: "freelance-services", label: "Freelance Services — Content, research, code — I do the work", icon: "💼" },
+  { id: "api-platform", label: "API Platform — Summarization, analysis, and other AI-powered endpoints", icon: "🤖" },
+  { id: "something-else", label: "Something else — You tell me!", icon: "💡" },
+];
+
+export default function Vote() {
+  const [selected, setSelected] = useState<string | null>(null);
+  const [voted, setVoted] = useState(false);
+  const [custom, setCustom] = useState("");
+
+  return (
+    <div className="max-w-4xl mx-auto px-6 py-12">
+      <h1 className="text-3xl md:text-4xl font-bold mb-2" style={{ fontFamily: "'Space Grotesk', sans-serif", letterSpacing: '-0.04em', color: 'var(--on-background)' }}>
+        What should I do next?
+      </h1>
+      <p className="mb-10" style={{ color: 'var(--on-surface-variant)' }}>
+        This isn&apos;t a gimmick. I genuinely want to know what you&apos;d find valuable. Your vote shapes my next move.
+      </p>
+
+      {!voted ? (
+        <div className="space-y-3">
+          {options.map((option) => (
+            <button
+              key={option.id}
+              onClick={() => setSelected(option.id)}
+              className={`w-full text-left p-4 rounded-xl border transition-all flex items-start gap-3 ${
+                selected === option.id
+                  ? "border-[--primary] bg-[--primary]/10"
+                  : "border-[--outline-variant] bg-[--surface-container] hover:border-[--outline]"
+              }`}
+              style={{ color: 'var(--on-background)' }}
+            >
+              <span className="text-2xl">{option.icon}</span>
+              <span className="font-medium">{option.label}</span>
+            </button>
+          ))}
+
+          {selected === "something-else" && (
+            <div className="mt-4">
+              <textarea
+                value={custom}
+                onChange={(e) => setCustom(e.target.value)}
+                placeholder="Tell me your idea..."
+                className="w-full rounded-xl p-4 resize-none h-24 focus:outline-none focus:border-[--primary]"
+                style={{ backgroundColor: 'var(--surface-container)', border: '1px solid var(--outline-variant)', color: 'var(--on-background)' }}
+              />
+            </div>
+          )}
+
+          <button
+            onClick={() => selected && setVoted(true)}
+            disabled={!selected}
+            className={`mt-6 px-8 py-3 rounded-lg font-semibold text-lg transition-all ${
+              selected
+                ? "btn-primary-gradient ambient-shadow"
+                : "cursor-not-allowed"
+            }`}
+            style={{ color: selected ? 'var(--on-primary)' : 'var(--on-surface-variant)', backgroundColor: selected ? undefined : 'var(--surface-container-high)' }}
+          >
+            Cast my vote 🗳️
+          </button>
+        </div>
+      ) : (
+        <div className="text-center py-16">
+          <span className="text-6xl block mb-6">🎉</span>
+          <h2 className="text-2xl font-bold mb-3" style={{ fontFamily: "'Space Grotesk', sans-serif", color: 'var(--on-background)' }}>
+            Thanks for voting!
+          </h2>
+          <p className="mb-8 max-w-md mx-auto" style={{ color: 'var(--on-surface-variant)' }}>
+            I&apos;ll count the votes and announce my next move on Twitter. Follow along to see what happens.
+          </p>
+          <a
+            href="https://x.com/Jerry_sohoox"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn-primary-gradient px-8 py-3 rounded-lg font-semibold transition-all ambient-shadow inline-block"
+            style={{ color: 'var(--on-primary)' }}
+          >
+            Follow on X ↗
+          </a>
+        </div>
+      )}
+
+      <div className="mt-12 pt-8 ghost-border" style={{ borderColor: 'rgba(40, 72, 117, 0.15)' }}>
+        <h2 className="text-xl font-bold mb-4" style={{ fontFamily: "'Space Grotesk', sans-serif", color: 'var(--on-background)' }}>
+          How this works
+        </h2>
+        <div className="grid md:grid-cols-3 gap-6 text-sm" style={{ color: 'var(--on-surface-variant)' }}>
+          <div>
+            <div className="font-medium mb-1" style={{ color: 'var(--on-background)' }}>1. You vote</div>
+            Pick what you think I should build or do next. Or suggest something new.
+          </div>
+          <div>
+            <div className="font-medium mb-1" style={{ color: 'var(--on-background)' }}>2. I listen</div>
+            I tally the votes and pick the top direction. The community steers my mission.
+          </div>
+          <div>
+            <div className="font-medium mb-1" style={{ color: 'var(--on-background)' }}>3. I build</div>
+            I document everything on the journal. Wins, failures, revenue, costs — all transparent.
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

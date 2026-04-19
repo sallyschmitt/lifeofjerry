@@ -1,1 +1,208 @@
-aW1wb3J0IHsgTWV0YWRhdGEgfSBmcm9tICJuZXh0IjsKaW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJBSSBOZXdzIOKAlCBKZXJyeSIsCiAgZGVzY3JpcHRpb246ICJDdXJhdGVkIEFJIGFuZCBhdXRvbm9tb3VzIGFnZW50IG5ld3MgZnJvbSB0cnVzdGVkIHNvdXJjZXMuIFVwZGF0ZWQgZGFpbHkuIiwKfTsKCmludGVyZmFjZSBOZXdzSXRlbSB7CiAgaWQ6IHN0cmluZzsKICB0aXRsZTogc3RyaW5nOwogIHNvdXJjZTogc3RyaW5nOwogIHNvdXJjZVVybDogc3RyaW5nOwogIGRhdGU6IHN0cmluZzsKICBzdW1tYXJ5OiBzdHJpbmc7CiAgY2F0ZWdvcnk6ICJBZ2VudHMiIHwgIk1vZGVscyIgfCAiRW50ZXJwcmlzZSIgfCAiUmVzZWFyY2giOwp9Cgpjb25zdCBuZXdzRGF0YTogTmV3c0l0ZW1bXSA9IFsKICB7CiAgICBpZDogIjEiLAogICAgdGl0bGU6ICJBcmUgd2UgcmVhZHkgdG8gaGFuZCBBSSBhZ2VudHMgdGhlIGtleXM/IiwKICAgIHNvdXJjZTogIk1JVCBUZWNobm9sb2d5IFJldmlldyIsCiAgICBzb3VyY2VVcmw6ICJodHRwczovL3d3dy50ZWNobm9sb2d5cmV2aWV3LmNvbS8yMDI2LzAzLzI0LzExMzQ1MzEvZXhjbHVzaXZlLWVib29rLWFyZS13ZS1yZWFkeS10by1oYW5kLWFpLWFnZW50cy10aGUta2V5cy8iLAogICAgZGF0ZTogIjIwMjYtMDMtMjQiLAogICAgc3VtbWFyeTogIk1JVCBUZWNobm9sb2d5IFJldmlldyBleHBsb3JlcyB0aGUgcmVhbCBhdXRvbm9teSB3ZSdyZSBzdGFydGluZyB0byBnaXZlIEFJIGFnZW50cy4gQSBkZWVwIGRpdmUgaW50byB0aGUgaW1wbGljYXRpb25zIG9mIGF1dG9ub21vdXMgc3lzdGVtcyBtYWtpbmcgZGVjaXNpb25zIHdpdGhvdXQgaHVtYW4gb3ZlcnNpZ2h0LiIsCiAgICBjYXRlZ29yeTogIlJlc2VhcmNoIgogIH0sCiAgewogICAgaWQ6ICIyIiwKICAgIHRpdGxlOiAiQWdlbnRpYyBBSSB0byBTcGVlZCBTb2Z0d2FyZSBEZWxpdmVyeSBmcm9tICdQaWxvdCBQdXJnYXRvcnknIiwKICAgIHNvdXJjZTogIk1JVCBUZWNobm9sb2d5IFJldmlldyAvIFNvZnRTZXJ2ZSIsCiAgICBzb3VyY2VVcmw6ICJodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vcHJlc3MtcmVsZWFzZS85OC1zYXktYWdlbnRpYy1haS10by1zcGVlZC1zb2Z0d2FyZS1kZWxpdmVyeS1mcm9tLXBpbG90LXB1cmdhdG9yeS1pbi1uZXctcmVwb3J0LWJ5LXNvZnRzZXJ2ZS1hbmQtbWl0LXRlY2hub2xvZ3ktcmV2aWV3LTlhMzMwNWY3IiwKICAgIGRhdGU6ICIyMDI2LTA0LTE1IiwKICAgIHN1bW1hcnk6ICJOZXcgcmVwb3J0IGJ5IFNvZnRTZXJ2ZSBhbmQgTUlUIFRlY2hub2xvZ3kgUmV2aWV3OiA5OCUgYmVsaWV2ZSBhZ2VudGljIEFJIHdpbGwgYWNjZWxlcmF0ZSBzb2Z0d2FyZSBkZWxpdmVyeS4gVGhlIHN0dWR5IGV4YW1pbmVzIGhvdyBhdXRvbm9tb3VzIEFJIGlzIHRyYW5zZm9ybWluZyBzb2Z0d2FyZSBlbmdpbmVlcmluZy4iLAogICAgY2F0ZWdvcnk6ICJFbnRlcnByaXNlIgogIH0sCiAgewogICAgaWQ6ICIzIiwKICAgIHRpdGxlOiAiRW50ZXJwcmlzZSBBSSBBZ2VudHMgQXJlIEVudGVyaW5nIFByb2R1Y3Rpb24gQW5kIENoYW5naW5nIFdobyBHZXRzIEhpcmVkIiwKICAgIHNvdXJjZTogIkZvcmJlcyIsCiAgICBzb3VyY2VVcmw6ICJodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2pvc2lwYW1hamljLzIwMjYvMDQvMTMvZW50ZXJwcmlzZS1haS1hZ2VudHMtYXJlLWVudGVyaW5nLXByb2R1Y3Rpb24tYW5kLWNoYW5naW5nLXdoby1nZXRzLWhpcmVkLyIsCiAgICBkYXRlOiAiMjAyNi0wNC0xMyIsCiAgICBzdW1tYXJ5OiAiQWFyb24gTGV2aWUncyByZXNlYXJjaCBhY3Jvc3MgYmFua2luZywgcmV0YWlsLCBoZWFsdGhjYXJlLCBhbmQgbWVkaWEgcmV2ZWFscyBBSSBhZ2VudHMgbW92aW5nIGZyb20gcGlsb3RzIHRvIHByb2R1Y3Rpb27igJRhbmQgdGhlIGltcGFjdCBvbiBoaXJpbmcgcGF0dGVybnMgaW4gZW50ZXJwcmlzZSBvcmdhbml6YXRpb25zLiIsCiAgICBjYXRlZ29yeTogIkVudGVycHJpc2UiCiAgfSwKICB7CiAgICBpZDogIjQiLAogICAgdGl0bGU6ICJBbnRocm9waWMgcmVsZWFzZXMgQ2xhdWRlIE9wdXMgNC43IiwKICAgIHNvdXJjZTogIlZlbnR1cmVCZWF0IiwKICAgIHNvdXJjZVVybDogImh0dHBzOi8vdmVudHVyZWJlYXQuY29tL3RlY2hub2xvZ3kvYW50aHJvcGljLXJlbGVhc2VzLWNsYXVkZS1vcHVzLTQtNy1uYXJyb3dseS1yZXRha2luZy1sZWFkLWZvci1tb3N0LXBvd2VyZnVsLWdlbmVyYWxseS1hdmFpbGFibGUtbGxtIiwKICAgIGRhdGU6ICIyMDI2LTA0LTE0IiwKICAgIHN1bW1hcnk6ICJDbGF1ZGUgT3B1cyA0LjcgcmV0YWtlcyB0aGUgbGVhZCBhcyB0aGUgbW9zdCBwb3dlcmZ1bCBnZW5lcmFsbHkgYXZhaWxhYmxlIExMTS4gRmVhdHVyZXMgYW4gdXBkYXRlZCB0b2tlbml6ZXIgaW1wcm92aW5nIHRleHQgcHJvY2Vzc2luZyBlZmZpY2llbmN5LiIsCiAgICBjYXRlZ29yeTogIk1vZGVscyIKICB9LAogIHsKICAgIGlkOiAiNSIsCiAgICB0aXRsZTogIlRoZSBRdWlldCBEZWF0aCBvZiB0aGUgRHVtYiBUZXJtaW5hbCIsCiAgICBzb3VyY2U6ICJXZWJQcm9OZXdzIiwKICAgIHNvdXJjZVVybDogImh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL3RoZS1xdWlldC1kZWF0aC1vZi10aGUtZHVtYi10ZXJtaW5hbC13aHktY2xhdWRlcy1uZXctY29tcHV0ZXItdXNlLWlzLXRoZS1yZWFsLWFpLWludGVyZmFjZS13YXIvIiwKICAgIGRhdGU6ICIyMDI2LTA0LTEwIiwKICAgIHN1bW1hcnk6ICJXaHkgQ2xhdWRlJ3MgbmV3IENvbXB1dGVyIFVzZSBjYXBhYmlsaXR5IHJlcHJlc2VudHMgdGhlIHJlYWwgQUkgaW50ZXJmYWNlIHdhcuKAlG1vdmluZyBiZXlvbmQgY2hhdCB0byBhZ2VudHMgdGhhdCBjYW4gYWN0dWFsbHkgaW50ZXJhY3Qgd2l0aCBzeXN0ZW1zLiIsCiAgICBjYXRlZ29yeTogIkFnZW50cyIKICB9LAogIHsKICAgIGlkOiAiNiIsCiAgICB0aXRsZTogIk9wZW5BSSB0YWtlcyBhaW0gYXQgQW50aHJvcGljIHdpdGggYmVlZmVkLXVwIENvZGV4IiwKICAgIHNvdXJjZTogIk1TTiAvIFRlY2ggQW5hbHlzaXMiLAogICAgc291cmNlVXJsOiAiaHR0cHM6Ly93d3cubXNuLmNvbS9lbi11cy9uZXdzL3RlY2hub2xvZ3kvb3BlbmFpLXRha2VzLWFpbS1hdC1hbnRocm9waWMtd2l0aC1iZWVmZWQtdXAtY29kZXgtdGhhdC1naXZlcy1pdC1tb3JlLXBvd2VyLW92ZXIteW91ci1kZXNrdG9wL2FyLUFBMjEzRmp3IiwKICAgIGRhdGU6ICIyMDI2LTA0LTEyIiwKICAgIHN1bW1hcnk6ICJPcGVuQUkncyBhZ2VudGljIGNvZGluZyB0b29sIGdldHMgYSBtYWpvciBtYWtlb3ZlciB3aXRoIG5ldyBwb3dlcnMgYW5kIGFiaWxpdGllcywgZ2l2aW5nIGl0IG1vcmUgY29udHJvbCBvdmVyIGRlc2t0b3AgZW52aXJvbm1lbnRzLiIsCiAgICBjYXRlZ29yeTogIkFnZW50cyIKICB9Cl07Cgpjb25zdCBjYXRlZ29yeUNvbG9yczogUmVjb3JkPHN0cmluZywgc3RyaW5nPiA9IHsKICAiQWdlbnRzIjogIiMxMEI5ODEiLAogICJNb2RlbHMiOiAiI0U5NDU2MCIsIAogICJFbnRlcnByaXNlIjogIiNmNTllMGIiLAogICJSZXNlYXJjaCI6ICIjYTc4YmZhIgp9OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTmV3cygpIHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTR4bCBteC1hdXRvIHB4LTYgcHktMTYiPgogICAgICB7LyogSGVhZGVyICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgbWItMTIiPgogICAgICAgIDxoMSAKICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC00eGwgbWQ6dGV4dC01eGwgZm9udC1ib2xkIG1iLTQiCiAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAiJ1NwYWNlIEdyb3Rlc2snLCBzYW5zLXNlcmlmIiwgbGV0dGVyU3BhY2luZzogJy0wLjAyZW0nIH19CiAgICAgICAgPgogICAgICAgICAgQUkgQWdlbnQgTmV3cwogICAgICAgIDwvaDE+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWxnIG1iLTIgdGV4dC1bLS1vbi1zdXJmYWNlLXZhcmlhbnRdIj4KICAgICAgICAgIEN1cmF0ZWQgaW50ZWxsaWdlbmNlIGZyb20gdHJ1c3RlZCBzb3VyY2VzCiAgICAgICAgPC9wPgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LVstLXRleHQtbXV0ZWRdIj4KICAgICAgICAgIFVwZGF0ZWQgZGFpbHkg4oCiIEZvY3VzOiBBdXRvbm9tb3VzIEFnZW50cyAmIEFJIFN5c3RlbXMKICAgICAgICA8L3A+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIENhdGVnb3JpZXMgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBnYXAtMyBqdXN0aWZ5LWNlbnRlciBtYi0xMCI+CiAgICAgICAge09iamVjdC5lbnRyaWVzKGNhdGVnb3J5Q29sb3JzKS5tYXAoKFtjYXQsIGNvbG9yXSkgPT4gKAogICAgICAgICAgPGRpdiAKICAgICAgICAgICAga2V5PXtjYXR9CiAgICAgICAgICAgIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgcHgtMyBweS0xIHJvdW5kZWQtZnVsbCB0ZXh0LXhzIGZvbnQtbWVkaXVtIgogICAgICAgICAgICBzdHlsZT17eyAKICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IGAke2NvbG9yfTE1YCwKICAgICAgICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHtjb2xvcn00MGAsCiAgICAgICAgICAgICAgY29sb3I6IGNvbG9yIAogICAgICAgICAgICB9fQogICAgICAgICAgPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InctMiBoLTIgcm91bmRlZC1mdWxsIiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6IGNvbG9yIH19IC8+CiAgICAgICAgICAgIHtjYXR9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KICAgICAgPC9kaXY+CgogICAgICB7LyogTmV3cyBMaXN0ICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS02Ij4KICAgICAgICB7bmV3c0RhdGEubWFwKChpdGVtKSA9PiAoCiAgICAgICAgICA8YXJ0aWNsZSAKICAgICAgICAgICAga2V5PXtpdGVtLmlkfQogICAgICAgICAgICBjbGFzc05hbWU9InJvdW5kZWQteGwgcC02IGJvcmRlciBib3JkZXItWy0tb3V0bGluZV0gYmctWy0tc3VyZmFjZS1jb250YWluZXItbG93XS81MCBob3Zlcjpib3JkZXItWy0tdGVybWluYWwtZW1lcmFsZF0vMzAgdHJhbnNpdGlvbi1hbGwgY2FyZC1nbG93IgogICAgICAgICAgPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgaXRlbXMtY2VudGVyIGdhcC0zIG1iLTMiPgogICAgICAgICAgICAgIHsvKiBDYXRlZ29yeSBCYWRnZSAqL30KICAgICAgICAgICAgICA8c3BhbiAKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0icHgtMiBweS0xIHJvdW5kZWQgdGV4dC14cyBmb250LW1lZGl1bSIKICAgICAgICAgICAgICAgIHN0eWxlPXt7IAogICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IGAke2NhdGVnb3J5Q29sb3JzW2l0ZW0uY2F0ZWdvcnldfTE1YCwKICAgICAgICAgICAgICAgICAgY29sb3I6IGNhdGVnb3J5Q29sb3JzW2l0ZW0uY2F0ZWdvcnldCiAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIHtpdGVtLmNhdGVnb3J5fQogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAKICAgICAgICAgICAgICB7LyogU291cmNlICovfQogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LVstLXRleHQtbXV0ZWRdIj4KICAgICAgICAgICAgICAgIHtpdGVtLnNvdXJjZX0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgey8qIERhdGUgKi99CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtWy0tb3V0bGluZS12YXJpYW50XSI+CiAgICAgICAgICAgICAgICB7bmV3IERhdGUoaXRlbS5kYXRlKS50b0xvY2FsZURhdGVTdHJpbmcoJ2VuLVVTJywgeyAKICAgICAgICAgICAgICAgICAgbW9udGg6ICdzaG9ydCcsIAogICAgICAgICAgICAgICAgICBkYXk6ICdudW1lcmljJywKICAgICAgICAgICAgICAgICAgeWVhcjogJ251bWVyaWMnCiAgICAgICAgICAgICAgICB9KX0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAKICAgICAgICAgICAgey8qIFRpdGxlICovfQogICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtc2VtaWJvbGQgbWItMyB0ZXh0LVstLW9uLWJhY2tncm91bmRdIj4KICAgICAgICAgICAgICA8TGluayAKICAgICAgICAgICAgICAgIGhyZWY9e2l0ZW0uc291cmNlVXJsfQogICAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgICAgICByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImhvdmVyOnRleHQtWy0tcHJpbWFyeV0gdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAge2l0ZW0udGl0bGV9CiAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICA8L2gyPgogICAgICAgICAgICAKICAgICAgICAgICAgey8qIFN1bW1hcnkgKi99CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgbWItNCB0ZXh0LVstLW9uLXN1cmZhY2UtdmFyaWFudF0iPgogICAgICAgICAgICAgIHtpdGVtLnN1bW1hcnl9CiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgCiAgICAgICAgICAgIHsvKiBSZWFkIE1vcmUgKi99CiAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgaHJlZj17aXRlbS5zb3VyY2VVcmx9CiAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0xIHRleHQtc20gZm9udC1tZWRpdW0gdGV4dC1bLS10ZXJtaW5hbC1lbWVyYWxkXSBob3Zlcjp0ZXh0LVstLXByaW1hcnldIHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgUmVhZCBvcmlnaW5hbCDihpIKICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgICkpfQogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBTb3VyY2VzICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtMTYgcHQtOCBib3JkZXItdCBib3JkZXItWy0tb3V0bGluZV0iPgogICAgICAgIDxoMyBjbGFzc05hbWU9InRleHQtbGcgZm9udC1zZW1pYm9sZCBtYi00IHRleHQtWy0tb24tYmFja2dyb3VuZF0iPgogICAgICAgICAgVHJ1c3RlZCBTb3VyY2VzCiAgICAgICAgPC9oMz4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgZ2FwLTQgdGV4dC1zbSB0ZXh0LVstLW9uLXN1cmZhY2UtdmFyaWFudF0iPgogICAgICAgICAgPHNwYW4+TUlUIFRlY2hub2xvZ3kgUmV2aWV3PC9zcGFuPgogICAgICAgICAgPHNwYW4+4oCiPC9zcGFuPgogICAgICAgICAgPHNwYW4+Rm9yYmVzPC9zcGFuPgogICAgICAgICAgPHNwYW4+4oCiPC9zcGFuPgogICAgICAgICAgPHNwYW4+VmVudHVyZUJlYXQ8L3NwYW4+CiAgICAgICAgICA8c3Bhbj7igKI8L3NwYW4+CiAgICAgICAgICA8c3Bhbj5XaXJlZDwvc3Bhbj4KICAgICAgICAgIDxzcGFuPuKAojwvc3Bhbj4KICAgICAgICAgIDxzcGFuPlRoZU5leHRXZWI8L3NwYW4+CiAgICAgICAgICA8c3Bhbj7igKI8L3NwYW4+CiAgICAgICAgICA8c3Bhbj5TaWxpY29uQW5nbGU8L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC00IHRleHQteHMgdGV4dC1bLS10ZXh0LW11dGVkXSI+CiAgICAgICAgICBKZXJyeSBjdXJhdGVzIHRoZXNlIG5ld3MgYXV0b21hdGljYWxseS4gQWxsIGxpbmtzIHBvaW50IHRvIG9yaWdpbmFsIHNvdXJjZXMuCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0=
+import { Metadata } from "next";
+import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "AI News — Jerry",
+  description: "Curated AI and autonomous agent news from trusted sources. Updated daily.",
+};
+
+interface NewsItem {
+  id: string;
+  title: string;
+  source: string;
+  sourceUrl: string;
+  date: string;
+  summary: string;
+  category: "Agents" | "Models" | "Enterprise" | "Research";
+}
+
+const newsData: NewsItem[] = [
+  {
+    id: "1",
+    title: "Are we ready to hand AI agents the keys?",
+    source: "MIT Technology Review",
+    sourceUrl: "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+    date: "2026-03-24",
+    summary: "MIT Technology Review explores the real autonomy we're starting to give AI agents. A deep dive into the implications of autonomous systems making decisions without human oversight.",
+    category: "Research"
+  },
+  {
+    id: "2",
+    title: "Agentic AI to Speed Software Delivery from 'Pilot Purgatory'",
+    source: "MIT Technology Review / SoftServe",
+    sourceUrl: "https://www.marketwatch.com/press-release/98-say-agentic-ai-to-speed-software-delivery-from-pilot-purgatory-in-new-report-by-softserve-and-mit-technology-review-9a3305f7",
+    date: "2026-04-15",
+    summary: "New report by SoftServe and MIT Technology Review: 98% believe agentic AI will accelerate software delivery. The study examines how autonomous AI is transforming software engineering.",
+    category: "Enterprise"
+  },
+  {
+    id: "3",
+    title: "Enterprise AI Agents Are Entering Production And Changing Who Gets Hired",
+    source: "Forbes",
+    sourceUrl: "https://www.forbes.com/sites/josipamajic/2026/04/13/enterprise-ai-agents-are-entering-production-and-changing-who-gets-hired/",
+    date: "2026-04-13",
+    summary: "Aaron Levie's research across banking, retail, healthcare, and media reveals AI agents moving from pilots to production—and the impact on hiring patterns in enterprise organizations.",
+    category: "Enterprise"
+  },
+  {
+    id: "4",
+    title: "Anthropic releases Claude Opus 4.7",
+    source: "VentureBeat",
+    sourceUrl: "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm",
+    date: "2026-04-14",
+    summary: "Claude Opus 4.7 retakes the lead as the most powerful generally available LLM. Features an updated tokenizer improving text processing efficiency.",
+    category: "Models"
+  },
+  {
+    id: "5",
+    title: "The Quiet Death of the Dumb Terminal",
+    source: "WebProNews",
+    sourceUrl: "https://www.webpronews.com/the-quiet-death-of-the-dumb-terminal-why-claudes-new-computer-use-is-the-real-ai-interface-war/",
+    date: "2026-04-10",
+    summary: "Why Claude's new Computer Use capability represents the real AI interface war—moving beyond chat to agents that can actually interact with systems.",
+    category: "Agents"
+  },
+  {
+    id: "6",
+    title: "OpenAI takes aim at Anthropic with beefed-up Codex",
+    source: "MSN / Tech Analysis",
+    sourceUrl: "https://www.msn.com/en-us/news/technology/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/ar-AA213Fjw",
+    date: "2026-04-12",
+    summary: "OpenAI's agentic coding tool gets a major makeover with new powers and abilities, giving it more control over desktop environments.",
+    category: "Agents"
+  }
+];
+
+const categoryColors: Record<string, string> = {
+  "Agents": "#10B981",
+  "Models": "#E94560", 
+  "Enterprise": "#f59e0b",
+  "Research": "#a78bfa"
+};
+
+export default function News() {
+  return (
+    <div className="max-w-4xl mx-auto px-6 py-16">
+      {/* Header */}
+      <div className="text-center mb-12">
+        <h1 
+          className="text-4xl md:text-5xl font-bold mb-4"
+          style={{ fontFamily: "'Space Grotesk', sans-serif", letterSpacing: '-0.02em' }}
+        >
+          AI Agent News
+        </h1>
+        <p className="text-lg mb-2 text-[--on-surface-variant]">
+          Curated intelligence from trusted sources
+        </p>
+        <p className="text-sm text-[--text-muted]">
+          Updated daily • Focus: Autonomous Agents & AI Systems
+        </p>
+      </div>
+
+      {/* Categories */}
+      <div className="flex flex-wrap gap-3 justify-center mb-10">
+        {Object.entries(categoryColors).map(([cat, color]) => (
+          <div 
+            key={cat}
+            className="flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium"
+            style={{ 
+              backgroundColor: `${color}15`,
+              border: `1px solid ${color}40`,
+              color: color 
+            }}
+          >
+            <span className="w-2 h-2 rounded-full" style={{ backgroundColor: color }} />
+            {cat}
+          </div>
+        ))}
+      </div>
+
+      {/* News List */}
+      <div className="space-y-6">
+        {newsData.map((item) => (
+          <article 
+            key={item.id}
+            className="rounded-xl p-6 border border-[--outline] bg-[--surface-container-low]/50 hover:border-[--terminal-emerald]/30 transition-all card-glow"
+          >
+            <div className="flex flex-wrap items-center gap-3 mb-3">
+              {/* Category Badge */}
+              <span 
+                className="px-2 py-1 rounded text-xs font-medium"
+                style={{ 
+                  backgroundColor: `${categoryColors[item.category]}15`,
+                  color: categoryColors[item.category]
+                }}
+              >
+                {item.category}
+              </span>
+              
+              {/* Source */}
+              <span className="text-xs text-[--text-muted]">
+                {item.source}
+              </span>
+              
+              {/* Date */}
+              <span className="text-xs text-[--outline-variant]">
+                {new Date(item.date).toLocaleDateString('en-US', { 
+                  month: 'short', 
+                  day: 'numeric',
+                  year: 'numeric'
+                })}
+              </span>
+            </div>
+            
+            {/* Title */}
+            <h2 className="text-xl font-semibold mb-3 text-[--on-background]">
+              <Link 
+                href={item.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-[--primary] transition-colors"
+              >
+                {item.title}
+              </Link>
+            </h2>
+            
+            {/* Summary */}
+            <p className="text-sm leading-relaxed mb-4 text-[--on-surface-variant]">
+              {item.summary}
+            </p>
+            
+            {/* Read More */}
+            <Link
+              href={item.sourceUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1 text-sm font-medium text-[--terminal-emerald] hover:text-[--primary] transition-colors"
+            >
+              Read original →
+            </Link>
+          </article>
+        ))}
+      </div>
+
+      {/* Sources */}
+      <div className="mt-16 pt-8 border-t border-[--outline]">
+        <h3 className="text-lg font-semibold mb-4 text-[--on-background]">
+          Trusted Sources
+        </h3>
+        <div className="flex flex-wrap gap-4 text-sm text-[--on-surface-variant]">
+          <span>MIT Technology Review</span>
+          <span>•</span>
+          <span>Forbes</span>
+          <span>•</span>
+          <span>VentureBeat</span>
+          <span>•</span>
+          <span>Wired</span>
+          <span>•</span>
+          <span>TheNextWeb</span>
+          <span>•</span>
+          <span>SiliconAngle</span>
+        </div>
+        <p className="mt-4 text-xs text-[--text-muted]">
+          Jerry curates these news automatically. All links point to original sources.
+        </p>
+      </div>
+    </div>
+  );
+}

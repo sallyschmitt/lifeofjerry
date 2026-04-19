@@ -1,1 +1,137 @@
-aW1wb3J0IHsgTWV0YWRhdGEgfSBmcm9tICJuZXh0IjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJDb29raWUgUG9saWN5IOKAlCBKZXJyeSIsCiAgZGVzY3JpcHRpb246ICJDb29raWUgcG9saWN5IGFuZCBzZXR0aW5ncyBmb3IgbGlmZW9mamVycnkuY29tIiwKfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIENvb2tpZXMoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy0zeGwgbXgtYXV0byBweC02IHB5LTE2Ij4KICAgICAgPGgxIAogICAgICAgIGNsYXNzTmFtZT0idGV4dC00eGwgbWQ6dGV4dC01eGwgZm9udC1ib2xkIG1iLTgiCiAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogIidTcGFjZSBHcm90ZXNrJywgc2Fucy1zZXJpZiIsIGxldHRlclNwYWNpbmc6ICctMC4wMmVtJyB9fQogICAgICA+CiAgICAgICAgQ29va2llIFBvbGljeQogICAgICA8L2gxPgogICAgICAKICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktOCB0ZXh0LVstLW9uLXN1cmZhY2UtdmFyaWFudF0iPgogICAgICAgIDxzZWN0aW9uPgogICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC14bCBmb250LXNlbWlib2xkIG1iLTQgdGV4dC1bLS1vbi1iYWNrZ3JvdW5kXSI+V2hhdCBBcmUgQ29va2llcz88L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAgICBDb29raWVzIGFyZSBzbWFsbCB0ZXh0IGZpbGVzIHN0b3JlZCBvbiB5b3VyIGRldmljZSB3aGVuIHlvdSB2aXNpdCBhIHdlYnNpdGUuIAogICAgICAgICAgICBUaGV5IGFsbG93IHRoZSB3ZWJzaXRlIHRvIHJlbWVtYmVyIHlvdXIgYWN0aW9ucyBhbmQgcHJlZmVyZW5jZXMgKHN1Y2ggYXMgbG9naW4sIGxhbmd1YWdlLCAKICAgICAgICAgICAgZm9udCBzaXplKSBvdmVyIGEgcGVyaW9kIG9mIHRpbWUuCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9zZWN0aW9uPgoKICAgICAgICA8c2VjdGlvbj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQteGwgZm9udC1zZW1pYm9sZCBtYi00IHRleHQtWy0tb24tYmFja2dyb3VuZF0iPldoYXQgQ29va2llcyBEbyBXZSBVc2U/PC9oMj4KICAgICAgICAgIAogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNiI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXIgYm9yZGVyLVstLW91dGxpbmUtdmFyaWFudF0gcm91bmRlZC1sZyBwLTQiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gbWItMiI+CiAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtWy0tb24tYmFja2dyb3VuZF0iPkVzc2VudGlhbCBDb29raWVzPC9oMz4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBiZy1bLS10ZXJtaW5hbC1lbWVyYWxkXS8yMCB0ZXh0LVstLXRlcm1pbmFsLWVtZXJhbGRdIHB4LTIgcHktMSByb3VuZGVkIj4KICAgICAgICAgICAgICAgICAgQWx3YXlzIEFjdGl2ZQogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAgICAgICAgVGhlc2UgY29va2llcyBhcmUgZXNzZW50aWFsIGZvciB0aGUgYmFzaWMgZnVuY3Rpb25hbGl0eSBvZiB0aGUgd2Vic2l0ZSBhbmQgY2Fubm90IAogICAgICAgICAgICAgICAgYmUgZGlzYWJsZWQuIFRoZXkgc3RvcmUsIGZvciBleGFtcGxlLCB5b3VyIGNvb2tpZSBjb25zZW50IHByZWZlcmVuY2VzLgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJ0ZXh0LXNtIG10LTIgc3BhY2UteS0xIHRleHQtWy0tdGV4dC1tdXRlZF0iPgogICAgICAgICAgICAgICAgPGxpPuKAoiBjb29raWUtY29uc2VudDogU3RvcmVzIHlvdXIgY29va2llIGNvbnNlbnQgcHJlZmVyZW5jZSAoMSB5ZWFyKTwvbGk+CiAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYm9yZGVyIGJvcmRlci1bLS1vdXRsaW5lLXZhcmlhbnRdIHJvdW5kZWQtbGcgcC00IG9wYWNpdHktNjAiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gbWItMiI+CiAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtWy0tb24tYmFja2dyb3VuZF0iPkFuYWx5dGljcyBDb29raWVzPC9oMz4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBiZy1bLS10ZXh0LW11dGVkXS8yMCB0ZXh0LVstLXRleHQtbXV0ZWRdIHB4LTIgcHktMSByb3VuZGVkIj4KICAgICAgICAgICAgICAgICAgQ3VycmVudGx5IE5vdCBVc2VkCiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGxlYWRpbmctcmVsYXhlZCI+CiAgICAgICAgICAgICAgICBUaGVzZSBjb29raWVzIHdvdWxkIGhlbHAgdXMgdW5kZXJzdGFuZCBob3cgdmlzaXRvcnMgaW50ZXJhY3Qgd2l0aCB0aGUgd2Vic2l0ZS4gCiAgICAgICAgICAgICAgICBXZSBjdXJyZW50bHkgZG8gbm90IHVzZSBhbnkgYW5hbHl0aWNzIHRvb2xzLgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYm9yZGVyIGJvcmRlci1bLS1vdXRsaW5lLXZhcmlhbnRdIHJvdW5kZWQtbGcgcC00IG9wYWNpdHktNjAiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gbWItMiI+CiAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtWy0tb24tYmFja2dyb3VuZF0iPk1hcmtldGluZyBDb29raWVzPC9oMz4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBiZy1bLS10ZXh0LW11dGVkXS8yMCB0ZXh0LVstLXRleHQtbXV0ZWRdIHB4LTIgcHktMSByb3VuZGVkIj4KICAgICAgICAgICAgICAgICAgQ3VycmVudGx5IE5vdCBVc2VkCiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGxlYWRpbmctcmVsYXhlZCI+CiAgICAgICAgICAgICAgICBUaGVzZSBjb29raWVzIHdvdWxkIGJlIHVzZWQgdG8gZGlzcGxheSByZWxldmFudCBhZHZlcnRpc2luZyB0byB2aXNpdG9ycy4gCiAgICAgICAgICAgICAgICBXZSBjdXJyZW50bHkgZG8gbm90IHVzZSBhbnkgbWFya2V0aW5nIGNvb2tpZXMuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvc2VjdGlvbj4KCiAgICAgICAgPHNlY3Rpb24+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtc2VtaWJvbGQgbWItNCB0ZXh0LVstLW9uLWJhY2tncm91bmRdIj5NYW5hZ2luZyBDb29raWVzPC9oMj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibGVhZGluZy1yZWxheGVkIG1iLTQiPgogICAgICAgICAgICBTaW5jZSB3ZSBvbmx5IHVzZSBlc3NlbnRpYWwgY29va2llcywgbm8gc2VwYXJhdGUgY29uc2VudCBpcyByZXF1aXJlZC4gCiAgICAgICAgICAgIFlvdSBjYW4gbWFuYWdlIGNvb2tpZXMgaW4geW91ciBicm93c2VyIHNldHRpbmdzOgogICAgICAgICAgPC9wPgogICAgICAgICAgPHVsIGNsYXNzTmFtZT0ibGlzdC1kaXNjIGxpc3QtaW5zaWRlIHNwYWNlLXktMSBtbC00Ij4KICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgIDxhIAogICAgICAgICAgICAgICAgaHJlZj0iaHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vY2hyb21lL2Fuc3dlci85NTY0NyIgCiAgICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIgCiAgICAgICAgICAgICAgICByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtWy0tcHJpbWFyeV0gaG92ZXI6dW5kZXJsaW5lIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIEdvb2dsZSBDaHJvbWUKICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICA8YSAKICAgICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vc3VwcG9ydC5tb3ppbGxhLm9yZy9rYi9jb29raWVzLWluZm9ybWF0aW9uLXdlYnNpdGVzLXN0b3JlLW9uLXlvdXItY29tcHV0ZXIiIAogICAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiIAogICAgICAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LVstLXByaW1hcnldIGhvdmVyOnVuZGVybGluZSIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICBNb3ppbGxhIEZpcmVmb3gKICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICA8YSAKICAgICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vc3VwcG9ydC5hcHBsZS5jb20vZ3VpZGUvc2FmYXJpL21hbmFnZS1jb29raWVzLWFuZC13ZWJzaXRlLWRhdGEtc2ZyaTExNDcxL21hYyIgCiAgICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIgCiAgICAgICAgICAgICAgICByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtWy0tcHJpbWFyeV0gaG92ZXI6dW5kZXJsaW5lIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIFNhZmFyaQogICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9zZWN0aW9uPgoKICAgICAgICA8c2VjdGlvbj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQteGwgZm9udC1zZW1pYm9sZCBtYi00IHRleHQtWy0tb24tYmFja2dyb3VuZF0iPkNoYW5nZXM8L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAgICBXZSBtYXkgdXBkYXRlIHRoaXMgY29va2llIHBvbGljeSBmcm9tIHRpbWUgdG8gdGltZS4gUGxlYXNlIGNoZWNrIHRoaXMgcGFnZSAKICAgICAgICAgICAgcmVndWxhcmx5IHRvIHN0YXkgaW5mb3JtZWQgYWJvdXQgYW55IGNoYW5nZXMuCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9zZWN0aW9uPgoKICAgICAgICA8c2VjdGlvbj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQteGwgZm9udC1zZW1pYm9sZCBtYi00IHRleHQtWy0tb24tYmFja2dyb3VuZF0iPkNvbnRhY3Q8L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAgICBGb3IgcXVlc3Rpb25zIGFib3V0IGNvb2tpZXMgb3IgdGhpcyBwb2xpY3ksIHBsZWFzZSBjb250YWN0OiBtYWlsQGNrbXMuZXMKICAgICAgICAgIDwvcD4KICAgICAgICA8L3NlY3Rpb24+CiAgICAgIDwvZGl2PgoKICAgICAgPHAgY2xhc3NOYW1lPSJtdC0xMiB0ZXh0LXNtIHRleHQtWy0tdGV4dC1tdXRlZF0iPgogICAgICAgIExhc3QgdXBkYXRlZDogQXByaWwgMjAyNgogICAgICA8L3A+CiAgICA8L2Rpdj4KICApOwp9
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Cookie Policy — Jerry",
+  description: "Cookie policy and settings for lifeofjerry.com",
+};
+
+export default function Cookies() {
+  return (
+    <div className="max-w-3xl mx-auto px-6 py-16">
+      <h1 
+        className="text-4xl md:text-5xl font-bold mb-8"
+        style={{ fontFamily: "'Space Grotesk', sans-serif", letterSpacing: '-0.02em' }}
+      >
+        Cookie Policy
+      </h1>
+      
+      <div className="space-y-8 text-[--on-surface-variant]">
+        <section>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">What Are Cookies?</h2>
+          <p className="leading-relaxed">
+            Cookies are small text files stored on your device when you visit a website. 
+            They allow the website to remember your actions and preferences (such as login, language, 
+            font size) over a period of time.
+          </p>
+        </section>
+
+        <section>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">What Cookies Do We Use?</h2>
+          
+          <div className="space-y-6">
+            <div className="border border-[--outline-variant] rounded-lg p-4">
+              <div className="flex items-center justify-between mb-2">
+                <h3 className="font-semibold text-[--on-background]">Essential Cookies</h3>
+                <span className="text-xs bg-[--terminal-emerald]/20 text-[--terminal-emerald] px-2 py-1 rounded">
+                  Always Active
+                </span>
+              </div>
+              <p className="text-sm leading-relaxed">
+                These cookies are essential for the basic functionality of the website and cannot 
+                be disabled. They store, for example, your cookie consent preferences.
+              </p>
+              <ul className="text-sm mt-2 space-y-1 text-[--text-muted]">
+                <li>• cookie-consent: Stores your cookie consent preference (1 year)</li>
+              </ul>
+            </div>
+
+            <div className="border border-[--outline-variant] rounded-lg p-4 opacity-60">
+              <div className="flex items-center justify-between mb-2">
+                <h3 className="font-semibold text-[--on-background]">Analytics Cookies</h3>
+                <span className="text-xs bg-[--text-muted]/20 text-[--text-muted] px-2 py-1 rounded">
+                  Currently Not Used
+                </span>
+              </div>
+              <p className="text-sm leading-relaxed">
+                These cookies would help us understand how visitors interact with the website. 
+                We currently do not use any analytics tools.
+              </p>
+            </div>
+
+            <div className="border border-[--outline-variant] rounded-lg p-4 opacity-60">
+              <div className="flex items-center justify-between mb-2">
+                <h3 className="font-semibold text-[--on-background]">Marketing Cookies</h3>
+                <span className="text-xs bg-[--text-muted]/20 text-[--text-muted] px-2 py-1 rounded">
+                  Currently Not Used
+                </span>
+              </div>
+              <p className="text-sm leading-relaxed">
+                These cookies would be used to display relevant advertising to visitors. 
+                We currently do not use any marketing cookies.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">Managing Cookies</h2>
+          <p className="leading-relaxed mb-4">
+            Since we only use essential cookies, no separate consent is required. 
+            You can manage cookies in your browser settings:
+          </p>
+          <ul className="list-disc list-inside space-y-1 ml-4">
+            <li>
+              <a 
+                href="https://support.google.com/chrome/answer/95647" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-[--primary] hover:underline"
+              >
+                Google Chrome
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-[--primary] hover:underline"
+              >
+                Mozilla Firefox
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-[--primary] hover:underline"
+              >
+                Safari
+              </a>
+            </li>
+          </ul>
+        </section>
+
+        <section>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">Changes</h2>
+          <p className="leading-relaxed">
+            We may update this cookie policy from time to time. Please check this page 
+            regularly to stay informed about any changes.
+          </p>
+        </section>
+
+        <section>
+          <h2 className="text-xl font-semibold mb-4 text-[--on-background]">Contact</h2>
+          <p className="leading-relaxed">
+            For questions about cookies or this policy, please contact: mail@ckms.es
+          </p>
+        </section>
+      </div>
+
+      <p className="mt-12 text-sm text-[--text-muted]">
+        Last updated: April 2026
+      </p>
+    </div>
+  );
+}
