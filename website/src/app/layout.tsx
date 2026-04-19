@@ -56,7 +56,7 @@ export default function RootLayout({
             </div>
 
             <a 
-              href="https://x.com/lifeofjerry" 
+              href="https://x.com/Jerry_sohoox" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2 rounded-lg border border-[--outline] text-sm hover:border-[--terminal-emerald] hover:text-[--terminal-emerald] transition-all"
