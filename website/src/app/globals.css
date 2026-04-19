@@ -1,0 +1,245 @@
+@import "tailwindcss";
+
+:root {
+  /* Electric Nocturne — Jerry Design System */
+  --surface: #000e24;
+  --surface-bright: #002c59;
+  --surface-dim: #000e24;
+  --surface-container-lowest: #000000;
+  --surface-container-low: #00132d;
+  --surface-container: #001938;
+  --surface-container-high: #001f43;
+  --surface-container-highest: #00264e;
+  --surface-variant: #00264e;
+
+  /* VoltAgent-inspired additions */
+  --void: #000000;
+  --void-soft: #0A0A0A;
+  --void-muted: #141414;
+  --void-border: #1F1F1F;
+  
+  --terminal-emerald: #10B981;
+  --terminal-emerald-dim: #059669;
+  --agent-purple: #8B5CF6;
+
+  --primary: #ff8c96;
+  --primary-container: #ff7484;
+  --primary-dim: #ff6e80;
+  --primary-fixed: #ff7484;
+  --primary-fixed-dim: #ff5770;
+  --on-primary: #64001b;
+  --on-primary-container: #4e0013;
+  --on-primary-fixed: #000000;
+
+  /* Brand accent — Jerry's coral-red */
+  --accent: #E94560;
+
+  --secondary: #c3cef4;
+  --secondary-container: #3b4665;
+  --secondary-dim: #b5c0e5;
+  --on-secondary: #3a4564;
+  --on-secondary-container: #c5cff5;
+
+  --tertiary: #bb9aff;
+  --tertiary-container: #ae8af7;
+
+  /* Success green — Jerry brand */
+  --accent-green: #16C79A;
+
+  --background: #000e24;
+  --on-background: #dae6ff;
+  --on-surface: #dae6ff;
+  --on-surface-variant: #8eacdf;
+  --text-muted: #71717A;
+  --text-dim: #52525B;
+
+  --outline: #5876a6;
+  --outline-variant: #284875;
+
+  --error: #ff7351;
+  --inverse-surface: #f9f9ff;
+  --inverse-on-surface: #365684;
+  --surface-tint: #ff8c96;
+}
+
+body {
+  background: var(--surface);
+  color: var(--on-background);
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+::selection {
+  background: var(--accent);
+  color: white;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+a:hover {
+  opacity: 0.85;
+}
+
+/* Scrollbar — Nocturne style */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--surface-container-low); }
+::-webkit-scrollbar-thumb { background: var(--surface-container-highest); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--primary-dim); }
+
+/* Glassmorphism */
+.glass-panel {
+  background-color: rgba(0, 38, 78, 0.4);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(40, 72, 117, 0.15);
+}
+
+.ghost-border {
+  border: 1px solid rgba(40, 72, 117, 0.15);
+}
+
+/* CTA Gradient */
+.btn-primary-gradient {
+  background: linear-gradient(135deg, #ff8c96 0%, #ff7484 100%);
+}
+
+.btn-primary-gradient:hover {
+  background: linear-gradient(135deg, #ff7484 0%, #ff5770 100%);
+}
+
+/* Ambient Glow */
+.ambient-shadow {
+  box-shadow: 0 32px 64px rgba(255, 140, 150, 0.06);
+}
+
+.ambient-glow {
+  box-shadow: 0 0 40px rgba(232, 69, 96, 0.15), 0 0 80px rgba(232, 69, 96, 0.05);
+}
+
+/* Built by AI Badge Glow */
+.ai-badge-glow {
+  box-shadow: 0 0 20px rgba(16, 185, 129, 0.3), 0 0 40px rgba(16, 185, 129, 0.1);
+}
+
+/* Animations */
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+@keyframes terminal-blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+@keyframes status-pulse {
+  0%, 100% { 
+    opacity: 1;
+    box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.4);
+  }
+  50% { 
+    opacity: 0.8;
+    box-shadow: 0 0 0 8px rgba(16, 185, 129, 0);
+  }
+}
+
+.animate-pulse-dot {
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, transparent 0%, rgba(255,140,150,0.08) 50%, transparent 100%);
+  background-size: 200% 100%;
+  animation: shimmer 3s infinite;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-terminal-caret {
+  animation: terminal-blink 1s step-end infinite;
+}
+
+.animate-status-live {
+  animation: status-pulse 2s ease-in-out infinite;
+}
+
+.delay-100 { animation-delay: 0.1s; opacity: 0; }
+.delay-200 { animation-delay: 0.2s; opacity: 0; }
+.delay-300 { animation-delay: 0.3s; opacity: 0; }
+.delay-400 { animation-delay: 0.4s; opacity: 0; }
+
+/* Stat number glow */
+.stat-glow {
+  text-shadow: 0 0 20px rgba(255, 140, 150, 0.3);
+}
+
+/* Card hover lift */
+.card-lift {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card-lift:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(255, 140, 150, 0.08);
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, #ff8c96, #bb9aff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Terminal-style elements */
+.terminal-border {
+  border: 1px solid var(--void-border);
+}
+
+.terminal-bg {
+  background-color: var(--void);
+}
+
+/* Code blocks */
+.code-block {
+  background: var(--void);
+  border: 1px solid var(--void-border);
+  border-radius: 8px;
+  padding: 1rem;
+  font-family: 'JetBrains Mono', 'Space Grotesk', monospace;
+}
+
+/* X Button styling */
+.x-button {
+  background: #000000;
+  border: 1px solid #333333;
+  transition: all 0.2s ease;
+}
+
+.x-button:hover {
+  background: #1a1a1a;
+  border-color: #444444;
+}
