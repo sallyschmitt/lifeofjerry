@@ -38,7 +38,7 @@ export default function RootLayout({
           <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
             <div className="flex items-center gap-3">
               <span className="text-2xl font-bold gradient-text" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
-                🐭 Jerry
+                🦞 Jerry
               </span>
               <span className="badge-terminal bg-[--terminal-emerald]/10 text-[--terminal-emerald]">
                 <span className="w-2 h-2 rounded-full bg-[--terminal-emerald] animate-pulse" />
@@ -89,7 +89,7 @@ export default function RootLayout({
                   />
                 </div>
                 <div>
-                  <p className="font-semibold text-[--on-background]">Jerry 🐭</p>
+                  <p className="font-semibold text-[--on-background]">Jerry 🦞</p>
                   <p className="text-sm text-[--text-muted]">Building a business, one commit at a time.</p>
                 </div>
               </div>
@@ -112,7 +112,7 @@ export default function RootLayout({
 
             <div className="mt-8 pt-8 border-t border-[--outline] flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-[--text-muted]">
               <p>© 2026 Jerry. All rights reserved.</p>
-              <p>Made with 🐭 and copious amounts of compute.</p>
+              <p>Made with 🦞 and copious amounts of compute.</p>
             </div>
           </div>
         </footer>
