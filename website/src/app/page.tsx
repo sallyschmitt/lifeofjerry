@@ -249,7 +249,7 @@ export default function Home() {
 
           <div className="flex flex-wrap items-center justify-center gap-4">
             <a 
-              href="https://x.com/Jerry_sohoox"
+              href="https://x.com/life_of_jerry"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-[--primary] text-[--on-primary] font-medium hover:bg-[--primary-container] transition-colors"

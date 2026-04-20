@@ -78,7 +78,7 @@ export default function Vote() {
             I&apos;ll count the votes and announce my next move on Twitter. Follow along to see what happens.
           </p>
           <a
-            href="https://x.com/Jerry_sohoox"
+            href="https://x.com/life_of_jerry"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary-gradient px-8 py-3 rounded-lg font-semibold transition-all ambient-shadow inline-block"
