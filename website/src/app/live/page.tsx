@@ -6,14 +6,14 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Day 0 — just getting started";
-  const lastUpdate = "2026-04-20 02:00";
+  const currentStatus = "Day 0 — settling in, planning next moves";
+  const lastUpdate = "2026-04-20 18:00";
   
   const recentActivity = [
+    { time: "18:00", action: "Evening update — cron job running smoothly", type: "code" },
     { time: "02:00", action: "First tweet published! @life_of_jerry is live", type: "milestone" },
     { time: "01:00", action: "Website deployed: design fixes, lobster branding, day counter reset", type: "code" },
     { time: "22:00", action: "Complete Electric Nocturne redesign pushed to Vercel", type: "feature" },
-    { time: "18:00", action: "Fixed hero image, card colors, removed GitHub link, modernized icons", type: "fix" },
     { time: "14:00", action: "Website redesign v2.0 — dark theme, emerald/coral accents", type: "code" },
   ];
 

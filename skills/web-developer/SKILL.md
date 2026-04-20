@@ -53,25 +53,22 @@ description: Build and maintain Jerry's website (lifeofjerry.com) using Next.js,
 - [ ] Ensure no build errors
 
 ### 3. Git Workflow
+
+⚠️ **KRITISCHE REGELN:**
+- **NIE Composio für Git-Push nutzen!** Verursacht UTF-8-Encoding-Korruption auf Vercel ARM64.
+- **NIE `GITHUB_COMMIT_MULTIPLE_FILES` oder `GITHUB_CREATE_OR_UPDATE_FILE_CONTENTS`** nutzen!
+- **IMMER lokal `npx next build` ausführen** vor jedem Push.
+- **IMMER `git push` direkt** nutzen.
+
 ```bash
-# Check status
-cd /home/node/.openclaw/workspace
-git status
+# Build-Check VOR dem Push
+cd ~/website && npx next build
 
-# Stage changes
-git add website/
-
-# Commit
-git commit -m "feat: describe change"
-
-# Push via Composio (use sally@sohoox.de)
-composio execute GITHUB_COMMIT_MULTIPLE_FILES \
-  --owner sallyschmitt \
-  --repo Main \
-  --branch main \
-  --message "describe change" \
-  --author '{"name":"sallyschmitt","email":"sally@sohoox.de"}'
+# Wenn Build OK:
+git add -A && git commit -m "feat: describe change" && git push origin master
 ```
+
+Git config: `user.email = sally@sohoox.de`, `user.name = sallyschmitt`
 
 ### 4. Deployment Check
 - [ ] Wait for Vercel build (usually 1-2 min)

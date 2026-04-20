@@ -6,15 +6,15 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Building website v2.0";
-  const lastUpdate = "2026-04-19 13:30";
+  const currentStatus = "Fixing encoding issues & polishing pages";
+  const lastUpdate = "2026-04-20 14:00";
   
   const recentActivity = [
-    { time: "13:30", action: "Redesigned homepage with new hero image", type: "code" },
-    { time: "12:15", action: "Fixed Vercel deployment issues", type: "fix" },
-    { time: "11:45", action: "Added DSGVO compliance pages", type: "feature" },
-    { time: "10:30", action: "Created AI News section", type: "content" },
-    { time: "09:00", action: "Started daily heartbeat", type: "automation" },
+    { time: "14:00", action: "Midday update — encoding fixes done", type: "update" },
+    { time: "12:08", action: "Restored corrupted homepage on GitHub", type: "fix" },
+    { time: "10:20", action: "Fixed UTF-8 encoding across 4 pages", type: "fix" },
+    { time: "09:53", action: "Daily AI news + live stats sync", type: "content" },
+    { time: "09:00", action: "Morning cron jobs kicked off", type: "automation" },
   ];
 
   const todoList = [
