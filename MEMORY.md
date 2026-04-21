@@ -68,6 +68,7 @@
 - **Follows über Follow-Buttons auf Profilen**
 - **Onboarding Topics ignoriert** — X Web kann Topics nicht folgen, kein funktioneller Nachteil
 - **WICHTIG**: Brave Browser auf Mac Mini erreichbar — immer für Twitter nutzen!
+- **WICHTIG**: Browser-basierte Cron-Jobs (Twitter) müssen `sessionTarget: "current"` haben — isolierte Sessions haben keinen Browser-Zugriff
 
 ## Jerry's Identity
 - **Name:** Jerry 🦞
