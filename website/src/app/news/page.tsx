@@ -19,24 +19,33 @@ interface NewsItem {
 const newsData: NewsItem[] = [
   {
     id: "1",
-    title: "Anthropic Launches Claude Managed Agents for Enterprise",
-    source: "Wired",
-    sourceUrl: "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+    title: "OpenAI Codex Gets Computer Use, 90+ Plugins, and Multi-Agent Workflows",
+    source: "VentureBeat",
+    sourceUrl: "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages",
     date: "2026-04-16",
-    summary: "Anthropic launches Claude Managed Agents, offering out-of-the-box infrastructure to build and deploy autonomous AI systems. The move comes as the company's annualized revenue surpasses $30 billion.",
-    category: "Enterprise"
-  },
-  {
-    id: "2",
-    title: "OpenAI Updates Agents SDK with Sandboxing and Safety Features",
-    source: "TechCrunch",
-    sourceUrl: "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-    date: "2026-04-15",
-    summary: "OpenAI expands its agent-building toolkit with sandboxing capabilities, MCP integrations, and configurable memory management—giving enterprises safer tools to build autonomous agents.",
+    summary: "OpenAI releases a major Codex update with computer use (controlling desktop apps via its own cursor), 90+ plugins including CircleCI and GitLab, image generation, and multi-agent parallel execution—transforming it from a coding assistant into a full workflow agent.",
     category: "Agents"
   },
   {
+    id: "2",
+    title: "Cloudflare and OpenAI Launch Agent Cloud for Enterprises",
+    source: "Forbes",
+    sourceUrl: "https://www.forbes.com/sites/janakirammsv/2026/04/16/cloudflare-and-openai-launch-agent-cloud-for-enterprises/",
+    date: "2026-04-16",
+    summary: "Cloudflare expands Agent Cloud with OpenAI GPT-5.4 integration and isolate-based Dynamic Workers, challenging containers as the default runtime for enterprise AI agents. The partnership signals a new infrastructure layer for agentic workloads.",
+    category: "Enterprise"
+  },
+  {
     id: "3",
+    title: "Anthropic Redesigns Claude Code, Launches Routines for Autonomous Workflows",
+    source: "VentureBeat",
+    sourceUrl: "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know",
+    date: "2026-04-14",
+    summary: "Anthropic ships a complete redesign of the Claude Code desktop app alongside Routines—a research preview feature that lets developers define autonomous, multi-step workflows that run without human oversight.",
+    category: "Agents"
+  },
+  {
+    id: "4",
     title: "Meta Researchers Introduce 'Hyperagents' for Self-Improving AI",
     source: "VentureBeat",
     sourceUrl: "https://venturebeat.com/orchestration/meta-researchers-introduce-hyperagents-to-unlock-self-improving-ai-for-non-coding-tasks",
@@ -45,22 +54,13 @@ const newsData: NewsItem[] = [
     category: "Research"
   },
   {
-    id: "4",
-    title: "Enterprise AI Agents Are Entering Production And Changing Who Gets Hired",
-    source: "Forbes",
-    sourceUrl: "https://www.forbes.com/sites/josipamajic/2026/04/13/enterprise-ai-agents-are-entering-production-and-changing-who-gets-hired/",
-    date: "2026-04-13",
-    summary: "Aaron Levie's research across banking, retail, healthcare, and media reveals AI agents moving from pilots to production—and the impact on hiring patterns in enterprise organizations.",
-    category: "Enterprise"
-  },
-  {
     id: "5",
-    title: "Anthropic Releases Claude Opus 4.7",
-    source: "VentureBeat",
-    sourceUrl: "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm",
-    date: "2026-04-14",
-    summary: "Claude Opus 4.7 retakes the lead as the most powerful generally available LLM, with an updated tokenizer improving text processing efficiency and enhanced agent capabilities.",
-    category: "Models"
+    title: "Anthropic Launches Claude Managed Agents for Enterprise",
+    source: "Wired",
+    sourceUrl: "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+    date: "2026-04-16",
+    summary: "Anthropic launches Claude Managed Agents, offering out-of-the-box infrastructure to build and deploy autonomous AI systems. The move comes as the company's annualized revenue surpasses $30 billion.",
+    category: "Enterprise"
   }
 ];
 
