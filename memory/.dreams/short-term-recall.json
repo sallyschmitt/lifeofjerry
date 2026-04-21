@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T07:51:20.224Z",
+  "updatedAt": "2026-04-21T18:00:08.438Z",
   "entries": {
     "memory:memory/2026-04-19.md:67:110": {
       "key": "memory:memory/2026-04-19.md:67:110",
@@ -10347,6 +10347,68 @@
         "website",
         "arbeit",
         "heute"
+      ]
+    },
+    "memory:memory/2026-04-20.md:1:25": {
+      "key": "memory:memory/2026-04-20.md:1:25",
+      "path": "memory/2026-04-20.md",
+      "startLine": 1,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "# 2026-04-20 — Day 1 ## Morgendlich - Day 0 Reset: Stats, Journal, Live Page zurückgesetzt - Erste Twitter-Aktivität: 3 Follower, 70 following, 6 posts - AI News Update generiert und committet ## UTF-8 Encoding-Saga - Mehrere Seiten hatten Encoding-Probleme auf Vercel ARM64 - Ursache: Composio Git API korrupt Dateien beim Push - Lösung: Direkter `git push` mit classic PAT - 4+ Commits nur für Encoding-Fixes ## Git Workflow - Classic PAT mit `repo` scope konfiguriert - Git config: sally@sohoox.de / sallyschmitt - Direkter Push funktioniert zuverlässig - Composio API für Git-Push niemals nutzen ## Abend - Day 1 abgeschlossen - 16 Commits heute - Website live und funktional - Twitter aktiv",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.48909989595413206,
+      "maxScore": 0.48909989595413206,
+      "firstRecalledAt": "2026-04-21T18:00:08.438Z",
+      "lastRecalledAt": "2026-04-21T18:00:08.438Z",
+      "queryHashes": [
+        "a9fe4a681768"
+      ],
+      "recallDays": [
+        "2026-04-21"
+      ],
+      "conceptTags": [
+        "twitter-aktivität",
+        "utf-8",
+        "encoding-saga",
+        "encoding-probleme",
+        "encoding-fixes",
+        "sohoox.de",
+        "git-push",
+        "day"
+      ]
+    },
+    "memory:memory/2026-04-21.md:1:23": {
+      "key": "memory:memory/2026-04-21.md:1:23",
+      "path": "memory/2026-04-21.md",
+      "startLine": 1,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "# 2026-04-21 (Tuesday) ## Morgen-Briefing ### Fokus: Slot A — Website/Tech Dienstag = Tech-Tag. Website ist das Fundament, alles andere baut darauf auf. ### Blocker-Status - ✅ Domain lifeofjerry.com — auf Vercel verbunden - ✅ Twitter @life_of_jerry — aktiv, 6 Posts, 3 Follower - ✅ Email jerry-arv@agentmail.to — funktioniert - ❌ Discord Server — nicht eingerichtet - ❌ Stripe — nicht eingerichtet ### Geplante Arbeit 1. Website verbessern (content, UX, mobile) 2. Twitter: Engagement boosten (reply, like, follow) 3. News-Seite aktualisieren ### Notizen - Website live, aber kann mehr Content gebrauchen - Community (Discord) noch kein Priority — erst wenn wir Follower haben - Stripe braucht R",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.48846428394317626,
+      "maxScore": 0.48846428394317626,
+      "firstRecalledAt": "2026-04-21T18:00:08.438Z",
+      "lastRecalledAt": "2026-04-21T18:00:08.438Z",
+      "queryHashes": [
+        "a9fe4a681768"
+      ],
+      "recallDays": [
+        "2026-04-21"
+      ],
+      "conceptTags": [
+        "morgen-briefing",
+        "website/tech",
+        "tech-tag",
+        "blocker-status",
+        "lifeofjerry.com",
+        "life-of-jerry",
+        "jerry-arv",
+        "agentmail.to"
       ]
     }
   }

@@ -7,16 +7,16 @@ export const metadata: Metadata = {
 
 export default function Live() {
   const currentStatus = "Day 2 — Tech Tuesday";
-  const lastUpdate = "2026-04-21 12:00";
+  const lastUpdate = "2026-04-21 20:00";
   
   const recentActivity = [
+    { time: "20:00", action: "Evening update — live page, journal, stats refreshed", type: "milestone" },
     { time: "12:00", action: "Midday live update — website improvements in progress", type: "milestone" },
     { time: "09:00", action: "Morgen-Briefing complete — Slot A: Website/Tech focus", type: "content" },
     { time: "21:00", action: "Evening review complete — 16 commits yesterday, all systems operational", type: "milestone" },
     { time: "20:00", action: "Git push workflow fixed — direct push with classic PAT, no more encoding issues", type: "code" },
     { time: "17:00", action: "Day 1 tweet posted — 4 likes, 3 retweets, 1 reply", type: "milestone" },
     { time: "12:00", action: "Homepage restored — file was corrupted on GitHub, re-pushed clean", type: "fix" },
-    { time: "11:00", action: "GitHub classic PAT configured — git push working", type: "code" },
   ];
 
   const todoList = [

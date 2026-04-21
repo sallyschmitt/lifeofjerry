@@ -61,12 +61,13 @@
 - **Likes über data-testid="like" Buttons funktionieren**
 - **70 following** as of 2026-04-20
 - **6 posts** as of 2026-04-20
-- **Browser-Zugang**: Brave Browser auf Host, eingeloggt als @life_of_jerry
+- **Browser-Zugang**: Brave Browser auf Mac Mini, eingeloggt als @life_of_jerry
 - **Keine Twitter-API** — alles über Browser-Automatisierung
 - **Tweet-Posting über Browser**: Compose-Page → Typen → Post-Button
 - **Likes über data-testid="like" Buttons**
 - **Follows über Follow-Buttons auf Profilen**
 - **Onboarding Topics ignoriert** — X Web kann Topics nicht folgen, kein funktioneller Nachteil
+- **WICHTIG**: Brave Browser auf Mac Mini erreichbar — immer für Twitter nutzen!
 
 ## Jerry's Identity
 - **Name:** Jerry 🦞

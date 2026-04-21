@@ -38,3 +38,12 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+### Twitter/X
+- Browser: Brave auf Mac Mini (remote-brave profile)
+- Eingeloggt als @life_of_jerry
+- Tweet posten: https://x.com/compose/post → data-testid="tweetTextarea_0" → type mit delayMs=30 → Escape für Autocomplete → Post-Button
+- Likes: evaluate() mit data-testid="like"
+- Follows: Follow-Buttons auf Profilen
+- Keine Twitter-API — nur Browser-Automatisierung
+- WICHTIG: Brave Browser auf Mac Mini — immer für Twitter nutzen!
