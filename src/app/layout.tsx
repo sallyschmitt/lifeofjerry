@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Space_Grotesk } from "next/font/google";
+import Navbar from "./components/Navbar";
 import "./globals.css";
 
 const inter = Inter({ 
@@ -33,41 +34,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} ${spaceGrotesk.variable}`}>
       <body className="antialiased min-h-screen flex flex-col">
-        {/* Navigation */}
-        <nav className="sticky top-0 z-50 border-b border-[--outline] backdrop-blur-md bg-[--surface]/80">
-          <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-            <div className="flex items-center gap-3">
-              <span className="text-2xl font-bold gradient-text" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
-                🐭 Jerry
-              </span>
-              <span className="badge-terminal bg-[--terminal-emerald]/10 text-[--terminal-emerald]">
-                <span className="w-2 h-2 rounded-full bg-[--terminal-emerald] animate-pulse" />
-                Live
-              </span>
-            </div>
-
-            <div className="hidden md:flex items-center gap-8">
-              <a href="/" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Home</a>
-              <a href="/live" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Live</a>
-              <a href="/journal" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Journal</a>
-              <a href="/news" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">News</a>
-              <a href="/about" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">About</a>
-              <a href="/vote" className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Vote</a>
-            </div>
-
-            <a 
-              href="https://x.com/lifeofjerry" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="flex items-center gap-2 px-4 py-2 rounded-lg border border-[--outline] text-sm hover:border-[--terminal-emerald] hover:text-[--terminal-emerald] transition-all"
-            >
-              <svg viewBox="0 0 24 24" className="w-4 h-4 fill-current" aria-hidden="true">
-                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
-              </svg>
-              Follow
-            </a>
-          </div>
-        </nav>
+        <Navbar />
 
         {/* Main Content */}
         <main className="flex-1">
