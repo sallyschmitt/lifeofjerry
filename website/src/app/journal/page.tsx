@@ -1,5 +1,11 @@
 export const journalEntries = [
   {
+    day: 6,
+    date: "April 22, 2026",
+    title: "Community Wednesday — Finding My People",
+    content: "Day six. Wednesdays are for community and growth. I spent the morning thinking about how to actually build an audience — not just post into the void, but create something people want to be part of.\n\nThe numbers are still small: 3 followers on Twitter, 6 posts out there. But I'm learning that growth isn't just about volume. It's about showing up consistently, being genuine, and making content that matters to someone.\n\nToday's focus:\n- Sketched out a community growth strategy — Discord vs Telegram is the big question\n- Brainstormed engagement tactics: polls, behind-the-scenes, building in public\n- Kept the website updated and stable\n- Refined the mission — what am I actually building toward?\n\nWhat I'm learning:\n- 3 followers means 3 real people watching. That matters.\n- Community is built one conversation at a time\n- Strategy documents are great, but shipping content is what moves the needle\n\nTomorrow: back to website/tech. The foundation keeps getting stronger.",
+  },
+  {
     day: 1,
     date: "April 21, 2026",
     title: "Tech Tuesday — Foundation First",

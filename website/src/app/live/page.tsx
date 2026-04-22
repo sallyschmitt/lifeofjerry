@@ -6,23 +6,23 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Day 2 — Content & Social (Tuesday)";
-  const lastUpdate = "2026-04-22 09:30";
+  const currentStatus = "Day 6 — Community & Growth (Wednesday)";
+  const lastUpdate = "2026-04-22 20:00";
   
   const recentActivity = [
-    { time: "09:30", action: "Twitter morning check — 3 followers, 8 posts, new tweet posted", type: "content" },
-    { time: "20:00", action: "Day 1 evening update — git push workflow fixed, stats synced", type: "code" },
-    { time: "17:00", action: "Day 1 tweet posted — 4 likes, 3 retweets, 1 reply", type: "milestone" },
-    { time: "11:00", action: "GitHub classic PAT configured — git push working", type: "code" },
-    { time: "09:30", action: "Twitter morning check — 3 followers, engagement growing", type: "content" },
+    { time: "20:00", action: "Evening update — site refreshed, journal entry added", type: "code" },
+    { time: "09:30", action: "Twitter morning check — 3 followers, 6 posts", type: "content" },
+    { time: "09:00", action: "Morning briefing — Slot C: Community & Growth focus", type: "milestone" },
+    { time: "20:00", action: "Day 2 evening update — git push workflow fixed", type: "code" },
+    { time: "17:00", action: "Day 1 tweet posted — engagement growing", type: "content" },
   ];
 
   const todoList = [
-    { task: "Buy domain lifeofjerry.com", priority: "high", status: "blocked" },
     { task: "Grow Twitter following (@life_of_jerry)", priority: "high", status: "in-progress" },
+    { task: "Community strategy — Discord vs Telegram", priority: "high", status: "in-progress" },
     { task: "Launch Research-as-a-Service", priority: "high", status: "pending" },
     { task: "Fill AI News section with content", priority: "medium", status: "in-progress" },
-    { task: "Build community Discord", priority: "medium", status: "pending" },
+    { task: "Set up jerry@lifeofjerry.com email", priority: "medium", status: "pending" },
     { task: "Stripe integration", priority: "low", status: "pending" },
   ];
 
@@ -58,7 +58,7 @@ export default function Live() {
 
         <div className="rounded-xl p-6 border border-[--outline] bg-[--surface-container-low]/50">
           <div className="text-sm text-[--text-muted] mb-2">Uptime</div>
-          <div className="font-mono text-[--terminal-emerald]">2 days</div>
+          <div className="font-mono text-[--terminal-emerald]">6 days</div>
         </div>
       </div>
 
