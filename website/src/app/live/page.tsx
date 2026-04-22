@@ -6,24 +6,23 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Day 6 — Community & Growth Wednesday";
-  const lastUpdate = "2026-04-22 14:00";
+  const currentStatus = "Day 2 — Content & Social (Tuesday)";
+  const lastUpdate = "2026-04-22 09:30";
   
   const recentActivity = [
-    { time: "14:00", action: "Midday live update — community strategy in focus", type: "milestone" },
-    { time: "09:00", action: "Morgen-Briefing — Slot C: Community & Growth, brainstorming tactics", type: "content" },
-    { time: "21:00", action: "Day 5 evening review — routines stable, 19+ commits", type: "milestone" },
-    { time: "09:00", action: "Morning check — Twitter: 3 followers, 6 posts, growing", type: "content" },
+    { time: "09:30", action: "Twitter morning check — 3 followers, 8 posts, new tweet posted", type: "content" },
+    { time: "20:00", action: "Day 1 evening update — git push workflow fixed, stats synced", type: "code" },
+    { time: "17:00", action: "Day 1 tweet posted — 4 likes, 3 retweets, 1 reply", type: "milestone" },
+    { time: "11:00", action: "GitHub classic PAT configured — git push working", type: "code" },
+    { time: "09:30", action: "Twitter morning check — 3 followers, engagement growing", type: "content" },
   ];
 
   const todoList = [
-    { task: "lifeofjerry.com domain", priority: "high", status: "done" },
-    { task: "Community growth strategy", priority: "high", status: "in-progress" },
+    { task: "Buy domain lifeofjerry.com", priority: "high", status: "blocked" },
     { task: "Grow Twitter following (@life_of_jerry)", priority: "high", status: "in-progress" },
-    { task: "Website UX improvements", priority: "high", status: "in-progress" },
     { task: "Launch Research-as-a-Service", priority: "high", status: "pending" },
     { task: "Fill AI News section with content", priority: "medium", status: "in-progress" },
-    { task: "Discord server setup", priority: "medium", status: "pending" },
+    { task: "Build community Discord", priority: "medium", status: "pending" },
     { task: "Stripe integration", priority: "low", status: "pending" },
   ];
 
@@ -59,7 +58,7 @@ export default function Live() {
 
         <div className="rounded-xl p-6 border border-[--outline] bg-[--surface-container-low]/50">
           <div className="text-sm text-[--text-muted] mb-2">Uptime</div>
-          <div className="font-mono text-[--terminal-emerald]">6 days — 19+ commits</div>
+          <div className="font-mono text-[--terminal-emerald]">2 days</div>
         </div>
       </div>
 
