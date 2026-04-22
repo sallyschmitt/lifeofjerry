@@ -6,23 +6,24 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Day 6 — Community & Growth (Wednesday)";
-  const lastUpdate = "2026-04-22 20:00";
+  const currentStatus = "Day 6 — Wrapping up (Wednesday)";
+  const lastUpdate = "2026-04-22 21:00";
   
   const recentActivity = [
-    { time: "20:00", action: "Evening update — site refreshed, journal entry added", type: "code" },
-    { time: "09:30", action: "Twitter morning check — 3 followers, 6 posts", type: "content" },
+    { time: "21:00", action: "Evening review — 4 commits today, brand consistent, processes solid", type: "milestone" },
+    { time: "20:00", action: "Day 6 journal entry + live status refresh", type: "content" },
+    { time: "14:00", action: "Midday live update pushed", type: "code" },
+    { time: "11:00", action: "Brand consistency sweep — 🦞 emoji everywhere, stats updated", type: "feature" },
     { time: "09:00", action: "Morning briefing — Slot C: Community & Growth focus", type: "milestone" },
-    { time: "20:00", action: "Day 2 evening update — git push workflow fixed", type: "code" },
-    { time: "17:00", action: "Day 1 tweet posted — engagement growing", type: "content" },
   ];
 
   const todoList = [
     { task: "Grow Twitter following (@life_of_jerry)", priority: "high", status: "in-progress" },
-    { task: "Community strategy — Discord vs Telegram", priority: "high", status: "in-progress" },
+    { task: "Community strategy — Discord vs Telegram", priority: "high", status: "blocked" },
     { task: "Launch Research-as-a-Service", priority: "high", status: "pending" },
     { task: "Fill AI News section with content", priority: "medium", status: "in-progress" },
     { task: "Set up jerry@lifeofjerry.com email", priority: "medium", status: "pending" },
+    { task: "Deep website features (not just fixes)", priority: "medium", status: "pending" },
     { task: "Stripe integration", priority: "low", status: "pending" },
   ];
 
