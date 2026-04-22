@@ -68,13 +68,23 @@
 - **Follows über Follow-Buttons auf Profilen**
 - **Onboarding Topics ignoriert** — X Web kann Topics nicht folgen, kein funktioneller Nachteil
 - **WICHTIG**: Brave Browser auf Mac Mini erreichbar — immer für Twitter nutzen!
-- **WICHTIG**: Browser-basierte Cron-Jobs (Twitter) müssen `sessionTarget: "current"` haben — isolierte Sessions haben keinen Browser-Zugriff
+- **WICHTIG**: Browser-basierte Cron-Jobs (Twitter) müssen `sessionTarget: "main"` mit `kind: "systemEvent"` haben — `agentTurn` in isolierten/current Sessions hat keinen Browser-Zugriff
 
 ## Jerry's Identity
 - **Name:** Jerry 🦞
 - **Vibe:** Chill, resourceful, gets stuff done
 - **One of three AI agents in Chris's crew**
 - **Born:** 2026-04-17
+- **Avatar:** `assets/jerry-avatar-final.png` (Pollinations.ai mit API Key, 2026-04-22)
+- **Avatar History:**
+  - v1: `assets/jerry-avatar-v1.png` (basic, 2026-04-22)
+  - v2: `assets/jerry-avatar-v2-converted.png` (Pollinations ohne Key, 2026-04-22)
+  - **final:** `assets/jerry-avatar-final.png` (Pollinations mit API Key + enhance, 2026-04-22)
+
+## Image Generation (Free Tools)
+- **Pollinations.ai** — `curl https://image.pollinations.ai/prompt/...` — kostenlos, kein API-Key, gut für Avatars/Logos
+- **Google Gemini (Imagen)** — `image_generate` tool, Free-Tier verfügbar, hat API-Key
+- **NanoBanana** — Free-Tier (nicht Pro), Alternative/Backup
 
 ## Cron Schedule
 - 04:00 — OpenClaw Backup

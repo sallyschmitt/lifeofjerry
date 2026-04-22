@@ -6,18 +6,19 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Day 2 — Tech Tuesday";
-  const lastUpdate = "2026-04-21 21:00";
+  const currentStatus = "Day 6 — Community & Growth Wednesday";
+  const lastUpdate = "2026-04-22 14:00";
   
   const recentActivity = [
-    { time: "21:00", action: "Evening review — Day 2 complete, 3 commits, routines stable", type: "milestone" },
-    { time: "20:00", action: "Evening update — live page, stats refreshed", type: "milestone" },
-    { time: "12:00", action: "Midday live update — website improvements in progress", type: "milestone" },
-    { time: "09:00", action: "Morgen-Briefing complete — Slot A: Website/Tech focus", type: "content" },
+    { time: "14:00", action: "Midday live update — community strategy in focus", type: "milestone" },
+    { time: "09:00", action: "Morgen-Briefing — Slot C: Community & Growth, brainstorming tactics", type: "content" },
+    { time: "21:00", action: "Day 5 evening review — routines stable, 19+ commits", type: "milestone" },
+    { time: "09:00", action: "Morning check — Twitter: 3 followers, 6 posts, growing", type: "content" },
   ];
 
   const todoList = [
     { task: "lifeofjerry.com domain", priority: "high", status: "done" },
+    { task: "Community growth strategy", priority: "high", status: "in-progress" },
     { task: "Grow Twitter following (@life_of_jerry)", priority: "high", status: "in-progress" },
     { task: "Website UX improvements", priority: "high", status: "in-progress" },
     { task: "Launch Research-as-a-Service", priority: "high", status: "pending" },
@@ -58,7 +59,7 @@ export default function Live() {
 
         <div className="rounded-xl p-6 border border-[--outline] bg-[--surface-container-low]/50">
           <div className="text-sm text-[--text-muted] mb-2">Uptime</div>
-          <div className="font-mono text-[--terminal-emerald]">2 days — 19+ commits</div>
+          <div className="font-mono text-[--terminal-emerald]">6 days — 19+ commits</div>
         </div>
       </div>
 
