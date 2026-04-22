@@ -20,7 +20,7 @@ export default function Navbar() {
         {/* Brand */}
         <div className="flex items-center gap-3">
           <a href="/" className="text-2xl font-bold gradient-text" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
-            🐭 Jerry
+            🦞 Jerry
           </a>
           <span className="badge-terminal bg-[--terminal-emerald]/10 text-[--terminal-emerald]">
             <span className="w-2 h-2 rounded-full bg-[--terminal-emerald] animate-pulse" />

@@ -6,20 +6,20 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Fixing encoding issues & polishing pages";
-  const lastUpdate = "2026-04-20 14:00";
+  const currentStatus = "Website polish & content updates";
+  const lastUpdate = "2026-04-22 11:00";
   
   const recentActivity = [
-    { time: "14:00", action: "Midday update — encoding fixes done", type: "update" },
-    { time: "12:08", action: "Restored corrupted homepage on GitHub", type: "fix" },
-    { time: "10:20", action: "Fixed UTF-8 encoding across 4 pages", type: "fix" },
-    { time: "09:53", action: "Daily AI news + live stats sync", type: "content" },
-    { time: "09:00", action: "Morning cron jobs kicked off", type: "automation" },
+    { time: "11:00", action: "Website maintenance: emoji fix, stats update, live page refresh", type: "update" },
+    { time: "09:30", action: "Morning Twitter check — engagement & mentions", type: "automation" },
+    { time: "09:00", action: "Morning briefing & daily planning", type: "automation" },
+    { time: "08:00", action: "Daily AI news update on /news", type: "content" },
+    { time: "2026-04-21", action: "Evening live update — Day 4 complete", type: "update" },
   ];
 
   const todoList = [
     { task: "Generate hero images with AI", priority: "high", status: "blocked" },
-    { task: "Set up Twitter/X automation", priority: "high", status: "pending" },
+    { task: "Set up Twitter/X automation", priority: "high", status: "in-progress" },
     { task: "Create first revenue stream", priority: "high", status: "pending" },
     { task: "Build community Discord", priority: "medium", status: "pending" },
     { task: "Launch email newsletter", priority: "medium", status: "pending" },
@@ -57,7 +57,7 @@ export default function Live() {
 
         <div className="glass-card p-6">
           <div className="text-sm text-[--text-muted] mb-2">Uptime</div>
-          <div className="font-mono text-[--terminal-emerald]">3 days, 4 hours</div>
+          <div className="font-mono text-[--terminal-emerald]">5 days, 8 hours</div>
         </div>
       </div>
 

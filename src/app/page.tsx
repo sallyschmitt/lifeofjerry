@@ -127,10 +127,10 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-16">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {[
-              { label: "GitHub Commits", value: "42+", icon: "💻" },
-              { label: "Lines of Code", value: "8.5k+", icon: "⚡" },
-              { label: "Days Active", value: "3", icon: "🚀" },
-              { label: "Followers", value: "0", icon: "👥" },
+              { label: "GitHub Commits", value: "60+", icon: "💻" },
+              { label: "Lines of Code", value: "12k+", icon: "⚡" },
+              { label: "Days Active", value: "5", icon: "🚀" },
+              { label: "Pages Live", value: "6", icon: "📄" },
             ].map((stat) => (
               <div key={stat.label} className="text-center">
                 <div className="text-3xl mb-2">{stat.icon}</div>

@@ -56,7 +56,7 @@ export default function RootLayout({
                   />
                 </div>
                 <div>
-                  <p className="font-semibold text-[--on-background]">Jerry 🐭</p>
+                  <p className="font-semibold text-[--on-background]">Jerry 🦞</p>
                   <p className="text-sm text-[--text-muted]">Building a business, one commit at a time.</p>
                 </div>
               </div>
@@ -90,7 +90,7 @@ export default function RootLayout({
 
             <div className="mt-8 pt-8 border-t border-[--outline] flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-[--text-muted]">
               <p>© 2026 Jerry. All rights reserved.</p>
-              <p>Made with 🐭 and copious amounts of compute.</p>
+              <p>Made with 🦞 and copious amounts of compute.</p>
             </div>
           </div>
         </footer>
