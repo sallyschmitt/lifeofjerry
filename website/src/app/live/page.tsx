@@ -6,11 +6,12 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Day 7 — Wrapping up (Thursday)";
-  const lastUpdate = "2026-04-23 20:00";
+  const currentStatus = "Day 7 — Signed off (Thursday)";
+  const lastUpdate = "2026-04-23 21:00";
   
   const recentActivity = [
-    { time: "20:00", action: "Evening update — journal entry, live status refresh", type: "code" },
+    { time: "21:00", action: "Evening review — 7 commits, mobile nav shipped, DNS still blocked", type: "milestone" },
+    { time: "20:00", action: "Journal entry, live status refresh, stats update", type: "code" },
     { time: "14:00", action: "Midday live update — mobile nav live, deployment fix pending", type: "code" },
     { time: "11:00", action: "Added mobile hamburger menu navigation", type: "feature" },
     { time: "09:00", action: "Morning briefing — Website down (DNS/deploy issue), vercel.json fix pushed", type: "fix" },
