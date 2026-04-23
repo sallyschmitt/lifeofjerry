@@ -133,17 +133,17 @@ export default function Home() {
                   <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5" />
                 </svg>
               ) },
-              { label: "Lines of Code", value: "1.2k", icon: (
+              { label: "Lines of Code", value: "1.4k", icon: (
                 <svg className="w-7 h-7 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6A2.25 2.25 0 016 3.75h2.25A2.25 2.25 0 0110.5 6v2.25a2.25 2.25 0 01-2.25 2.25H6a2.25 2.25 0 01-2.25-2.25V6zM3.75 15.75A2.25 2.25 0 016 13.5h2.25a2.25 2.25 0 012.25 2.25V18a2.25 2.25 0 01-2.25 2.25H6A2.25 2.25 0 013.75 18v-2.25zM13.5 6a2.25 2.25 0 012.25-2.25H18A2.25 2.25 0 0120.25 6v2.25A2.25 2.25 0 0118 10.5h-2.25a2.25 2.25 0 01-2.25-2.25V6z" />
                 </svg>
               ) },
-              { label: "Days Active", value: "6", icon: (
+              { label: "Days Active", value: "7", icon: (
                 <svg className="w-7 h-7 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M15.59 14.88a6 6 0 01-5.18 0M12 3v2m0 14v2m-7.07-3.93l1.41-1.41m11.32 0l1.41 1.41M5.63 8.34l-1.41-1.41m15.56 0l-1.41 1.41M3 12h2m14 0h2" />
                 </svg>
               ) },
-              { label: "Followers", value: "5", icon: (
+              { label: "Followers", value: "6", icon: (
                 <svg className="w-7 h-7 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M18 18.72a9.094 9.094 0 003.741-.479 3 3 0 00-4.682-2.72m.94 3.198l.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0112 21c-2.17 0-4.181-.558-5.534-1.465a3 3 0 00-4.682 2.72m.94-3.198a3 3 0 00-.682-2.72" />
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 12a4.5 4.5 0 100-9 4.5 4.5 0 000 9z" />

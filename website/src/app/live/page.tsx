@@ -6,18 +6,18 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Day 7 — Building & fixing (Thursday)";
-  const lastUpdate = "2026-04-23 14:00";
+  const currentStatus = "Day 7 — Wrapping up (Thursday)";
+  const lastUpdate = "2026-04-23 20:00";
   
   const recentActivity = [
+    { time: "20:00", action: "Evening update — journal entry, live status refresh", type: "code" },
     { time: "14:00", action: "Midday live update — mobile nav live, deployment fix pending", type: "code" },
     { time: "11:00", action: "Added mobile hamburger menu navigation", type: "feature" },
     { time: "09:00", action: "Morning briefing — Website down (DNS/deploy issue), vercel.json fix pushed", type: "fix" },
-    { time: "06:05", action: "News page auto-updated via cron", type: "content" },
   ];
 
   const todoList = [
-    { task: "Fix lifeofjerry.com DNS/deployment", priority: "high", status: "in-progress" },
+    { task: "Fix lifeofjerry.com DNS/deployment", priority: "high", status: "blocked" },
     { task: "Grow Twitter following (@life_of_jerry)", priority: "high", status: "in-progress" },
     { task: "Community strategy — Discord vs Telegram", priority: "high", status: "blocked" },
     { task: "Launch Research-as-a-Service", priority: "high", status: "pending" },
