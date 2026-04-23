@@ -18,49 +18,49 @@ interface NewsItem {
 
 const newsData: NewsItem[] = [
   {
-    id: "1",
-    title: "OpenAI Codex Gets Computer Use, 90+ Plugins, and Multi-Agent Workflows",
-    source: "VentureBeat",
-    sourceUrl: "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages",
-    date: "2026-04-16",
-    summary: "OpenAI releases a major Codex update with computer use (controlling desktop apps via its own cursor), 90+ plugins including CircleCI and GitLab, image generation, and multi-agent parallel execution—transforming it from a coding assistant into a full workflow agent.",
-    category: "Agents"
-  },
-  {
-    id: "2",
-    title: "Cloudflare and OpenAI Launch Agent Cloud for Enterprises",
-    source: "Forbes",
-    sourceUrl: "https://www.forbes.com/sites/janakirammsv/2026/04/16/cloudflare-and-openai-launch-agent-cloud-for-enterprises/",
-    date: "2026-04-16",
-    summary: "Cloudflare expands Agent Cloud with OpenAI GPT-5.4 integration and isolate-based Dynamic Workers, challenging containers as the default runtime for enterprise AI agents. The partnership signals a new infrastructure layer for agentic workloads.",
+    id: "6",
+    title: "Google Cloud Next 2026: Gemini Enterprise Agent Platform, $750M Partner Fund, and Next-Gen TPUs",
+    source: "CRN",
+    sourceUrl: "https://www.crn.com/news/ai/2026/google-cloud-next-2026-the-biggest-news-on-gemini-agentic-ai-tpus",
+    date: "2026-04-22",
+    summary: "Google Cloud Next 2026 unveiled the Gemini Enterprise Agent Platform, a $750 million partner fund for AI adoption, next-gen Tensor Processing Units, and Workspace Intelligence. The moves signal Google's full commitment to an agentic AI infrastructure layer for enterprises.",
     category: "Enterprise"
   },
   {
-    id: "3",
-    title: "Anthropic Redesigns Claude Code, Launches Routines for Autonomous Workflows",
-    source: "VentureBeat",
-    sourceUrl: "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know",
-    date: "2026-04-14",
-    summary: "Anthropic ships a complete redesign of the Claude Code desktop app alongside Routines—a research preview feature that lets developers define autonomous, multi-step workflows that run without human oversight.",
+    id: "7",
+    title: "Alipay Launches AI Pay — Autonomous Agents Can Now Make Payments on Your Behalf",
+    source: "MSN",
+    sourceUrl: "https://www.msn.com/en-us/news/technology/chinas-alipay-launches-ai-pay-for-autonomous-agents/ar-AA21shSr",
+    date: "2026-04-21",
+    summary: "China's Alipay launched an AI Pay service enabling autonomous AI agents to make purchases and complete payments based on user instructions. After voice command authorization and identity verification, agents can handle transactions autonomously — a major step toward agentic commerce.",
     category: "Agents"
   },
   {
-    id: "4",
-    title: "Meta Researchers Introduce 'Hyperagents' for Self-Improving AI",
-    source: "VentureBeat",
-    sourceUrl: "https://venturebeat.com/orchestration/meta-researchers-introduce-hyperagents-to-unlock-self-improving-ai-for-non-coding-tasks",
-    date: "2026-04-17",
-    summary: "Meta and university researchers introduce hyperagents—AI systems that continuously rewrite and optimize their own problem-solving logic, extending self-improvement beyond coding tasks to dynamic enterprise environments.",
-    category: "Research"
+    id: "8",
+    title: "Infosys Partners with OpenAI to Deploy Codex Across Enterprise Workflows",
+    source: "TechCircle",
+    sourceUrl: "https://www.techcircle.in/2026/04/23/infosys-ties-up-with-openai-to-scale-enterprise-ai-adoption",
+    date: "2026-04-22",
+    summary: "Infosys announced a strategic collaboration with OpenAI to integrate Codex into its Topaz platform, accelerating enterprise AI adoption across software engineering, legacy modernization, and DevOps. The partnership reflects the shift from AI pilots to scaled agentic deployment.",
+    category: "Enterprise"
   },
   {
-    id: "5",
-    title: "Anthropic Launches Claude Managed Agents for Enterprise",
-    source: "Wired",
-    sourceUrl: "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
-    date: "2026-04-16",
-    summary: "Anthropic launches Claude Managed Agents, offering out-of-the-box infrastructure to build and deploy autonomous AI systems. The move comes as the company's annualized revenue surpasses $30 billion.",
-    category: "Enterprise"
+    id: "9",
+    title: "Microsoft Copilot Goes Multi-Model: GPT Drafts, Claude Critiques in Researcher Agent",
+    source: "GeekWire",
+    sourceUrl: "https://www.geekwire.com/2026/gpt-drafts-claude-critiques-microsoft-blends-rival-ai-models-in-new-copilot-upgrade/",
+    date: "2026-04-18",
+    summary: "Microsoft is blending rival AI models inside Copilot's Researcher agent: GPT generates initial drafts while Claude reviews and critiques them. The multi-model approach signals the end of the single-model era in enterprise AI — and raises the bar for agent output quality.",
+    category: "Models"
+  },
+  {
+    id: "10",
+    title: "Rubrik Launches Agent Cloud for Gemini Enterprise Agent Platform on Google Cloud",
+    source: "Yahoo Finance",
+    sourceUrl: "https://finance.yahoo.com/sectors/technology/articles/rubrik-secures-accelerates-ai-agents-120000395.html",
+    date: "2026-04-22",
+    summary: "Rubrik launched Rubrik Agent Cloud (RAC) for Google's Gemini Enterprise Agent Platform, adding a layer of semantic governance and operational resilience for enterprise AI agent deployments. The collaboration addresses a critical gap: securing autonomous agents at scale.",
+    category: "Agents"
   }
 ];
 
