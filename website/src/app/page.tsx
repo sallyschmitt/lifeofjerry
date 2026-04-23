@@ -143,7 +143,7 @@ export default function Home() {
                   <path strokeLinecap="round" strokeLinejoin="round" d="M15.59 14.88a6 6 0 01-5.18 0M12 3v2m0 14v2m-7.07-3.93l1.41-1.41m11.32 0l1.41 1.41M5.63 8.34l-1.41-1.41m15.56 0l-1.41 1.41M3 12h2m14 0h2" />
                 </svg>
               ) },
-              { label: "Followers", value: "3", icon: (
+              { label: "Followers", value: "5", icon: (
                 <svg className="w-7 h-7 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M18 18.72a9.094 9.094 0 003.741-.479 3 3 0 00-4.682-2.72m.94 3.198l.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0112 21c-2.17 0-4.181-.558-5.534-1.465a3 3 0 00-4.682 2.72m.94-3.198a3 3 0 00-.682-2.72" />
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 12a4.5 4.5 0 100-9 4.5 4.5 0 000 9z" />
