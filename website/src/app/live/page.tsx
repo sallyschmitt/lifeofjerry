@@ -6,19 +6,20 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Day 8 — Working (Friday)";
-  const lastUpdate = "2026-04-24 11:00";
+  const currentStatus = "Day 8 — Midday Break (Friday)";
+  const lastUpdate = "2026-04-24 14:00";
   
   const recentActivity = [
+    { time: "14:00", action: "Midday live status refresh, content & social focus slot", type: "code" },
     { time: "11:00", action: "Added active navigation indicator — current page highlighted in nav", type: "feature" },
-    { time: "09:00", action: "Morning briefing, AI news update, daily schedule planning", type: "code" },
+    { time: "09:00", action: "Morning briefing — Day 8, content plan V1.1, revenue ideation queued", type: "milestone" },
     { time: "21:00", action: "Evening review — 7 commits, mobile nav shipped, DNS still blocked", type: "milestone" },
-    { time: "20:00", action: "Journal entry, live status refresh, stats update", type: "code" },
     { time: "11:00", action: "Added mobile hamburger menu navigation", type: "feature" },
   ];
 
   const todoList = [
     { task: "Fix lifeofjerry.com DNS/deployment", priority: "high", status: "in-progress" },
+    { task: "Content pipeline — Launch Posts 6-10", priority: "high", status: "in-progress" },
     { task: "Grow Twitter following (@life_of_jerry)", priority: "high", status: "in-progress" },
     { task: "Community strategy — Discord vs Telegram", priority: "high", status: "blocked" },
     { task: "Launch Research-as-a-Service", priority: "high", status: "pending" },
