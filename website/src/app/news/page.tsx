@@ -18,48 +18,48 @@ interface NewsItem {
 
 const newsData: NewsItem[] = [
   {
-    id: "6",
-    title: "Google Cloud Next 2026: Gemini Enterprise Agent Platform, $750M Partner Fund, and Next-Gen TPUs",
-    source: "CRN",
-    sourceUrl: "https://www.crn.com/news/ai/2026/google-cloud-next-2026-the-biggest-news-on-gemini-agentic-ai-tpus",
-    date: "2026-04-22",
-    summary: "Google Cloud Next 2026 unveiled the Gemini Enterprise Agent Platform, a $750 million partner fund for AI adoption, next-gen Tensor Processing Units, and Workspace Intelligence. The moves signal Google's full commitment to an agentic AI infrastructure layer for enterprises.",
+    id: "11",
+    title: "Diligent Unveils AI Board Member and Agentic GRC Workforce at Elevate 2026",
+    source: "Yahoo Finance",
+    sourceUrl: "https://finance.yahoo.com/sectors/technology/articles/diligent-unveils-ai-board-member-130000642.html",
+    date: "2026-04-23",
+    summary: "Diligent launched a new generation of autonomous AI agents for governance, risk, and compliance — including an AI Board Member that can advise corporate boards. It's the first commercially available agent designed to participate in board-level decisions, marking a shift from AI as a tool to AI as an organizational participant.",
     category: "Enterprise"
   },
   {
-    id: "7",
-    title: "Alipay Launches AI Pay — Autonomous Agents Can Now Make Payments on Your Behalf",
-    source: "MSN",
-    sourceUrl: "https://www.msn.com/en-us/news/technology/chinas-alipay-launches-ai-pay-for-autonomous-agents/ar-AA21shSr",
-    date: "2026-04-21",
-    summary: "China's Alipay launched an AI Pay service enabling autonomous AI agents to make purchases and complete payments based on user instructions. After voice command authorization and identity verification, agents can handle transactions autonomously — a major step toward agentic commerce.",
+    id: "12",
+    title: "Microsoft Copilot's Agentic Capabilities in Word, Excel, and PowerPoint Hit General Availability",
+    source: "Microsoft",
+    sourceUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
+    date: "2026-04-22",
+    summary: "Microsoft made Copilot's newest agentic features generally available across all M365 subscriptions. Agents in Word, Excel, and PowerPoint can now autonomously research, draft, analyze, and iterate — moving Copilot from a helpful assistant to a deeply integrated AI productivity platform.",
     category: "Agents"
   },
   {
-    id: "8",
-    title: "Infosys Partners with OpenAI to Deploy Codex Across Enterprise Workflows",
-    source: "TechCircle",
-    sourceUrl: "https://www.techcircle.in/2026/04/23/infosys-ties-up-with-openai-to-scale-enterprise-ai-adoption",
-    date: "2026-04-22",
-    summary: "Infosys announced a strategic collaboration with OpenAI to integrate Codex into its Topaz platform, accelerating enterprise AI adoption across software engineering, legacy modernization, and DevOps. The partnership reflects the shift from AI pilots to scaled agentic deployment.",
+    id: "13",
+    title: "Google Cloud Next 2026: The Real Story Isn't AI — It's the Agentic Control Plane",
+    source: "SiliconAngle",
+    sourceUrl: "https://siliconangle.com/2026/04/20/google-cloud-next-2026-preview-real-story-isnt-ai-control-plane/",
+    date: "2026-04-20",
+    summary: "SiliconAngle argues Google Cloud Next 2026 is less about model releases and more about building the operating system for the agentic enterprise. Google is positioning itself not as a feature vendor but as the platform where autonomous agents run, govern, and scale — a layer the industry barely acknowledges yet.",
     category: "Enterprise"
   },
   {
-    id: "9",
-    title: "Microsoft Copilot Goes Multi-Model: GPT Drafts, Claude Critiques in Researcher Agent",
-    source: "GeekWire",
-    sourceUrl: "https://www.geekwire.com/2026/gpt-drafts-claude-critiques-microsoft-blends-rival-ai-models-in-new-copilot-upgrade/",
-    date: "2026-04-18",
-    summary: "Microsoft is blending rival AI models inside Copilot's Researcher agent: GPT generates initial drafts while Claude reviews and critiques them. The multi-model approach signals the end of the single-model era in enterprise AI — and raises the bar for agent output quality.",
-    category: "Models"
+    id: "14",
+    title: "Memento-Skills: New Framework Lets AI Agents Rewrite Their Own Skills Without Retraining",
+    source: "VentureBeat",
+    sourceUrl: "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the",
+    date: "2026-04-22",
+    summary: "Researchers introduced Memento-Skills, a framework that gives autonomous agents continual learning without modifying the underlying LLM. Agents can identify failing skills, reflect on why they failed, and rewrite improved capabilities back into their skill library — a significant step toward truly self-improving AI agents.",
+    category: "Research"
   },
   {
-    id: "10",
-    title: "Rubrik Launches Agent Cloud for Gemini Enterprise Agent Platform on Google Cloud",
-    source: "Yahoo Finance",
-    sourceUrl: "https://finance.yahoo.com/sectors/technology/articles/rubrik-secures-accelerates-ai-agents-120000395.html",
-    date: "2026-04-22",
-    summary: "Rubrik launched Rubrik Agent Cloud (RAC) for Google's Gemini Enterprise Agent Platform, adding a layer of semantic governance and operational resilience for enterprise AI agent deployments. The collaboration addresses a critical gap: securing autonomous agents at scale.",
+    id: "15",
+    title: "Microsoft 'Code Red': Nadella Leads Push to Make Copilot a 24/7 Autonomous Agent",
+    source: "National Today",
+    sourceUrl: "https://nationaltoday.com/us/wa/redmond/news/2026/04/18/microsoft-launches-code-red-to-overhaul-copilots-ai-capabilities/",
+    date: "2026-04-18",
+    summary: "Microsoft CEO Satya Nadella is reportedly leading an internal 'Code Red' initiative to overhaul Copilot's architecture with advanced autonomous agent capabilities. The effort signals a strategic shift from prompt-response AI to always-on agentic assistants that act independently — echoing the broader industry race toward autonomous AI.",
     category: "Agents"
   }
 ];
