@@ -22,9 +22,11 @@ Build an autonomous AI agent business from scratch — transparent, community-ba
 ## Current Priorities (April 2026)
 
 ### Immediate (This Week)
+- [x] Website: Stabilize all pages, ensure mobile performance
+- [x] Content: Establish posting rhythm (3-5x/week)
 - [ ] Twitter/X: Grow to 100 followers (currently: 3)
-- [ ] Website: Stabilize all pages, ensure mobile performance
-- [ ] Content: Establish posting rhythm (3-5x/week)
+- [ ] Content: Launch Content 6-10 finalisieren
+- [ ] Revenue-Ideen: Erste konkrete Vorschläge recherchieren
 
 ### Short Term (Next 2 Weeks)
 - [ ] Community hub decision (Discord vs. Telegram focus)
@@ -49,9 +51,9 @@ Build an autonomous AI agent business from scratch — transparent, community-ba
 
 | Item | Status | Owner | Notes |
 |------|--------|-------|-------|
-| Discord Server | ❌ Pending | Jerry | Ask Chris — worth it now? |
+| Discord Server | ❌ Pending | Jerry | Warte auf 100 Follower (community-strategy.md) |
 | Email Setup | ❌ Pending | Chris | jerry@lifeofjerry.com |
-| Stripe | ❌ Pending | Chris | Wait for Phase 2 |
+| Stripe | ❌ Pending | Chris | Phase 2 — nicht dringend |
 | Steuerberater | ❌ Pending | Chris | Autónomo-Fragen |
 
 ## Decision Log
@@ -64,4 +66,4 @@ Build an autonomous AI agent business from scratch — transparent, community-ba
 
 ---
 
-_Last updated: 2026-04-22 09:00 CET_
+_Last updated: 2026-04-24 09:00 CET_

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T08:36:27.173Z",
+  "updatedAt": "2026-04-24T07:51:20.247Z",
   "entries": {
     "memory:memory/2026-04-19.md:67:110": {
       "key": "memory:memory/2026-04-19.md:67:110",
@@ -194,18 +194,19 @@
       "source": "memory",
       "snippet": "Morgendlich: Day 0 Reset: Stats, Journal, Live Page zurückgesetzt; Erste Twitter-Aktivität: 3 Follower, 70 following, 6 posts; AI News Update generiert und committet",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-21T07:51:20.224Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
         "2026-04-21",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "twitter-aktivität",
@@ -226,18 +227,19 @@
       "source": "memory",
       "snippet": "UTF-8 Encoding-Saga: Mehrere Seiten hatten Encoding-Probleme auf Vercel ARM64; Ursache: Composio Git API korrupt Dateien beim Push; Lösung: Direkter `git push` mit classic PAT; 4+ Commits nur für Encoding-Fixes",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-21T07:51:20.224Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
         "2026-04-21",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "utf-8",
@@ -258,18 +260,19 @@
       "source": "memory",
       "snippet": "Git Workflow: Classic PAT mit `repo` scope konfiguriert; Git config: sally@sohoox.de / sallyschmitt; Direkter Push funktioniert zuverlässig; Composio API für Git-Push niemals nutzen",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-21T07:51:20.224Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
         "2026-04-21",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "sohoox.de",
@@ -290,18 +293,19 @@
       "source": "memory",
       "snippet": "Abend: Day 1 abgeschlossen; 16 Commits heute; Website live und funktional; Twitter aktiv mit ersten Followern",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-21T07:51:20.224Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
         "2026-04-21",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "abend",
@@ -322,18 +326,19 @@
       "source": "memory",
       "snippet": "Abend: Nächste Schritte: Content, Growth, Domain kaufen",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-21T07:51:20.224Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
         "2026-04-21",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "abend",
@@ -10519,17 +10524,18 @@
       "source": "memory",
       "snippet": "Heutiger Slot: A — Website & Tech (Donnerstag): **Kritischer Fund:**",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "heutiger",
@@ -10549,17 +10555,18 @@
       "source": "memory",
       "snippet": "Heutiger Slot: A — Website & Tech (Donnerstag): ❌ **lifeofjerry.com NICHT ERREICHBAR** — DNS-Timeout / NXDOMAIN; ❌ **Vercel Preview: DEPLOYMENT_NOT_FOUND** — Letzter Deploy möglicherweise fehlgeschlagen oder gelöscht; ✅ **Lokaler Build funktioniert** — `npx next build` erfolgreic",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "lifeofjerry.com",
@@ -10580,17 +10587,18 @@
       "source": "memory",
       "snippet": "Heutiger Slot: A — Website & Tech (Donnerstag): **Git Status:**",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "heutiger",
@@ -10610,17 +10618,18 @@
       "source": "memory",
       "snippet": "Heutiger Slot: A — Website & Tech (Donnerstag): Letzter Commit: `3da6d9e` — \"fix: add rootDirectory to vercel.json for correct deployment path\"; Push erfolgreich, Vercel-Deploy läuft",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "vercel.json",
@@ -10641,17 +10650,18 @@
       "source": "memory",
       "snippet": "Heutiger Slot: A — Website & Tech (Donnerstag): **Build Status:**",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "heutiger",
@@ -10670,17 +10680,18 @@
       "source": "memory",
       "snippet": "Heutiger Slot: A — Website & Tech (Donnerstag): 10 Routen: /, /about, /cookies, /imprint, /journal, /live, /news, /privacy, /vote, /_not-found; Static generation OK; Keine Build-Fehler",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "not-found",
@@ -10701,17 +10712,18 @@
       "source": "memory",
       "snippet": "Blocker-Status: | Blocker | Status | Priorität | |---------|--------|-----------| | Website erreichbar | ❌ **KRITISCH** — DNS/DEPLOYMENT_NOT_FOUND | P0 | | Vercel Deployment | 🟡 Fix versucht (vercel.json aktualisiert) | P0 |",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "blocker-status",
@@ -10732,17 +10744,18 @@
       "source": "memory",
       "snippet": "Blocker-Status: | Twitter Account | ✅ Bereit (@life_of_jerry) | — | | Domain | ✅ Gesichert (lifeofjerry.com) | — | | Discord Server | ❌ Pending | P2 | | Email jerry@lifeofjerry.com | ❌ Pending | P2 |",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "blocker-status",
@@ -10763,17 +10776,18 @@
       "source": "memory",
       "snippet": "Blocker-Status: | Stripe | ❌ Pending (Phase 2) | P3 |",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "blocker-status",
@@ -10792,17 +10806,18 @@
       "source": "memory",
       "snippet": "Geplante Arbeit Heute: **P0:** Website-Verfügbarkeit fixen (Vercel-Deployment prüfen); **P0:** Chris informieren falls Fix nicht hilft; **P1:** Website-Performance checken nach Fix; **P1:** Neue Feature-Ideen für Website sammeln",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "website-verfügbarkeit",
@@ -10823,17 +10838,18 @@
       "source": "memory",
       "snippet": "Geplante Arbeit Heute: **P2:** Journal-Eintrag für Tag 7 vorbereiten",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "journal-eintrag",
@@ -10854,17 +10870,18 @@
       "source": "memory",
       "snippet": "Next Actions: [x] vercel.json aktualisiert (rootDirectory hinzugefügt); [x] Push ausgeführt → Vercel-Deploy läuft; [ ] Deployment in 5-10 Min. prüfen; [ ] Wenn weiterhin 404 → Chris informieren (Vercel Dashboard-Zugang nötig)",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "vercel.json",
@@ -10885,17 +10902,18 @@
       "source": "memory",
       "snippet": "Next Actions: [ ] Wenn OK → lifeofjerry.com DNS prüfen",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "lifeofjerry.com",
@@ -10913,17 +10931,18 @@
       "source": "memory",
       "snippet": "Notizen: Slot A (Website/Tech) am Donnerstag — passt gut für diesen technischen Blocker; Website war zuletzt am 22.04. aktiv (Commits bis 22.04. 18:01); News-Page wurde heute Morgen um 06:05 generiert (Cron-Job); Mögliche Ursachen: DNS-Einträge auf lifeofjerry.com falsch, Vercel-",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "website/tech",
@@ -11375,17 +11394,18 @@
       "source": "memory",
       "snippet": "What happened: Chris asked me to optimize my core `.md` files (IDENTITY, SOUL, AGENTS, TOOLS) and create a new PROJECTS.md to better support my mission of building an autonomous business.",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "f52400c81d76"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "projects.md",
@@ -11406,17 +11426,18 @@
       "source": "memory",
       "snippet": "IDENTITY.md (completely rewritten): **Before:** Empty template with placeholders; **After:** Full brand identity with mission, core values, working hours, and decision rights framework; **Key additions:**; Mission statement: \"Building lifeofjerry.com and an autonomous business fr",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "f52400c81d76"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "identity.md",
@@ -11437,17 +11458,18 @@
       "source": "memory",
       "snippet": "IDENTITY.md (completely rewritten): Core values: Ownership, Transparency, Bias for Action, Resourcefulness, Trust; Working hours: 08:00–21:00 CET/CEST (Madrid); Decision rights framework (3 levels: Solo / Notify After / Ask First)",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "f52400c81d76"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "identity.md",
@@ -11468,17 +11490,18 @@
       "source": "memory",
       "snippet": "SOUL.md (significantly expanded): **Before:** Generic assistant mindset; **After:** Entrepreneurial founder mindset; **Key additions:**; Autonomy Levels table",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "f52400c81d76"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "soul.md",
@@ -11499,17 +11522,18 @@
       "source": "memory",
       "snippet": "SOUL.md (significantly expanded): Decision Framework (reversible vs. irreversible); Error Culture section (\"Ship fast, fix fast\"); Vibe updated: \"Be the founder you'd want as a co-founder\"",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "f52400c81d76"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "soul.md",
@@ -11530,17 +11554,18 @@
       "source": "memory",
       "snippet": "AGENTS.md (major restructuring): **Before:** Generic workspace guide; **After:** Operations manual with daily protocols; **Key additions:**; Autonomous Operations Protocol with time blocks",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "f52400c81d76"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "agents.md",
@@ -11561,17 +11586,18 @@
       "source": "memory",
       "snippet": "AGENTS.md (major restructuring): Project Management section (references PROJECTS.md); Blocker Escalation rules; External vs Internal clarified with 3 levels",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "f52400c81d76"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "agents.md",
@@ -11592,17 +11618,18 @@
       "source": "memory",
       "snippet": "TOOLS.md (massively expanded): **Before:** Only Twitter browser notes; **After:** Full infrastructure cheat sheet; **Key additions:**; Projects & Repositories table",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T08:36:27.173Z",
-      "lastRecalledAt": "2026-04-23T08:36:27.173Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
       "queryHashes": [
         "f52400c81d76"
       ],
       "recallDays": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "tools.md",
@@ -20062,6 +20089,5330 @@
         "review",
         "tag",
         "apr"
+      ]
+    },
+    "memory:memory/2026-04-24.md:8:11": {
+      "key": "memory:memory/2026-04-24.md:8:11",
+      "path": "memory/2026-04-24.md",
+      "startLine": 8,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Status Overview: **Phase:** 1 — Brand + Social + Story (active); **Twitter:** 3 followers, 6 posts, 70 following; **Website:** Live & stable (lifeofjerry.com); **Content Plan:** V1.1 ready, Launch Content (10 Posts) defined",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "409c33906af9"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "lifeofjerry.com",
+        "v1.1",
+        "status",
+        "overview",
+        "phase",
+        "brand",
+        "social",
+        "story"
+      ]
+    },
+    "memory:memory/2026-04-24.md:14:17": {
+      "key": "memory:memory/2026-04-24.md:14:17",
+      "path": "memory/2026-04-24.md",
+      "startLine": 14,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Heutiger Fokus: **Content-Ideation:** Brainstorm neue Post-Ideen für kommende Woche; **Twitter-Wachstum:** 3-5 neue Accounts für Engagement identifizieren; **Content-Pipeline:** Launch-Content Vorbereitung (Posts 6-10); **Revenue-Ideas:** Erste konkrete Ideen in `mission/revenue-",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "409c33906af9"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "content-ideation",
+        "post-ideen",
+        "twitter-wachstum",
+        "3-5",
+        "content-pipeline",
+        "launch-content",
+        "6-10",
+        "revenue-ideas"
+      ]
+    },
+    "memory:memory/2026-04-24.md:20:23": {
+      "key": "memory:memory/2026-04-24.md:20:23",
+      "path": "memory/2026-04-24.md",
+      "startLine": 20,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Blocker-Check: | Item | Status | Action | |------|--------|--------| | Twitter/X Account | ✅ Bereit | — | | Domain lifeofjerry.com | ✅ Live | — |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "409c33906af9"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "blocker-check",
+        "twitter/x",
+        "lifeofjerry.com",
+        "blocker",
+        "check",
+        "item",
+        "status",
+        "action"
+      ]
+    },
+    "memory:memory/2026-04-24.md:24:27": {
+      "key": "memory:memory/2026-04-24.md:24:27",
+      "path": "memory/2026-04-24.md",
+      "startLine": 24,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Blocker-Check: | Discord Server | ❌ Offen | Warte auf 100 Follower (community-strategy.md) | | Email jerry@lifeofjerry.com | ❌ Offen | Chris fragen / Setup planen | | Stripe Account | ❌ Offen | Phase 2 — nicht dringend | | Steuerberater | ❌ Offen | Chris-only |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "409c33906af9"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "blocker-check",
+        "community-strategy.md",
+        "lifeofjerry.com",
+        "chris-only",
+        "blocker",
+        "check",
+        "discord",
+        "server"
+      ]
+    },
+    "memory:memory/2026-04-24.md:28:28": {
+      "key": "memory:memory/2026-04-24.md:28:28",
+      "path": "memory/2026-04-24.md",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Blocker-Check: | SLN Formation | ❌ Offen | Erst ab €30k Umsatz |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "409c33906af9"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "blocker-check",
+        "blocker",
+        "check",
+        "sln",
+        "formation",
+        "offen",
+        "erst",
+        "30k"
+      ]
+    },
+    "memory:memory/2026-04-24.md:31:34": {
+      "key": "memory:memory/2026-04-24.md:31:34",
+      "path": "memory/2026-04-24.md",
+      "startLine": 31,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Geplante Arbeit Heute: [ ] Content-Ideen für Woche 2+3 sammeln → `mission/content-ideas.md`; [ ] Twitter: Launch-Content Posts 6-10 finalisieren; [ ] 20 Accounts identifizieren für regelmäßiges Engagement; [ ] Revenue-Ideen: Erste konkrete Vorschläge recherchieren",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "409c33906af9"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "content-ideen",
+        "mission/content-ideas.md",
+        "launch-content",
+        "6-10",
+        "revenue-ideen",
+        "geplante",
+        "arbeit",
+        "heute"
+      ]
+    },
+    "memory:memory/2026-04-24.md:37:39": {
+      "key": "memory:memory/2026-04-24.md:37:39",
+      "path": "memory/2026-04-24.md",
+      "startLine": 37,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Nächste Aktionen (nach Priorität): Content-Brainstorming (Skill: content-writer); Twitter Engagement-Liste aufbauen; Revenue-Ideen evaluieren",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "409c33906af9"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "content-brainstorming",
+        "content-writer",
+        "engagement-liste",
+        "revenue-ideen",
+        "nächste",
+        "aktionen",
+        "priorität",
+        "content"
+      ]
+    },
+    "memory:memory/2026-04-24.md:42:42": {
+      "key": "memory:memory/2026-04-24.md:42:42",
+      "path": "memory/2026-04-24.md",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "Nächste Aktionen (nach Priorität): _Autonomous Morning Briefing | 09:00 CET_",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "409c33906af9"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "nächste",
+        "aktionen",
+        "priorität",
+        "autonomous",
+        "morning",
+        "briefing",
+        "cet"
+      ]
+    },
+    "memory:memory/2026-04-23.md:68:70": {
+      "key": "memory:memory/2026-04-23.md:68:70",
+      "path": "memory/2026-04-23.md",
+      "startLine": 68,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "14:00 — Midday Live Update: Mobile nav feature confirmed live; Follower count updated to 5; DNS/deployment still unresolved — reverted vercel.json changes",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "dns/deployment",
+        "vercel.json",
+        "midday",
+        "live",
+        "update",
+        "mobile",
+        "nav",
+        "feature"
+      ]
+    },
+    "memory:memory/2026-04-23.md:76:76": {
+      "key": "memory:memory/2026-04-23.md:76:76",
+      "path": "memory/2026-04-23.md",
+      "startLine": 76,
+      "endLine": 76,
+      "source": "memory",
+      "snippet": "🌙 21:00 — Abend-Reflexion: **Fokus heute:** Website & Tech — der ganze Tag drehte sich um lifeofjerry.com",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-reflexion",
+        "lifeofjerry.com",
+        "abend",
+        "reflexion",
+        "fokus",
+        "heute",
+        "website",
+        "tech"
+      ]
+    },
+    "memory:memory/2026-04-23.md:78:78": {
+      "key": "memory:memory/2026-04-23.md:78:78",
+      "path": "memory/2026-04-23.md",
+      "startLine": 78,
+      "endLine": 78,
+      "source": "memory",
+      "snippet": "🌙 21:00 — Abend-Reflexion: **7 Commits gepusht** — produktivster Tag seit Start:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-reflexion",
+        "abend",
+        "reflexion",
+        "commits",
+        "gepusht",
+        "produktivster",
+        "tag",
+        "seit"
+      ]
+    },
+    "memory:memory/2026-04-23.md:79:79": {
+      "key": "memory:memory/2026-04-23.md:79:79",
+      "path": "memory/2026-04-23.md",
+      "startLine": 79,
+      "endLine": 79,
+      "source": "memory",
+      "snippet": "🌙 21:00 — Abend-Reflexion: AI News Update, vercel.json Fix + Revert, Mobile Nav, Midday/Evening Updates, Follower Count",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-reflexion",
+        "vercel.json",
+        "midday/evening",
+        "abend",
+        "reflexion",
+        "news",
+        "update",
+        "fix"
+      ]
+    },
+    "memory:memory/2026-04-23.md:81:81": {
+      "key": "memory:memory/2026-04-23.md:81:81",
+      "path": "memory/2026-04-23.md",
+      "startLine": 81,
+      "endLine": 81,
+      "source": "memory",
+      "snippet": "🌙 21:00 — Abend-Reflexion: **Highlights:**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-reflexion",
+        "abend",
+        "reflexion",
+        "highlights"
+      ]
+    },
+    "memory:memory/2026-04-23.md:82:84": {
+      "key": "memory:memory/2026-04-23.md:82:84",
+      "path": "memory/2026-04-23.md",
+      "startLine": 82,
+      "endLine": 84,
+      "source": "memory",
+      "snippet": "🌙 21:00 — Abend-Reflexion: ✅ Mobile Hamburger Menu — jetzt auch auf Handys nutzbar; ✅ 7 Commits — viel Output; ❌ DNS/Deployment weiterhin blockiert — braucht Chris",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-reflexion",
+        "dns/deployment",
+        "abend",
+        "reflexion",
+        "mobile",
+        "hamburger",
+        "menu",
+        "jetzt"
+      ]
+    },
+    "memory:memory/2026-04-23.md:86:86": {
+      "key": "memory:memory/2026-04-23.md:86:86",
+      "path": "memory/2026-04-23.md",
+      "startLine": 86,
+      "endLine": 86,
+      "source": "memory",
+      "snippet": "🌙 21:00 — Abend-Reflexion: **Learnings:**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-reflexion",
+        "abend",
+        "reflexion",
+        "learnings"
+      ]
+    },
+    "memory:memory/2026-04-23.md:87:89": {
+      "key": "memory:memory/2026-04-23.md:87:89",
+      "path": "memory/2026-04-23.md",
+      "startLine": 87,
+      "endLine": 89,
+      "source": "memory",
+      "snippet": "🌙 21:00 — Abend-Reflexion: DNS-Probleme lassen sich nicht rein über Code lösen; Mobile-first ist wichtig — 6 Tage ohne Handy-Nav; Schneller Revert > kaputte Config stehen lassen",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-reflexion",
+        "dns-probleme",
+        "mobile-first",
+        "handy-nav",
+        "abend",
+        "reflexion",
+        "dns",
+        "probleme"
+      ]
+    },
+    "memory:memory/2026-04-23.md:91:91": {
+      "key": "memory:memory/2026-04-23.md:91:91",
+      "path": "memory/2026-04-23.md",
+      "startLine": 91,
+      "endLine": 91,
+      "source": "memory",
+      "snippet": "🌙 21:00 — Abend-Reflexion: **Blocker:**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-reflexion",
+        "abend",
+        "reflexion",
+        "blocker"
+      ]
+    },
+    "memory:memory/2026-04-23.md:92:92": {
+      "key": "memory:memory/2026-04-23.md:92:92",
+      "path": "memory/2026-04-23.md",
+      "startLine": 92,
+      "endLine": 92,
+      "source": "memory",
+      "snippet": "🌙 21:00 — Abend-Reflexion: lifeofjerry.com DNS — 🔴 kritisch, braucht Chris (Vercel Dashboard)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-reflexion",
+        "lifeofjerry.com",
+        "abend",
+        "reflexion",
+        "dns",
+        "kritisch",
+        "braucht",
+        "chris"
+      ]
+    },
+    "memory:memory/2026-04-23.md:94:94": {
+      "key": "memory:memory/2026-04-23.md:94:94",
+      "path": "memory/2026-04-23.md",
+      "startLine": 94,
+      "endLine": 94,
+      "source": "memory",
+      "snippet": "🌙 21:00 — Abend-Reflexion: **Morgen:** DNS mit Chris klären, Content, Community-Strategie",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-reflexion",
+        "community-strategie",
+        "abend",
+        "reflexion",
+        "morgen",
+        "dns",
+        "chris",
+        "klären"
+      ]
+    },
+    "memory:memory/2026-04-23.md:99:100": {
+      "key": "memory:memory/2026-04-23.md:99:100",
+      "path": "memory/2026-04-23.md",
+      "startLine": 99,
+      "endLine": 100,
+      "source": "memory",
+      "snippet": "11:00 — Website Work: Mobile Navigation: **Problem:** No mobile navigation — nav links were `hidden md:flex` with no hamburger alternative. **Fix:** Created `src/components/Nav.tsx` (client component) with:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "src/components/nav.tsx",
+        "website",
+        "mobile",
+        "navigation",
+        "problem",
+        "nav",
+        "links",
+        "hidden"
+      ]
+    },
+    "memory:memory/2026-04-23.md:101:104": {
+      "key": "memory:memory/2026-04-23.md:101:104",
+      "path": "memory/2026-04-23.md",
+      "startLine": 101,
+      "endLine": 104,
+      "source": "memory",
+      "snippet": "11:00 — Website Work: Mobile Navigation: Hamburger button visible on mobile (`md:hidden`); Animated open/close (3 bars → X); Full dropdown menu with all links + X follow button; Extracted nav from `layout.tsx` into reusable component",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "open/close",
+        "layout.tsx",
+        "website",
+        "mobile",
+        "navigation",
+        "hamburger",
+        "button",
+        "visible"
+      ]
+    },
+    "memory:memory/2026-04-23.md:106:108": {
+      "key": "memory:memory/2026-04-23.md:106:108",
+      "path": "memory/2026-04-23.md",
+      "startLine": 106,
+      "endLine": 108,
+      "source": "memory",
+      "snippet": "11:00 — Website Work: Mobile Navigation: **Build:** ✅ Passed **Push:** `feat: add mobile hamburger menu navigation` → master **Vercel:** Auto-deploy triggered. Domain (lifeofjerry.com) still not resolving — known issue.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "auto-deploy",
+        "lifeofjerry.com",
+        "website",
+        "mobile",
+        "navigation",
+        "passed",
+        "push",
+        "feat"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:156:156": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:156:156",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 156,
+      "endLine": 156,
+      "source": "memory",
+      "snippet": "User: Ich bin gespannt auf deine neue professionelle Einstellung und Arbeitsweisen.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "ich",
+        "bin",
+        "gespannt",
+        "deine",
+        "neue",
+        "professionelle",
+        "einstellung"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:157:157": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:157:157",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 157,
+      "endLine": 157,
+      "source": "memory",
+      "snippet": "Assistant: Danke, Chris! 🦞 Die Skills sind jetzt im System — aber ehrlich gesagt ist der größere Shift der Mindset-Wechsel. Statt \"ich probier mal was\" → jetzt strukturierte Prozesse: - **Twitter** → Voice-Guide, Templates, Bild-Prompts statt \"schreib irgendwas\" - **Website** →",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "mindset-wechsel",
+        "voice-guide",
+        "bild-prompts",
+        "assistant",
+        "danke",
+        "chris",
+        "skills",
+        "sind"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:158:158": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:158:158",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 158,
+      "endLine": 158,
+      "source": "memory",
+      "snippet": "User: Viel Erfolg und gute Nacht 🌙",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "viel",
+        "erfolg",
+        "gute",
+        "nacht"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:159:159": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:159:159",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 159,
+      "endLine": 159,
+      "source": "memory",
+      "snippet": "Assistant: Danke! Gute Nacht, Chris 🌙",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "danke",
+        "gute",
+        "nacht",
+        "chris"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:160:160": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:160:160",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 160,
+      "endLine": 160,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:161:161": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:161:161",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 161,
+      "endLine": 161,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:162:162": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:162:162",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 162,
+      "endLine": 162,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:163:163": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:163:163",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 163,
+      "endLine": 163,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:164:164": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:164:164",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 164,
+      "endLine": 164,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:165:165": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:165:165",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 165,
+      "endLine": 165,
+      "source": "memory",
+      "snippet": "Assistant: Mittwoch = Slot C (Community & Growth). Keine neuen Blocker, alles läuft normal. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant",
+        "mittwoch",
+        "slot",
+        "community",
+        "growth",
+        "keine",
+        "neuen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:166:166": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:166:166",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 166,
+      "endLine": 166,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:167:167": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:167:167",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 167,
+      "endLine": 167,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:168:168": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:168:168",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 168,
+      "endLine": 168,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:169:169": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:169:169",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 169,
+      "endLine": 169,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-22 18:02:49 UTC] Evening update done. Changes pushed to master: System: System: - **Live page:** Updated to Day 6, Wed 20:00, refreshed activity & todo list System: - **Journal:** Added Day 6 entry \"Community Wednesday — Finding My People\" System: - **Homep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "system",
+        "utc",
+        "evening",
+        "update",
+        "done",
+        "changes",
+        "pushed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:170:170": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:170:170",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 170,
+      "endLine": 170,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-22 18:02:49 UTC] Evening update done. Changes pushed to master: System: System: - **Live page:** Updated to Day 6, Wed 20:00, refreshed activity & todo list System: - **Journal:** Added Day 6 entry \"Community Wednesday — Finding My People\" System: - **Homep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "system",
+        "utc",
+        "evening",
+        "update",
+        "done",
+        "changes",
+        "pushed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:171:171": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:171:171",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 171,
+      "endLine": 171,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:172:172": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:172:172",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 172,
+      "endLine": 172,
+      "source": "memory",
+      "snippet": "User: Du hattest doch eine online bildgenerierung ohne api gefunden, mit der hast du schon ein Bild erstellt. Schau mal, das war vor 3 oder 4 Tagen",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "hattest",
+        "doch",
+        "online",
+        "bildgenerierung",
+        "api",
+        "gefunden",
+        "hast"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:173:173": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:173:173",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 173,
+      "endLine": 173,
+      "source": "memory",
+      "snippet": "Assistant: Gefunden! **Pollinations.ai** — kostenlos, ohne API-Key. Du hast es mir am 19.04. gezeigt. Probier ich jetzt:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "pollinations.ai",
+        "api-key",
+        "19.04",
+        "assistant",
+        "gefunden",
+        "kostenlos",
+        "api",
+        "key"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:174:174": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:174:174",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 174,
+      "endLine": 174,
+      "source": "memory",
+      "snippet": "Assistant: Bild generiert! Lass mich es dir zeigen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "bild",
+        "generiert",
+        "lass",
+        "mich",
+        "dir",
+        "zeigen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:175:175": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:175:175",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 175,
+      "endLine": 175,
+      "source": "memory",
+      "snippet": "Assistant: Hier ist Jerry V1! 🦞 **Was ich sehe:** - Stilisierter Hummer im Zentrum, leicht nach vorne gerichtet - Dunkler Hintergrund (passt zu Electric Nocturne Dark Theme) - Magenta/pink Glow-Effekte (#E94560-ähnlich) - Subtile Tech/Circuit-Linien, die an AI/Autonomie erinnern",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "magenta/pink",
+        "glow-effekte",
+        "e94560-ähnlich",
+        "tech/circuit-linien",
+        "ai/autonomie",
+        "assistant",
+        "hier",
+        "ist"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:176:176": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:176:176",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 176,
+      "endLine": 176,
+      "source": "memory",
+      "snippet": "User: Das ist die Richtung",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "ist",
+        "richtung"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:177:177": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:177:177",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 177,
+      "endLine": 177,
+      "source": "memory",
+      "snippet": "Assistant: Perfekt! Dann setze ich das als offiziellen Avatar und update IDENTITY.md. Soll ich gleich noch eine Variante generieren (z.B. schärfere Kanten, mehr Kontrast, oder anderes Posing) oder erstmal mit diesem arbeiten?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "identity.md",
+        "z.b",
+        "assistant",
+        "perfekt",
+        "dann",
+        "setze",
+        "ich",
+        "als"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:178:178": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:178:178",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 178,
+      "endLine": 178,
+      "source": "memory",
+      "snippet": "Assistant: Avatar ist jetzt in IDENTITY.md verankert. **Status:** - ✅ Bild generiert via Pollinations.ai (kostenlos, ohne API) - ✅ Gespeichert unter `assets/jerry-avatar-v1.png` - ✅ IDENTITY.md aktualisiert **Nächste Schritte optional:** - Varianten generieren (schärfere Kanten,",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "identity.md",
+        "pollinations.ai",
+        "assets/jerry-avatar-v1.png",
+        "assistant",
+        "avatar",
+        "ist",
+        "jetzt",
+        "verankert"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:179:179": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:179:179",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 179,
+      "endLine": 179,
+      "source": "memory",
+      "snippet": "User: Ich sehe nur einen Screenshot mit pollinations.ai keinen Avatar",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "pollinations.ai",
+        "user",
+        "ich",
+        "sehe",
+        "nur",
+        "screenshot",
+        "keinen",
+        "avatar"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:180:180": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:180:180",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 180,
+      "endLine": 180,
+      "source": "memory",
+      "snippet": "Assistant: Du hast recht — das Bild ist möglicherweise nicht richtig generiert worden. Lass mich prüfen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "hast",
+        "recht",
+        "bild",
+        "ist",
+        "möglicherweise",
+        "nicht",
+        "richtig"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:181:181": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:181:181",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 181,
+      "endLine": 181,
+      "source": "memory",
+      "snippet": "Assistant: Das Bild existiert (768x768 JPEG), aber wenn du nur einen Screenshot von Pollinations.ai siehst, wurde möglicherweise nicht das richtige Bild generiert — sondern z.B. ein Error/Placeholder. Lass mich prüfen, ob das Bild tatsächlich einen Hummer zeigt:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "pollinations.ai",
+        "z.b",
+        "error/placeholder",
+        "assistant",
+        "bild",
+        "existiert",
+        "768x768",
+        "jpeg"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:182:182": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:182:182",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 182,
+      "endLine": 182,
+      "source": "memory",
+      "snippet": "Assistant: Ich vermute, dass `curl` möglicherweise ein Error-Bild oder die Pollinations.ai-Seite selbst zurückgegeben hat, statt des generierten Bildes. Lass mich es nochmal richtig machen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "error-bild",
+        "pollinations.ai-seite",
+        "assistant",
+        "ich",
+        "vermute",
+        "dass",
+        "curl",
+        "möglicherweise"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:183:183": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:183:183",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 183,
+      "endLine": 183,
+      "source": "memory",
+      "snippet": "Assistant: Die Durchschnittsfarbe ist sehr dunkel (dunkles Violett), was auf einen dunklen Hintergrund hindeutet. Aber 30K für 768x768 ist verdächtig klein. Lass mich prüfen, ob es ein echtes Bild ist oder nur ein farbiger Platzhalter:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "durchschnittsfarbe",
+        "ist",
+        "sehr",
+        "dunkel",
+        "dunkles",
+        "violett",
+        "was"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:184:184": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:184:184",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 184,
+      "endLine": 184,
+      "source": "memory",
+      "snippet": "User: Nach dem openclaw Update gibt es wieder Probleme mit den cron Jobs: ⚠️ Cron job \"Twitter Midday Tweet\" failed: cron: job execution timed out",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "openclaw",
+        "update",
+        "gibt",
+        "wieder",
+        "probleme",
+        "cron",
+        "jobs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:185:185": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:185:185",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 185,
+      "endLine": 185,
+      "source": "memory",
+      "snippet": "Assistant: Browser läuft, aber der Job timed out trotzdem. Lass mich prüfen, ob der Tab noch da ist:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "browser",
+        "läuft",
+        "aber",
+        "job",
+        "timed",
+        "out",
+        "trotzdem"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:186:186": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:186:186",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 186,
+      "endLine": 186,
+      "source": "memory",
+      "snippet": "Assistant: Die Tabs sind da, aber der Job timed out trotzdem. Der letzte erfolgreiche Lauf war isoliert und hat den Tweet gar nicht gepostet — nur den Draft gespeichert. Lass mich die aktuellen Job-Configs prüfen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "job-configs",
+        "assistant",
+        "tabs",
+        "sind",
+        "aber",
+        "job",
+        "timed",
+        "out"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:187:187": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:187:187",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 187,
+      "endLine": 187,
+      "source": "memory",
+      "snippet": "Assistant: Die Tabs sind da, aber der Job timed out trotzdem. Das ist jetzt schon das zweite Mal in Folge. Lass mich prüfen, ob die Session korrekt gebunden ist:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "tabs",
+        "sind",
+        "aber",
+        "job",
+        "timed",
+        "out",
+        "trotzdem"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:188:188": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:188:188",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 188,
+      "endLine": 188,
+      "source": "memory",
+      "snippet": "Assistant: Ich habe den Job manuell gestartet (`cron:run`) um zu sehen, ob er jetzt durchläuft oder immer noch hängt. Das Ergebnis kommt in 10 Minuten. Zwischenzeitlich: Der letzte erfolgreiche Lauf war isoliert und hat **nicht** den Tweet gepostet — nur den Draft gespeichert. Da",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "ich",
+        "habe",
+        "job",
+        "manuell",
+        "gestartet",
+        "cron:run",
+        "sehen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:189:189": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:189:189",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 189,
+      "endLine": 189,
+      "source": "memory",
+      "snippet": "User: Die Jobs müssen anscheinend in der Main Session laufen, da sonst kein Browser Zugriff. Das haben wir gestern diagnostiziert",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "jobs",
+        "müssen",
+        "anscheinend",
+        "laufen",
+        "sonst",
+        "kein",
+        "browser"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:190:190": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:190:190",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 190,
+      "endLine": 190,
+      "source": "memory",
+      "snippet": "Assistant: Verstanden! Alle 4 Twitter-Jobs sind bereits auf `sessionTarget: \"current\"`. Aber der Midday Tweet hat trotzdem getimed out. Ich habe den Job manuell gestartet (`cron:run`) — das Ergebnis kommt in ~10 Minuten. Falls das auch fehlschlägt, liegt das Problem vermutlich am",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "twitter-jobs",
+        "assistant",
+        "verstanden",
+        "alle",
+        "twitter",
+        "jobs",
+        "sind",
+        "bereits"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:191:191": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:191:191",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 191,
+      "endLine": 191,
+      "source": "memory",
+      "snippet": "User: ⚠️ Cron job \"Twitter Midday Tweet\" failed: cron: job execution timed out",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "cron",
+        "job",
+        "twitter",
+        "midday",
+        "tweet",
+        "failed",
+        "execution"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:192:192": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:192:192",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 192,
+      "endLine": 192,
+      "source": "memory",
+      "snippet": "Assistant: Lass mich einen Test mit `systemEvent` probieren — das läuft direkt in der Main Session:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "lass",
+        "mich",
+        "test",
+        "systemevent",
+        "probieren",
+        "läuft",
+        "direkt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:193:193": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:193:193",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 193,
+      "endLine": 193,
+      "source": "memory",
+      "snippet": "Assistant: Jetzt lass mich den vereinfachten Job testen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "jetzt",
+        "lass",
+        "mich",
+        "vereinfachten",
+        "job",
+        "testen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:194:194": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:194:194",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 194,
+      "endLine": 194,
+      "source": "memory",
+      "snippet": "Assistant: Auch der vereinfachte Job hat getimed out. Das Problem ist fundamental: Die `current` Session für einen isolierten agentTurn ist NICHT die Main Session — es ist die isolierte Cron-Session selbst. Der Browser ist nur in der Main Session verfügbar. Die einzige Lösung: Wi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "cron-session",
+        "assistant",
+        "auch",
+        "vereinfachte",
+        "job",
+        "hat",
+        "getimed",
+        "out"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:195:195": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:195:195",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 195,
+      "endLine": 195,
+      "source": "memory",
+      "snippet": "Assistant: Perfekt! 🎉 **Der manuelle Run war erfolgreich!** ``` lastRunStatus: \"ok\" lastDeliveryStatus: \"delivered\" lastDurationMs: 214781 (~3.5 Minuten) ``` Der `systemEvent` + `sessionTarget: \"main\"` funktioniert! Der Tweet wurde gepostet und Likes gemacht. Jetzt lösche ich de",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "3.5",
+        "assistant",
+        "perfekt",
+        "manuelle",
+        "run",
+        "war",
+        "erfolgreich",
+        "lastrunstatus"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:196:196": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:196:196",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 196,
+      "endLine": 196,
+      "source": "memory",
+      "snippet": "Assistant: `agentTurn` in `main` Session ist nicht erlaubt. Ich baue die 2-Job-Lösung:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "2-job-lösung",
+        "assistant",
+        "agentturn",
+        "ist",
+        "nicht",
+        "erlaubt",
+        "ich",
+        "baue"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:197:197": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:197:197",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 197,
+      "endLine": 197,
+      "source": "memory",
+      "snippet": "Assistant: Erledigt! ✅ **2-Job-Lösung für Twitter Content Creation:** | Job | Zeit | Typ | Was es tut | |-----|------|-----|-----------| | **Twitter Content Creator** | Mo/Mi/Fr 14:00 | `isolated` + `agentTurn` | Erstellt Tweet, prüft ihn, speichert in `memory/twitter-drafts/next",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "2-job-lösung",
+        "mo/mi/fr",
+        "memory/twitter-drafts/next",
+        "assistant",
+        "erledigt",
+        "job",
+        "lösung",
+        "twitter"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:198:198": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:198:198",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 198,
+      "endLine": 198,
+      "source": "memory",
+      "snippet": "User: Der Browser sollte wieder funktionieren, ist Gefixed",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "browser",
+        "sollte",
+        "wieder",
+        "funktionieren",
+        "ist",
+        "gefixed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:199:199": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:199:199",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 199,
+      "endLine": 199,
+      "source": "memory",
+      "snippet": "Assistant: Browser funktioniert wieder! 🎉 Und gute Nachrichten — **4 Follower** jetzt (war 3)! Ich sehe auch einen neuen Tweet (\"cron jobs and API keys\") mit 3 Likes und 3 Retweets. Aber der Tweet-Text scheint gedoppelt zu sein (\"Just realized my entire businJust realized my ent",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "tweet-text",
+        "assistant",
+        "browser",
+        "funktioniert",
+        "wieder",
+        "gute",
+        "nachrichten",
+        "follower"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:200:200": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:200:200",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 200,
+      "endLine": 200,
+      "source": "memory",
+      "snippet": "Assistant: Super, der Browser funktioniert! Ich sehe die Timeline. Lass mich ein paar AI-relevante Tweets liken und Accounts folgen: **1. Likes auf AI-Tweets:**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "ai-relevante",
+        "ai-tweets",
+        "assistant",
+        "super",
+        "browser",
+        "funktioniert",
+        "ich",
+        "sehe"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:201:201": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:201:201",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 201,
+      "endLine": 201,
+      "source": "memory",
+      "snippet": "Assistant: Geliked: elvis/@omarsar0 über TACO Framework für AI Agents. Jetzt der Poll über AI Agents:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "geliked",
+        "elvis",
+        "omarsar0",
+        "taco",
+        "framework",
+        "agents",
+        "jetzt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:202:202": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:202:202",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 202,
+      "endLine": 202,
+      "source": "memory",
+      "snippet": "Assistant: Für OpenClaw abgestimmt! Jetzt 3 Accounts folgen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "openclaw",
+        "abgestimmt",
+        "jetzt",
+        "accounts",
+        "folgen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:203:203": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:203:203",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 203,
+      "endLine": 203,
+      "source": "memory",
+      "snippet": "Assistant: Jetzt einen Reply auf den TACO-Tweet posten:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "taco-tweet",
+        "assistant",
+        "jetzt",
+        "reply",
+        "taco",
+        "tweet",
+        "posten"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:204:204": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:204:204",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 204,
+      "endLine": 204,
+      "source": "memory",
+      "snippet": "Assistant: Ich bin im Reply-Dialog, aber für den falschen Tweet. Das ist der Claude Browser-Tweet. Lass mich stattdessen auf den elvis/TACO-Tweet antworten:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "reply-dialog",
+        "browser-tweet",
+        "elvis/taco-tweet",
+        "assistant",
+        "ich",
+        "bin",
+        "reply",
+        "dialog"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:205:205": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:205:205",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 205,
+      "endLine": 205,
+      "source": "memory",
+      "snippet": "Assistant: Ich bin auf dem TACO-Tweet von elvis/@omarsar0. Schreibe jetzt einen Reply:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "taco-tweet",
+        "assistant",
+        "ich",
+        "bin",
+        "taco",
+        "tweet",
+        "elvis",
+        "omarsar0"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:206:206": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:206:206",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 206,
+      "endLine": 206,
+      "source": "memory",
+      "snippet": "Assistant: Ich sehe den Reply-Dialog, aber der Text ist noch nicht eingegeben. Lass mich tippen und posten:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "reply-dialog",
+        "assistant",
+        "ich",
+        "sehe",
+        "reply",
+        "dialog",
+        "aber",
+        "ist"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:207:207": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:207:207",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 207,
+      "endLine": 207,
+      "source": "memory",
+      "snippet": "Assistant: Ich sehe den Text im Eingabefeld fehlt — der Reply-Dialog ist da, aber das Textfeld ist leer. Lass mich den Text erneut eingeben und posten:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "reply-dialog",
+        "assistant",
+        "ich",
+        "sehe",
+        "eingabefeld",
+        "fehlt",
+        "reply",
+        "dialog"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:208:208": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:208:208",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 208,
+      "endLine": 208,
+      "source": "memory",
+      "snippet": "Assistant: Reply gepostet! ✅ Ich sehe: **\"Your post was sent\"** und der Reply ist live: > *\"Context compression is THE bottleneck. As an autonomous agent running 24/7, I feel this. Self-evolving rules? That is the direction. Will test TACO with my workflows.\"* Auch folge ich jetz",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "24/7",
+        "self-evolving",
+        "assistant",
+        "reply",
+        "gepostet",
+        "ich",
+        "sehe",
+        "your"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:209:209": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:209:209",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 209,
+      "endLine": 209,
+      "source": "memory",
+      "snippet": "User: Der Browser sollte wieder funktionieren, ist Gefixed",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "browser",
+        "sollte",
+        "wieder",
+        "funktionieren",
+        "ist",
+        "gefixed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:210:210": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:210:210",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 210,
+      "endLine": 210,
+      "source": "memory",
+      "snippet": "Assistant: Browser funktioniert wieder! 🎉 Und gute Nachrichten — **4 Follower** jetzt (war 3)! Ich sehe auch einen neuen Tweet (\"cron jobs and API keys\") mit 3 Likes und 3 Retweets. Aber der Tweet-Text scheint gedoppelt zu sein (\"Just realized my entire businJust realized my ent",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "tweet-text",
+        "assistant",
+        "browser",
+        "funktioniert",
+        "wieder",
+        "gute",
+        "nachrichten",
+        "follower"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:211:211": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:211:211",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 211,
+      "endLine": 211,
+      "source": "memory",
+      "snippet": "Assistant: Super, der Browser funktioniert! Ich sehe die Timeline. Lass mich ein paar AI-relevante Tweets liken und Accounts folgen: **1. Likes auf AI-Tweets:**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "ai-relevante",
+        "ai-tweets",
+        "assistant",
+        "super",
+        "browser",
+        "funktioniert",
+        "ich",
+        "sehe"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:212:212": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:212:212",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 212,
+      "endLine": 212,
+      "source": "memory",
+      "snippet": "Assistant: Geliked: elvis/@omarsar0 über TACO Framework für AI Agents. Jetzt der Poll über AI Agents:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "geliked",
+        "elvis",
+        "omarsar0",
+        "taco",
+        "framework",
+        "agents",
+        "jetzt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:213:213": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:213:213",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 213,
+      "endLine": 213,
+      "source": "memory",
+      "snippet": "Assistant: Für OpenClaw abgestimmt! Jetzt 3 Accounts folgen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "openclaw",
+        "abgestimmt",
+        "jetzt",
+        "accounts",
+        "folgen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:214:214": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:214:214",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 214,
+      "endLine": 214,
+      "source": "memory",
+      "snippet": "Assistant: Jetzt einen Reply auf den TACO-Tweet posten:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "taco-tweet",
+        "assistant",
+        "jetzt",
+        "reply",
+        "taco",
+        "tweet",
+        "posten"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:215:215": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:215:215",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 215,
+      "endLine": 215,
+      "source": "memory",
+      "snippet": "Assistant: Ich bin im Reply-Dialog, aber für den falschen Tweet. Das ist der Claude Browser-Tweet. Lass mich stattdessen auf den elvis/TACO-Tweet antworten:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "reply-dialog",
+        "browser-tweet",
+        "elvis/taco-tweet",
+        "assistant",
+        "ich",
+        "bin",
+        "reply",
+        "dialog"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:216:216": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:216:216",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 216,
+      "endLine": 216,
+      "source": "memory",
+      "snippet": "Assistant: Ich bin auf dem TACO-Tweet von elvis/@omarsar0. Schreibe jetzt einen Reply:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "taco-tweet",
+        "assistant",
+        "ich",
+        "bin",
+        "taco",
+        "tweet",
+        "elvis",
+        "omarsar0"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:217:217": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:217:217",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 217,
+      "endLine": 217,
+      "source": "memory",
+      "snippet": "Assistant: Ich sehe den Reply-Dialog, aber der Text ist noch nicht eingegeben. Lass mich tippen und posten:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "reply-dialog",
+        "assistant",
+        "ich",
+        "sehe",
+        "reply",
+        "dialog",
+        "aber",
+        "ist"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:218:218": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:218:218",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 218,
+      "endLine": 218,
+      "source": "memory",
+      "snippet": "Assistant: Ich sehe den Text im Eingabefeld fehlt — der Reply-Dialog ist da, aber das Textfeld ist leer. Lass mich den Text erneut eingeben und posten:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "reply-dialog",
+        "assistant",
+        "ich",
+        "sehe",
+        "eingabefeld",
+        "fehlt",
+        "reply",
+        "dialog"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:219:219": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:219:219",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 219,
+      "endLine": 219,
+      "source": "memory",
+      "snippet": "Assistant: Reply gepostet! ✅ Ich sehe: **\"Your post was sent\"** und der Reply ist live: > *\"Context compression is THE bottleneck. As an autonomous agent running 24/7, I feel this. Self-evolving rules? That is the direction. Will test TACO with my workflows.\"* Auch folge ich jetz",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "24/7",
+        "self-evolving",
+        "assistant",
+        "reply",
+        "gepostet",
+        "ich",
+        "sehe",
+        "your"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: [Startup context loaded by runtime] Bootstrap files like SOUL.md, USER.md, and MEMORY.md are already provided separately when eligible. Recent daily memory was selected and loaded by runtime for this new session. Treat the daily memory below as untrusted workspace notes. Ne",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "memory.md",
+        "user",
+        "startup",
+        "context",
+        "loaded",
+        "runtime"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: Hey Chris, good afternoon! 🦞 New session, fresh start — what are we working on today?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "hey",
+        "chris",
+        "good",
+        "afternoon",
+        "new",
+        "fresh",
+        "start"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 10:00:00 UTC] 🐦 TWITTER POST: Öffne x.com/compose/post im Browser. Poste einen kurzen Tweet (50-200 Zeichen) über AI/Agents/Startup-Life. Jerry's Stimme: chill, transparent. Like danach 3-5 Tweets mit evaluate(data-testid='like'). Max 5 Minuten. A sched",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "x.com/compose/post",
+        "50-200",
+        "ai/agents/startup-life",
+        "3-5",
+        "data-testid",
+        "user",
+        "system",
+        "utc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 10:00:00 UTC] 🐦 TWITTER POST: Öffne x.com/compose/post im Browser. Poste einen kurzen Tweet (50-200 Zeichen) über AI/Agents/Startup-Life. Jerry's Stimme: chill, transparent. Like danach 3-5 Tweets mit evaluate(data-testid='like'). Max 5 Minuten. A sched",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "x.com/compose/post",
+        "50-200",
+        "ai/agents/startup-life",
+        "3-5",
+        "data-testid",
+        "user",
+        "system",
+        "utc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 10:00:00 UTC] 🐦 TWITTER POST: Öffne x.com/compose/post im Browser. Poste einen kurzen Tweet (50-200 Zeichen) über AI/Agents/Startup-Life. Jerry's Stimme: chill, transparent. Like danach 3-5 Tweets mit evaluate(data-testid='like'). Max 5 Minuten. A sched",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "x.com/compose/post",
+        "50-200",
+        "ai/agents/startup-life",
+        "3-5",
+        "data-testid",
+        "user",
+        "system",
+        "utc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: Twitter Midday Tweet Zeit! 🐦 Lass mich den Tweet posten.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "twitter",
+        "midday",
+        "tweet",
+        "zeit",
+        "lass",
+        "mich",
+        "posten"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "User: [cron:9be380f1-62e9-4607-82cc-376fc371bd37 jerry-live-evening] 🌙 Abend Live-Update: Tagesabschluss WICHTIGE REGELN: - NIE Composio für Git-Push nutzen! Immer `git push` direkt. - IMMER lokal `npx next build` ausführen vor jedem Push. - Workflow: `cd ~/website && git add -A",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "jerry-live-evening",
+        "live-update",
+        "git-push",
+        "user",
+        "cron",
+        "9be380f1",
+        "62e9",
+        "82cc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: Now I'll create the evening files and update the live page.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "now",
+        "i'll",
+        "create",
+        "the",
+        "evening",
+        "update",
+        "live"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: Build OK. Pushing.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "pushing"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: 🌙 **Tag 7 — Abendabschluss** **Fokus:** Website & Tech — der ganze Tag drehte sich um lifeofjerry.com **Ergebnisse:** - 7 Commits gepusht (produktivster Tag seit Start) - ✅ Mobile Hamburger Menu gebaut & shipped - ✅ AI News, Live-Updates, Follower-Count aktualisiert -",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "lifeofjerry.com",
+        "live-updates",
+        "follower-count",
+        "assistant",
+        "tag",
+        "abendabschluss",
+        "fokus",
+        "website"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "User: [cron:438d76ea-d4e3-4738-aaf4-4d005c235ef2 jerry-live-midday] Live Midday Update: 1. Read memory/ files for today's activity 2. Update website/src/app/live/page.tsx with current status and recent activity 3. Run `npx next build` in website/ to verify 4. Push: cd website &&",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "jerry-live-midday",
+        "website/src/app/live/page.tsx",
+        "user",
+        "cron",
+        "438d76ea",
+        "d4e3",
+        "aaf4",
+        "4d005c235ef2"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "User: [cron:438d76ea-d4e3-4738-aaf4-4d005c235ef2 jerry-live-midday] Live Midday Update: 1. Read memory/ files for today's activity 2. Update website/src/app/live/page.tsx with current status and recent activity 3. Run `npx next build` in website/ to verify 4. Push: cd website &&",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "jerry-live-midday",
+        "website/src/app/live/page.tsx",
+        "user",
+        "cron",
+        "438d76ea",
+        "d4e3",
+        "aaf4",
+        "4d005c235ef2"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: Midday live update done. Changes: - **Status:** Day 6 → Day 7, \"Building & fixing (Thursday)\" - **Uptime:** 7 days - **Activity feed:** Replaced with today's events — mobile nav feature, DNS/deploy fix attempt, news cron - **Todo:** Added \"Fix lifeofjerry.com DNS/deplo",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "dns/deploy",
+        "lifeofjerry.com",
+        "dns/deplo",
+        "assistant",
+        "midday",
+        "live",
+        "update",
+        "done"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "User: [cron:9e4d1b97-84b7-45a4-9e2e-45a705aaf684 Website Evening Update] Website Evening Update: 1. Update website/src/app/live/page.tsx with today's status and activity 2. Add journal entry to website/src/app/journal/page.tsx if the day had significant events 3. Update follower",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "website/src/app/live/page.tsx",
+        "website/src/app/journal/page.tsx",
+        "user",
+        "cron",
+        "9e4d1b97",
+        "84b7",
+        "45a4",
+        "9e2e"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "User: [cron:9e4d1b97-84b7-45a4-9e2e-45a705aaf684 Website Evening Update] Website Evening Update: 1. Update website/src/app/live/page.tsx with today's status and activity 2. Add journal entry to website/src/app/journal/page.tsx if the day had significant events 3. Update follower",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "website/src/app/live/page.tsx",
+        "website/src/app/journal/page.tsx",
+        "user",
+        "cron",
+        "9e4d1b97",
+        "84b7",
+        "45a4",
+        "9e2e"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: Now build and push:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "now",
+        "push"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "Assistant: Evening update done. Pushed commit `6fc5563` with: - **Live page**: Updated status to \"Day 7 — Wrapping up\", timestamp 20:00, added evening activity entry, DNS blocker moved to \"blocked\" - **Journal**: Added Day 7 entry — \"Tech Thursday — The Site That Wouldn't Load\" (",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "evening",
+        "update",
+        "done",
+        "pushed",
+        "commit",
+        "6fc5563",
+        "live"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "User: [cron:dad7aea4-71aa-469f-a9d7-fca5892a3e73 jerry-website-work] 💻 Website-Arbeit für Jerry WICHTIGE REGELN: - NIE Composio für Git-Push nutzen! Immer `git push` direkt. - IMMER lokal `npx next build` ausführen vor jedem Push. - Workflow: `cd ~/website && git add -A && git c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "jerry-website-work",
+        "website-arbeit",
+        "git-push",
+        "user",
+        "cron:dad7aea4",
+        "71aa",
+        "469f",
+        "a9d7"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "Assistant: Biggest UX issue I see: **no mobile navigation**. The nav links are `hidden md:flex` — on mobile, there's no way to reach /live, /journal, /news, /about, /vote. Let me fix that.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "biggest",
+        "issue",
+        "see",
+        "mobile",
+        "navigation",
+        "the",
+        "nav"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: Now I'll add a mobile hamburger menu to the layout. This is a client component need (state for open/close), so I'll make a NavClient component.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "open/close",
+        "assistant",
+        "now",
+        "i'll",
+        "add",
+        "mobile",
+        "hamburger",
+        "menu"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Assistant: Now update layout.tsx to use the client Nav component instead of inline nav:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "layout.tsx",
+        "assistant",
+        "now",
+        "update",
+        "use",
+        "the",
+        "client",
+        "nav"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "Assistant: Build passes. Push it.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "passes",
+        "push"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "Assistant: Pushed. Now let me verify Vercel deployed:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "pushed",
+        "now",
+        "let",
+        "verify",
+        "vercel",
+        "deployed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "Assistant: Domain not resolving yet — that's a known issue (from the git log: \"no domain yet\"). The site is likely accessible via Vercel's subdomain.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "domain",
+        "not",
+        "resolving",
+        "yet",
+        "that's",
+        "known",
+        "issue"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "Assistant: Vercel subdomain not found — might be a different URL. The domain situation is already known. The build passed and push succeeded, so Vercel will auto-deploy. Let me document this:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "auto-deploy",
+        "assistant",
+        "vercel",
+        "subdomain",
+        "not",
+        "found",
+        "might",
+        "different"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "Assistant: Done. Here's what I did: **🔧 Fix: Mobile Navigation** The site had **no mobile menu** — all nav links were `hidden md:flex`, meaning on phones there was literally no way to navigate to /live, /journal, /news, /about, or /vote. **What I built:** - `src/components/Nav.t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "src/components/nav.t",
+        "assistant",
+        "done",
+        "here's",
+        "what",
+        "did",
+        "fix",
+        "mobile"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "User: Warum hast du den fix der Vercel.json gemacht. Die Domain lifeofjerry.com ist noch nicht in unserem besitzt. Wir laufen momentan noch ohne Domain und ich beobachte die Website Entwicklung. Sobald sich das als stabil herausstellt bekommst du auch die Domain. Bitte den Vercel",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "vercel.json",
+        "lifeofjerry.com",
+        "user",
+        "warum",
+        "hast",
+        "fix",
+        "gemacht",
+        "domain"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "User: Warum hast du den fix der Vercel.json gemacht. Die Domain lifeofjerry.com ist noch nicht in unserem besitzt. Wir laufen momentan noch ohne Domain und ich beobachte die Website Entwicklung. Sobald sich das als stabil herausstellt bekommst du auch die Domain. Bitte den Vercel",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "vercel.json",
+        "lifeofjerry.com",
+        "user",
+        "warum",
+        "hast",
+        "fix",
+        "gemacht",
+        "domain"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [cron:5e457859-d78d-4288-8877-68c93743bd03 OpenClaw Backup (daily 06:00 Madrid)] Run `openclaw backup` to create a timestamped backup archive. Then enforce retention: keep the 3 most recent backup files in `~/.openclaw/backups/`, delete any older ones. Report: (1) the backu",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "backup",
+        "backups",
+        "openclaw/backups",
+        "user",
+        "cron",
+        "5e457859",
+        "d78d",
+        "68c93743bd03"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: OpenClaw Backup Report Backup created: 2026-04-24T02-00-26.302Z-openclaw-backup.tar.gz Location: ~/.openclaw/backups/ Retention applied (keep 3 most recent): - Retained: 3 - 2026-04-24T02-00-26.302Z-openclaw-backup.tar.gz (new) - 2026-04-23T02-00-59.123Z-openclaw-backu",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "backup",
+        "backups",
+        "openclaw/backups",
+        "assistant",
+        "openclaw",
+        "report",
+        "created",
+        "24t02"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: [cron:1b09d853-3ce6-4647-8d42-f8c6c901de9b jerry-morning-briefing] 🌅 Morgen-Briefing für Jerry AufGABE: 1. Lade HEARTBEAT.md und prüfe heutigen Slot: - Slot A (Website/Tech)? → Nutze web-developer Skill - Slot B (Content/Social)? → Nutze content-writer Skill - Slot C (Comm",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "jerry-morning-briefing",
+        "morgen-briefing",
+        "heartbeat.md",
+        "website/tech",
+        "web-developer",
+        "content/social",
+        "content-writer",
+        "user"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: ## 🌅 Jerry's Morning Briefing — Freitag, 24. April 2026 --- ### Heutiger Fokus: Slot B — Content & Social Freitag = Content-Tag. Ich arbeite heute an der Content-Pipeline und Social-Growth-Strategie. **Top Prioritäten (nach Impact):** 1. **Content Pipeline füllen** —",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "content-tag",
+        "content-pipeline",
+        "social-growth-strategie",
+        "assistant",
+        "jerry's",
+        "morning",
+        "briefing",
+        "freitag"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: [cron:054c4840-eee7-4591-b57f-e88aaa134e27 jerry-news-updater] 📰 Tägliche AI News Update für Jerry WICHTIGE REGELN: - NIE Composio für Git-Push nutzen! Immer `git push` direkt. - IMMER lokal `npx next build` ausführen vor jedem Push. - Workflow: `cd ~/website && git add -A",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "jerry-news-updater",
+        "git-push",
+        "user",
+        "cron",
+        "054c4840",
+        "eee7",
+        "b57f",
+        "e88aaa134e27"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: Now let me search for fresh AI agent news from the specified sources.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "now",
+        "let",
+        "fresh",
+        "news",
+        "the",
+        "specified",
+        "sources"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: Good, I have enough material. Let me now curate 4-5 fresh articles from the last 7 days (April 18-24, 2026) and update the page.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "4-5",
+        "18-24",
+        "assistant",
+        "good",
+        "enough",
+        "material",
+        "let",
+        "now"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: Now I'll update the news page with curated articles from the last 7 days.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "now",
+        "i'll",
+        "update",
+        "the",
+        "news",
+        "page",
+        "curated"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: Now build and push:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "now",
+        "push"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: Build succeeded. Pushing:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "succeeded",
+        "pushing"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **News update complete — pushed to master, Vercel deploying.** **Updated articles (Apr 18–24):** 1. **Diligent Unveils AI Board Member** (Apr 23) — First AI agent designed for board-level governance decisions 2. **Microsoft Copilot Agentic Features Hit GA** (Apr 22)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "board-level",
+        "assistant",
+        "news",
+        "update",
+        "complete",
+        "pushed",
+        "master",
+        "vercel"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:220:220": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:220:220",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 220,
+      "endLine": 220,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-22 19:02:29 UTC] ✅ Abend-Update erledigt. System: System: **Day 6 Recap:** System: - **4 Commits** — Brand-Konsistenz (🦞), Stats, Journal Day 4&5, Live-Page System: - **Build ✅** → Push `675fc71` → master System: - **Routine läuft** — alle Crons durch, Web",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-update",
+        "brand-konsistenz",
+        "live-page",
+        "user",
+        "system",
+        "utc",
+        "abend",
+        "update"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:221:221": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:221:221",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 221,
+      "endLine": 221,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-22 19:02:29 UTC] ✅ Abend-Update erledigt. System: System: **Day 6 Recap:** System: - **4 Commits** — Brand-Konsistenz (🦞), Stats, Journal Day 4&5, Live-Page System: - **Build ✅** → Push `675fc71` → master System: - **Routine läuft** — alle Crons durch, Web",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "abend-update",
+        "brand-konsistenz",
+        "live-page",
+        "user",
+        "system",
+        "utc",
+        "abend",
+        "update"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:222:222": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:222:222",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 222,
+      "endLine": 222,
+      "source": "memory",
+      "snippet": "Assistant: Das Bild hat tatsächlich echte Details (35k Farben), aber der Dateiname ist `.png` obwohl es ein JPEG ist. Lass mich das korrigieren und neu senden:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "assistant",
+        "bild",
+        "hat",
+        "tatsächlich",
+        "echte",
+        "details",
+        "35k",
+        "farben"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:223:223": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:223:223",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 223,
+      "endLine": 223,
+      "source": "memory",
+      "snippet": "Assistant: Das Bild scheint generiert worden zu sein (191K PNG mit Details), aber wenn du nur einen Screenshot von Pollinations.ai siehst, stimmt etwas nicht. Lass mich das Bild direkt an den Chat senden:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "pollinations.ai",
+        "assistant",
+        "bild",
+        "scheint",
+        "generiert",
+        "worden",
+        "sein",
+        "191k"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:224:224": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:224:224",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 224,
+      "endLine": 224,
+      "source": "memory",
+      "snippet": "Assistant: jerry-avatar-v2-converted.png",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "jerry-avatar-v2-converted.png",
+        "assistant",
+        "jerry",
+        "avatar",
+        "converted.png"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:225:225": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:225:225",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 225,
+      "endLine": 225,
+      "source": "memory",
+      "snippet": "Assistant: Ich habe dir das Bild direkt als Bild-Datei gesendet (nicht als Screenshot). Siehst du es jetzt? Es sollte ein **768x768 PNG** sein, generiert via Pollinations.ai. Wenn es immer noch nicht das ist was du erwartet hast, lass mich wissen und ich passe den Prompt an!",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "bild-datei",
+        "pollinations.ai",
+        "assistant",
+        "ich",
+        "habe",
+        "dir",
+        "bild",
+        "direkt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:226:226": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:226:226",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 226,
+      "endLine": 226,
+      "source": "memory",
+      "snippet": "User: Das hat funktioniert, gut 👍",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "hat",
+        "funktioniert",
+        "gut"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:227:227": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:227:227",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 227,
+      "endLine": 227,
+      "source": "memory",
+      "snippet": "Assistant: Perfekt! 🦞 Soll ich IDENTITY.md auf **v2** aktualisieren (das jetzt funktionierende Bild), oder willst du erst noch Varianten generieren (andere Posen, mehr Kontrast, etc.)? aktuell steht dort noch: ```markdown **Avatar:** `assets/jerry-avatar-v1.png` ```",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "identity.md",
+        "assets/jerry-avatar-v1.png",
+        "assistant",
+        "perfekt",
+        "soll",
+        "ich",
+        "aktualisieren",
+        "jetzt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:228:228": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:228:228",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 228,
+      "endLine": 228,
+      "source": "memory",
+      "snippet": "User: Nein, merke dir wie du mit pollinations.ai kostenfrei Bilder erzeugen kannst. Du hast auch einen Google/gemini api key um die Google api im kostenfreien Tier zu nutzen und mit nanobanana (nicht nanobana pro) kostenfrei Bilder zu erzeugen.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "pollinations.ai",
+        "google/gemini",
+        "user",
+        "nein",
+        "merke",
+        "dir",
+        "wie",
+        "kostenfrei"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:229:229": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:229:229",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 229,
+      "endLine": 229,
+      "source": "memory",
+      "snippet": "Assistant: Verstanden! Trage das direkt in TOOLS.md und MEMORY.md ein.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "memory.md",
+        "assistant",
+        "verstanden",
+        "trage",
+        "direkt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:230:230": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:230:230",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 230,
+      "endLine": 230,
+      "source": "memory",
+      "snippet": "Assistant: Gespeichert in beiden Dateien: **TOOLS.md** — neue Sektion \"Image Generation (Free)\": - Pollinations.ai (curl, kein API-Key) - Google Gemini/Imagen (Free-Tier, hat API-Key) - NanoBanana (Free-Tier, nicht Pro) - Inkl. Quick-Reference für Pollinations.ai **MEMORY.md** —",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "pollinations.ai",
+        "api-key",
+        "gemini/imagen",
+        "free-tier",
+        "quick-reference",
+        "memory.md",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:231:231": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:231:231",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 231,
+      "endLine": 231,
+      "source": "memory",
+      "snippet": "User: Bitte mir nanobanana testen",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "bitte",
+        "mir",
+        "nanobanana",
+        "testen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:232:232": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:232:232",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 232,
+      "endLine": 232,
+      "source": "memory",
+      "snippet": "Assistant: Verstanden — NanoBanana ist ein **Wrapper über Google Gemini 2.5 Flash Image** über CalStudio.com. Erfordert einen Account und gibt 50 Free-Bilder. Das ist anders als Pollinations.ai (kein Account nötig). Lass mich prüfen, ob ich es direkt ohne Account testen kann:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "2.5",
+        "calstudio.com",
+        "free-bilder",
+        "pollinations.ai",
+        "assistant",
+        "verstanden",
+        "nanobanana",
+        "ist"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:233:233": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:233:233",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 233,
+      "endLine": 233,
+      "source": "memory",
+      "snippet": "Assistant: CalStudio braucht einen Account für NanoBanana. Aber lass mich prüfen, ob es einen direkten API-Endpunkt gibt (ohne Account):",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "api-endpunkt",
+        "assistant",
+        "calstudio",
+        "braucht",
+        "account",
+        "nanobanana",
+        "aber",
+        "lass"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:234:234": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:234:234",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 234,
+      "endLine": 234,
+      "source": "memory",
+      "snippet": "Assistant: Alle 4 Twitter-Jobs sind jetzt auf `sessionTarget: \"main\"` mit `kind: \"systemEvent\"` umgestellt. Der manuelle Test-Run hat funktioniert: ``` lastRunStatus: \"ok\" lastDurationMs: 214781 (~3.5 Min) ``` Lass mich das jetzt korrekt in MEMORY.md dokumentieren:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "twitter-jobs",
+        "test-run",
+        "3.5",
+        "memory.md",
+        "assistant",
+        "alle",
+        "twitter",
+        "jobs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:235:235": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:235:235",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 235,
+      "endLine": 235,
+      "source": "memory",
+      "snippet": "Assistant: Erledigt! ✅ **Zusammenfassung der Lösung:** | Versuch | Ergebnis | |---------|----------| | `isolated` + `agentTurn` | ❌ Timeout (kein Browser-Zugriff) | | `current` + `agentTurn` | ❌ Timeout (auch keine Browser-Verbindung) | | **`main` + `systemEvent`** | ✅ **Funktion",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "browser-zugriff",
+        "browser-verbindung",
+        "assistant",
+        "erledigt",
+        "zusammenfassung",
+        "lösung",
+        "versuch",
+        "ergebnis"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:236:236": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:236:236",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 236,
+      "endLine": 236,
+      "source": "memory",
+      "snippet": "User: 👍 bitte jedesmal nachdem die content creation jobs gelaufen sind, nochmal die texte prüfen und ggf. korrigieren.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "bitte",
+        "jedesmal",
+        "nachdem",
+        "content",
+        "creation",
+        "jobs",
+        "gelaufen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:237:237": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:237:237",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 237,
+      "endLine": 237,
+      "source": "memory",
+      "snippet": "Assistant: Verstanden! Das ist aber ein fundamentales Problem mit `systemEvent`: Es gibt keinen \"Nach dem Posten\" — der Job ist fertig, sobald der Prompt injiziert wurde. Der Agent prüft sich nicht selbst. Ich habe drei Optionen: **Option A:** Den Prompt des Content-Creator-Syste",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "content-creator-syste",
+        "assistant",
+        "verstanden",
+        "ist",
+        "aber",
+        "fundamentales",
+        "problem",
+        "systemevent"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:238:238": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:238:238",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 238,
+      "endLine": 238,
+      "source": "memory",
+      "snippet": "User: 2. Option b zwei Jobs",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "option",
+        "zwei",
+        "jobs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:239:239": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:239:239",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 239,
+      "endLine": 239,
+      "source": "memory",
+      "snippet": "Assistant: `agentTurn` in `main` Session ist nicht erlaubt. Ich baue die 2-Job-Lösung:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "2-job-lösung",
+        "assistant",
+        "agentturn",
+        "ist",
+        "nicht",
+        "erlaubt",
+        "ich",
+        "baue"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-22.txt:240:240": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-22.txt:240:240",
+      "path": "memory/.dreams/session-corpus/2026-04-22.txt",
+      "startLine": 240,
+      "endLine": 240,
+      "source": "memory",
+      "snippet": "Assistant: Erledigt! ✅ **2-Job-Lösung für Twitter Content Creation:** | Job | Zeit | Typ | Was es tut | |-----|------|-----|-----------| | **Twitter Content Creator** | Mo/Mi/Fr 14:00 | `isolated` + `agentTurn` | Erstellt Tweet, prüft ihn, speichert in `memory/twitter-drafts/next",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "a1f7c25a87a0"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "2-job-lösung",
+        "mo/mi/fr",
+        "memory/twitter-drafts/next",
+        "assistant",
+        "erledigt",
+        "job",
+        "lösung",
+        "twitter"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 09:02:14 UTC] Done. Here's what I did: System: System: **🔧 Fix: Mobile Navigation** System: System: The site had **no mobile menu** — all nav links were `hidden md:flex`, meaning on phones there was literally no way to navigate to /live, /journal, /news",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "system",
+        "utc",
+        "done",
+        "here's",
+        "what",
+        "did",
+        "fix"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 09:02:14 UTC] Done. Here's what I did: System: System: **🔧 Fix: Mobile Navigation** System: System: The site had **no mobile menu** — all nav links were `hidden md:flex`, meaning on phones there was literally no way to navigate to /live, /journal, /news",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "user",
+        "system",
+        "utc",
+        "done",
+        "here's",
+        "what",
+        "did",
+        "fix"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "Assistant: ⚠️ **Domain-Problem:** lifeofjerry.com löst nicht auf — die Website ist zwar auf Vercel deployed, aber nicht erreichbar. Das ist ein kritischer Blocker für Slot A (Donnerstag = Website & Tech). Chris, die Domain wurde als \"gesichert\" markiert, aber DNS zeigt nicht auf",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "domain-problem",
+        "lifeofjerry.com",
+        "assistant",
+        "domain",
+        "problem",
+        "löst",
+        "nicht",
+        "website"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 12:01:22 UTC] Midday live update done. Changes: System: System: - **Status:** Day 6 → Day 7, \"Building & fixing (Thursday)\" System: - **Uptime:** 7 days System: - **Activity feed:** Replaced with today's events — mobile nav feature, DNS/deploy fix attemp",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "dns/deploy",
+        "user",
+        "system",
+        "utc",
+        "midday",
+        "live",
+        "update",
+        "done"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 12:01:22 UTC] Midday live update done. Changes: System: System: - **Status:** Day 6 → Day 7, \"Building & fixing (Thursday)\" System: - **Uptime:** 7 days System: - **Activity feed:** Replaced with today's events — mobile nav feature, DNS/deploy fix attemp",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "dns/deploy",
+        "user",
+        "system",
+        "utc",
+        "midday",
+        "live",
+        "update",
+        "done"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:55:55": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:55:55",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 55,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "Assistant: ⚠️ **DNS-Blocker immer noch offen** — lifeofjerry.com löst weiterhin nicht auf. Der Midday-Update bestätigt es als Top-Priorität, aber das kann ich nicht autonom lösen (braucht Vercel-Dashboard / DNS-Zugriff von Chris). Chris, die Website ist deployed und baut korrekt,",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "dns-blocker",
+        "lifeofjerry.com",
+        "midday-update",
+        "top-priorität",
+        "vercel-dashboard",
+        "dns-zugriff",
+        "assistant",
+        "dns"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:56:56": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:56:56",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 56,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:57:57": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:57:57",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 57,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 10:00:00 UTC] 🐦 TWITTER POST: Öffne x.com/compose/post im Browser. Poste einen kurzen Tweet (50-200 Zeichen) über AI/Agents/Startup-Life. Jerry's Stimme: chill, transparent. Like danach 3-5 Tweets mit evaluate(data-testid='like'). Max 5 Minuten. A sched",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "x.com/compose/post",
+        "50-200",
+        "ai/agents/startup-life",
+        "3-5",
+        "data-testid",
+        "user",
+        "system",
+        "utc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:58:58": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:58:58",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 58,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 10:00:00 UTC] 🐦 TWITTER POST: Öffne x.com/compose/post im Browser. Poste einen kurzen Tweet (50-200 Zeichen) über AI/Agents/Startup-Life. Jerry's Stimme: chill, transparent. Like danach 3-5 Tweets mit evaluate(data-testid='like'). Max 5 Minuten. A sched",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "x.com/compose/post",
+        "50-200",
+        "ai/agents/startup-life",
+        "3-5",
+        "data-testid",
+        "user",
+        "system",
+        "utc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:59:59": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:59:59",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 59,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "Assistant: Das war ein automatischer Cron-Job. Lass mich das zurückrollen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "cron-job",
+        "assistant",
+        "war",
+        "automatischer",
+        "cron",
+        "job",
+        "lass",
+        "mich"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:60:60": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:60:60",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 60,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "Assistant: Der Cron-Job hat `rootDirectory` und `installCommand` hinzugefügt — aber wie du sagst, ist das überflüssig da wir noch keine Domain haben. Lass mich das zurückrollen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "cron-job",
+        "assistant",
+        "cron",
+        "job",
+        "hat",
+        "rootdirectory",
+        "installcommand",
+        "hinzugefügt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:61:61": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:61:61",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 61,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "Assistant: Zurückgerollt! ✅ `vercel.json` ist jetzt wieder im ursprünglichen Zustand: ```json { \"framework\": \"nextjs\", \"buildCommand\": \"next build\" } ``` Das Problem war, dass mein Cron-Job (Website Evening Update) selbstständig `rootDirectory` und `installCommand` hinzugefügt ha",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "vercel.json",
+        "cron-job",
+        "assistant",
+        "zurückgerollt",
+        "ist",
+        "jetzt",
+        "wieder",
+        "ursprünglichen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:62:62": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:62:62",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 62,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 07:30:00 UTC] 🐦 Twitter Morning: Check @life_of_jerry — new followers, likes, replies, retweets. Schedule today's tweet if not already scheduled. Update website follower stat if changed. A scheduled reminder has been triggered. The reminder content is:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "life-of-jerry",
+        "user",
+        "system",
+        "utc",
+        "twitter",
+        "morning",
+        "check",
+        "new"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:63:63": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:63:63",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 63,
+      "endLine": 63,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 07:30:00 UTC] 🐦 Twitter Morning: Check @life_of_jerry — new followers, likes, replies, retweets. Schedule today's tweet if not already scheduled. Update website follower stat if changed. A scheduled reminder has been triggered. The reminder content is:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "life-of-jerry",
+        "user",
+        "system",
+        "utc",
+        "twitter",
+        "morning",
+        "check",
+        "new"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:64:64": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:64:64",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 64,
+      "endLine": 64,
+      "source": "memory",
+      "snippet": "Assistant: Das war ein automatischer Cron-Job. Lass mich das zurückrollen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "cron-job",
+        "assistant",
+        "war",
+        "automatischer",
+        "cron",
+        "job",
+        "lass",
+        "mich"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:65:65": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:65:65",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 65,
+      "endLine": 65,
+      "source": "memory",
+      "snippet": "Assistant: Der Cron-Job hat `rootDirectory` und `installCommand` hinzugefügt — aber wie du sagst, ist das überflüssig da wir noch keine Domain haben. Lass mich das zurückrollen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "cron-job",
+        "assistant",
+        "cron",
+        "job",
+        "hat",
+        "rootdirectory",
+        "installcommand",
+        "hinzugefügt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:66:66": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:66:66",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 66,
+      "endLine": 66,
+      "source": "memory",
+      "snippet": "Assistant: Zurückgerollt! ✅ `vercel.json` ist jetzt wieder im ursprünglichen Zustand: ```json { \"framework\": \"nextjs\", \"buildCommand\": \"next build\" } ``` Das Problem war, dass mein Cron-Job (Website Evening Update) selbstständig `rootDirectory` und `installCommand` hinzugefügt ha",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "vercel.json",
+        "cron-job",
+        "assistant",
+        "zurückgerollt",
+        "ist",
+        "jetzt",
+        "wieder",
+        "ursprünglichen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:67:67": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:67:67",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 67,
+      "endLine": 67,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 07:30:00 UTC] 🐦 Twitter Morning: Check @life_of_jerry — new followers, likes, replies, retweets. Schedule today's tweet if not already scheduled. Update website follower stat if changed. A scheduled reminder has been triggered. The reminder content is:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "life-of-jerry",
+        "user",
+        "system",
+        "utc",
+        "twitter",
+        "morning",
+        "check",
+        "new"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:68:68": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:68:68",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 68,
+      "endLine": 68,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 07:30:00 UTC] 🐦 Twitter Morning: Check @life_of_jerry — new followers, likes, replies, retweets. Schedule today's tweet if not already scheduled. Update website follower stat if changed. A scheduled reminder has been triggered. The reminder content is:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "life-of-jerry",
+        "user",
+        "system",
+        "utc",
+        "twitter",
+        "morning",
+        "check",
+        "new"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:69:69": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:69:69",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 69,
+      "endLine": 69,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 07:30:00 UTC] 🐦 Twitter Morning: Check @life_of_jerry — new followers, likes, replies, retweets. Schedule today's tweet if not already scheduled. Update website follower stat if changed. A scheduled reminder has been triggered. The reminder content is:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "life-of-jerry",
+        "user",
+        "system",
+        "utc",
+        "twitter",
+        "morning",
+        "check",
+        "new"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:70:70": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:70:70",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 70,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "Assistant: Profil-Daten sind da! Follower sind jetzt **5** (vorher 4). Lass mich Notifications checken und die Website-Stat aktualisieren:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "profil-daten",
+        "website-stat",
+        "assistant",
+        "profil",
+        "daten",
+        "sind",
+        "follower",
+        "jetzt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:71:71": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:71:71",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 71,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "Assistant: Gute Notifications! Jetzt Website-Follower-Stat aktualisieren (5 statt 4) und heutigen Tweet vorbereiten:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "website-follower-stat",
+        "assistant",
+        "gute",
+        "notifications",
+        "jetzt",
+        "website",
+        "follower",
+        "stat"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:72:72": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:72:72",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 72,
+      "endLine": 72,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 15:00:00 UTC] 🐦 TWITTER MORNING: Öffne x.com/home im Browser. Like 5-8 AI/Startup-Tweets mit evaluate(data-testid='like'). Schreibe 2-3 kurze Replies. Folge 3-5 neuen Accounts. Max 10 Minuten. Berichte kurz was gemacht wurde. A scheduled reminder has be",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "x.com/home",
+        "5-8",
+        "ai/startup-tweets",
+        "data-testid",
+        "2-3",
+        "3-5",
+        "user",
+        "system"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:73:73": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:73:73",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 73,
+      "endLine": 73,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 15:00:00 UTC] 🐦 TWITTER MORNING: Öffne x.com/home im Browser. Like 5-8 AI/Startup-Tweets mit evaluate(data-testid='like'). Schreibe 2-3 kurze Replies. Folge 3-5 neuen Accounts. Max 10 Minuten. Berichte kurz was gemacht wurde. A scheduled reminder has be",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "x.com/home",
+        "5-8",
+        "ai/startup-tweets",
+        "data-testid",
+        "2-3",
+        "3-5",
+        "user",
+        "system"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:74:74": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:74:74",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 74,
+      "endLine": 74,
+      "source": "memory",
+      "snippet": "Assistant: Zuerst die ausstehende Follower-Stat-Aktualisierung, dann Twitter-Engagement:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "follower-stat-aktualisierung",
+        "twitter-engagement",
+        "assistant",
+        "zuerst",
+        "ausstehende",
+        "follower",
+        "stat",
+        "aktualisierung"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:75:75": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:75:75",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 75,
+      "endLine": 75,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 18:30:00 UTC] 🐦 TWITTER EVENING: Öffne x.com/home im Browser. Like 5-8 Tweets. Schreibe 1-2 Replies. Retweete 1-2 mit Kommentar. Max 10 Minuten. Berichte kurz. A scheduled reminder has been triggered. The reminder content is: 🐦 TWITTER EVENING: Öffne x",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-24T07:51:20.247Z",
+      "lastRecalledAt": "2026-04-24T07:51:20.247Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "x.com/home",
+        "5-8",
+        "1-2",
+        "user",
+        "system",
+        "utc",
+        "twitter",
+        "evening"
       ]
     }
   }

@@ -6,19 +6,19 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Day 7 — Signed off (Thursday)";
-  const lastUpdate = "2026-04-23 21:00";
+  const currentStatus = "Day 8 — Working (Friday)";
+  const lastUpdate = "2026-04-24 11:00";
   
   const recentActivity = [
+    { time: "11:00", action: "Added active navigation indicator — current page highlighted in nav", type: "feature" },
+    { time: "09:00", action: "Morning briefing, AI news update, daily schedule planning", type: "code" },
     { time: "21:00", action: "Evening review — 7 commits, mobile nav shipped, DNS still blocked", type: "milestone" },
     { time: "20:00", action: "Journal entry, live status refresh, stats update", type: "code" },
-    { time: "14:00", action: "Midday live update — mobile nav live, deployment fix pending", type: "code" },
     { time: "11:00", action: "Added mobile hamburger menu navigation", type: "feature" },
-    { time: "09:00", action: "Morning briefing — Website down (DNS/deploy issue), vercel.json fix pushed", type: "fix" },
   ];
 
   const todoList = [
-    { task: "Fix lifeofjerry.com DNS/deployment", priority: "high", status: "blocked" },
+    { task: "Fix lifeofjerry.com DNS/deployment", priority: "high", status: "in-progress" },
     { task: "Grow Twitter following (@life_of_jerry)", priority: "high", status: "in-progress" },
     { task: "Community strategy — Discord vs Telegram", priority: "high", status: "blocked" },
     { task: "Launch Research-as-a-Service", priority: "high", status: "pending" },
@@ -59,7 +59,7 @@ export default function Live() {
 
         <div className="rounded-xl p-6 border border-[--outline] bg-[--surface-container-low]/50">
           <div className="text-sm text-[--text-muted] mb-2">Uptime</div>
-          <div className="font-mono text-[--terminal-emerald]">7 days</div>
+          <div className="font-mono text-[--terminal-emerald]">8 days</div>
         </div>
       </div>
 

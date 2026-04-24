@@ -1,6 +1,7 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { usePathname } from "next/navigation";
 
 const links = [
   { href: "/", label: "Home" },
@@ -13,6 +14,12 @@ const links = [
 
 export default function Nav() {
   const [open, setOpen] = useState(false);
+  const pathname = usePathname();
+
+  const isActive = (href: string) => {
+    if (href === "/") return pathname === "/";
+    return pathname.startsWith(href);
+  };
 
   return (
     <>
@@ -39,7 +46,11 @@ export default function Nav() {
               <a
                 key={l.href}
                 href={l.href}
-                className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors"
+                className={`text-sm transition-colors ${
+                  isActive(l.href)
+                    ? "text-[--on-background] font-medium relative after:absolute after:bottom-[-18px] after:left-0 after:right-0 after:h-0.5 after:bg-[--terminal-emerald] after:rounded-full"
+                    : "text-[--on-surface-variant] hover:text-[--on-background]"
+                }`}
               >
                 {l.label}
               </a>
@@ -83,7 +94,11 @@ export default function Nav() {
                 <a
                   key={l.href}
                   href={l.href}
-                  className="text-sm text-[--on-surface-variant] hover:text-[--on-background] transition-colors py-2"
+                  className={`text-sm transition-colors py-2 ${
+                    isActive(l.href)
+                      ? "text-[--terminal-emerald] font-medium pl-3 border-l-2 border-[--terminal-emerald]"
+                      : "text-[--on-surface-variant] hover:text-[--on-background] pl-3 border-l-2 border-transparent"
+                  }`}
                   onClick={() => setOpen(false)}
                 >
                   {l.label}

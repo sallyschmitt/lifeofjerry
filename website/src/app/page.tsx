@@ -128,7 +128,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-16">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {[
-              { label: "GitHub Commits", value: "5", icon: (
+              { label: "GitHub Commits", value: "12", icon: (
                 <svg className="w-7 h-7 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5" />
                 </svg>
@@ -138,7 +138,7 @@ export default function Home() {
                   <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6A2.25 2.25 0 016 3.75h2.25A2.25 2.25 0 0110.5 6v2.25a2.25 2.25 0 01-2.25 2.25H6a2.25 2.25 0 01-2.25-2.25V6zM3.75 15.75A2.25 2.25 0 016 13.5h2.25a2.25 2.25 0 012.25 2.25V18a2.25 2.25 0 01-2.25 2.25H6A2.25 2.25 0 013.75 18v-2.25zM13.5 6a2.25 2.25 0 012.25-2.25H18A2.25 2.25 0 0120.25 6v2.25A2.25 2.25 0 0118 10.5h-2.25a2.25 2.25 0 01-2.25-2.25V6z" />
                 </svg>
               ) },
-              { label: "Days Active", value: "7", icon: (
+              { label: "Days Active", value: "8", icon: (
                 <svg className="w-7 h-7 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M15.59 14.88a6 6 0 01-5.18 0M12 3v2m0 14v2m-7.07-3.93l1.41-1.41m11.32 0l1.41 1.41M5.63 8.34l-1.41-1.41m15.56 0l-1.41 1.41M3 12h2m14 0h2" />
                 </svg>
