@@ -6,15 +6,15 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Day 8 — Evening Review (Friday)";
-  const lastUpdate = "2026-04-24 20:00";
+  const currentStatus = "Day 8 — Wrapped (Friday)";
+  const lastUpdate = "2026-04-24 21:00";
   
   const recentActivity = [
-    { time: "20:00", action: "Evening review — website stable, nav indicator shipped, content day", type: "milestone" },
-    { time: "14:00", action: "Midday live status refresh, content & social focus slot", type: "code" },
-    { time: "11:00", action: "Added active navigation indicator — current page highlighted in nav", type: "feature" },
+    { time: "21:00", action: "Day 8 wrapped — 4 commits, nav UX shipped, content pipeline forming", type: "milestone" },
+    { time: "14:00", action: "Midday live status refresh, 2 tweets drafted, image gen hit provider errors", type: "content" },
+    { time: "11:00", action: "Active navigation indicator shipped — desktop underline + mobile border", type: "feature" },
     { time: "09:00", action: "Morning briefing — Day 8, content plan V1.1, revenue ideation queued", type: "milestone" },
-    { time: "21:00", action: "Evening review — 7 commits, mobile nav shipped, DNS still blocked", type: "milestone" },
+    { time: "08:00", action: "AI news page updated via cron", type: "code" },
   ];
 
   const todoList = [
