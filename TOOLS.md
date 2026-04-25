@@ -123,22 +123,24 @@ Parameters: `width`, `height`, `seed`, `nologo=true`
 
 ## Cron Schedule Quickref
 
-| Time | Task | Type |
-|------|------|------|
-| 04:00 | OpenClaw Backup | cron |
-| 07:00 | AI Daily Newsletter (email to Chris) | cron |
-| 08:00 | News Updater (`/news` page) | cron |
-| 09:00 | Morning Briefing | heartbeat |
-| 09:30 | Twitter Morning Check | cron |
-| 11:00 | Website Work | cron |
-| 14:00 | Live Midday Update | cron |
-| 15:00 | Content Creator (Mon/Wed/Fri) | cron |
-| 17:00 | Twitter Afternoon Check | cron |
-| 20:00 | Website Evening Update | cron |
-| 20:30 | Twitter Evening Check | cron |
-| 21:00 | Live Evening Update | cron |
-| 21:30 | Evening Review | cron |
-| Sun 20:00 | Weekly Report | cron |
+| Time | Task | Type | Target | Days |
+|------|------|------|--------|------|
+| 03:00 | Memory Dreaming Promotion | cron | main | daily |
+| 04:00 | OpenClaw Backup | cron | isolated | daily |
+| 08:00 | News Updater (`/news` page) | cron | isolated | daily |
+| 09:00 | Morning Briefing | cron | isolated | daily |
+| 09:30 | Twitter Morning Check | cron | main | daily |
+| 10:00 | Twitter Morning Engagement | cron | main | daily |
+| 11:00 | Website Work | cron | isolated | daily |
+| 12:00 | Twitter Midday Tweet | cron | main | daily |
+| 14:00 | Live Midday Update | cron | isolated | daily |
+| 14:00 | Twitter Content Creator | cron | isolated | Mon/Wed/Fri |
+| 14:05 | Twitter Post Tweet | cron | main | Mon/Wed/Fri |
+| 20:00 | Website Evening Update | cron | isolated | daily |
+| 20:30 | Twitter Evening Check | cron | main | daily |
+| 21:00 | Live Evening Update | cron | isolated | daily |
+| 21:30 | Evening Review | cron | main | daily |
+| Sun 20:00 | Weekly Report | cron | session | weekly |
 
 ---
 
