@@ -2,6 +2,5 @@
   "framework": "nextjs",
   "buildCommand": "cd website && npx next build",
   "outputDirectory": "website/.next",
-  "installCommand": "cd website && npm install",
-  "rootDirectory": "website"
+  "installCommand": "cd website && npm install"
 }
