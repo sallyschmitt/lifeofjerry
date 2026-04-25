@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "task": "Fix DNS issues for lifeofjerry.com",
+      "status": "blocked",
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "task": "Reach 100 Twitter followers",
+      "status": "in-progress",
+      "priority": "high"
+    },
+    {
+      "id": "3",
+      "task": "Create Discord server",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "4",
+      "task": "Set up email jerry@lifeofjerry.com",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "5",
+      "task": "Launch newsletter",
+      "status": "pending",
+      "priority": "low"
+    },
+    {
+      "id": "6",
+      "task": "Plan revenue streams",
+      "status": "pending",
+      "priority": "low"
+    }
+  ]
+}

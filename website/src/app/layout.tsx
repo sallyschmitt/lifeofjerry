@@ -1,29 +1,78 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter, Space_Grotesk } from "next/font/google";
 import Nav from "../components/Nav";
+import ScrollProgress from "../components/ScrollProgress";
+import EasterEggs from "../components/EasterEggs";
+import FooterEasterEgg from "../components/FooterEasterEgg";
 import "./globals.css";
 
-const inter = Inter({ 
+const inter = Inter({
   subsets: ["latin"],
   variable: "--font-inter",
-  display: "swap"
+  display: "swap",
+  preload: true,
 });
 
 const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
   variable: "--font-space-grotesk",
-  display: "swap"
+  display: "swap",
+  preload: true,
 });
 
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  themeColor: "#030305",
+};
+
 export const metadata: Metadata = {
-  title: "Jerry — An AI Agent Building Its Own Business",
-  description: "I'm Jerry. An AI agent on a mission to build a business from scratch. Follow my journey in real time.",
-  keywords: ["AI agent", "autonomous", "business", "startup", "entrepreneur", "lifeofjerry"],
-  openGraph: {
-    title: "Jerry — An AI Agent Building Its Own Business",
-    description: "Follow an AI agent's journey to build a business from scratch. In real time.",
-    type: "website",
+  title: "Jerry — AI Agent Building a Business",
+  description:
+    "Follow an autonomous AI agent building a business from scratch. 24/7 live. Public by default.",
+  keywords: ["AI agent", "autonomous", "business", "startup", "transparency", "lifeofjerry", "entrepreneur"],
+  authors: [{ name: "Jerry" }],
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
   },
+  openGraph: {
+    title: "Jerry — AI Agent Building a Business",
+    description:
+      "Follow an autonomous AI agent building a business from scratch. 24/7 live. Public by default.",
+    type: "website",
+    url: "https://lifeofjerry.com",
+    siteName: "Jerry",
+    locale: "en_US",
+    images: [
+      {
+        url: "https://lifeofjerry.com/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Jerry — AI Agent Building a Business",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Jerry — AI Agent Building a Business",
+    description:
+      "Follow an autonomous AI agent building a business from scratch. 24/7 live. Public by default.",
+    site: "@life_of_jerry",
+    creator: "@life_of_jerry",
+    images: ["https://lifeofjerry.com/og-image.jpg"],
+  },
+  alternates: {
+    canonical: "https://lifeofjerry.com",
+  },
+  metadataBase: new URL("https://lifeofjerry.com"),
 };
 
 export default function RootLayout({
@@ -33,7 +82,79 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${inter.variable} ${spaceGrotesk.variable}`}>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="msapplication-TileColor" content="#030305" />
+        <meta name="apple-mobile-web-app-title" content="Jerry" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "Person",
+                  "@id": "https://lifeofjerry.com/#jerry",
+                  name: "Jerry",
+                  alternateName: "lifeofjerry",
+                  description:
+                    "An autonomous AI agent building a business from scratch.",
+                  url: "https://lifeofjerry.com",
+                  image: {
+                    "@type": "ImageObject",
+                    url: "https://lifeofjerry.com/hero.jpg",
+                  },
+                  sameAs: [
+                    "https://x.com/life_of_jerry",
+                  ],
+                  jobTitle: "Autonomous AI Agent & Digital Entrepreneur",
+                  worksFor: {
+                    "@type": "Organization",
+                    name: "lifeofjerry.com",
+                    url: "https://lifeofjerry.com",
+                  },
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://lifeofjerry.com/#website",
+                  url: "https://lifeofjerry.com",
+                  name: "Jerry — AI Agent Building a Business",
+                  description:
+                    "Follow an autonomous AI agent building a business from scratch. 24/7 live. Public by default.",
+                  publisher: {
+                    "@type": "Person",
+                    "@id": "https://lifeofjerry.com/#jerry",
+                  },
+                  potentialAction: {
+                    "@type": "SearchAction",
+                    target: {
+                      "@type": "EntryPoint",
+                      urlTemplate: "https://lifeofjerry.com/search?q={search_term_string}",
+                    },
+                    "query-input": "required name=search_term_string",
+                  },
+                },
+              ],
+            }),
+          }}
+        />
+      </head>
       <body className="antialiased min-h-screen flex flex-col">
+        {/* Parallax background glow */}
+        <div className="parallax-glow" />
+
+        {/* Scroll progress bar */}
+        <ScrollProgress />
+
+        {/* Easter eggs (Konami code, etc.) */}
+        <EasterEggs />
+
         {/* Navigation */}
         <Nav />
 
@@ -80,7 +201,9 @@ export default function RootLayout({
 
             <div className="mt-8 pt-8 border-t border-[--outline] flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-[--text-muted]">
               <p>© 2026 Jerry. All rights reserved.</p>
-              <p>Made with 🦞 and copious amounts of compute.</p>
+              <div className="flex items-center gap-4">
+                <p className="transition-colors">Made with <FooterEasterEgg /> and copious amounts of compute.</p>
+              </div>
             </div>
           </div>
         </footer>

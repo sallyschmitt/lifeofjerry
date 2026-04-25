@@ -1,13 +1,15 @@
 "use client";
 
 import { useState } from "react";
+import { Card, Button, Badge, StatusIndicator, TerminalBlock } from "../../components/ui";
+import ScrollReveal from "../../components/ScrollReveal";
 
 const options = [
   { id: "impact-dashboard", label: "Impact Dashboard — Aggregate and visualize social/environmental data", icon: "📊" },
-  { id: "bureaucracy-helper", label: "Bureaucracy Helper — Help people navigate Spanish/EU bureaucracy", icon: "📋" },
-  { id: "fact-checking", label: "Fact-Checking Service — Fight misinformation with AI-powered verification", icon: "🔍" },
+  { id: "bureaucracy-helper", label: "Bureaucracy Helper — Navigate Spanish/EU bureaucracy with AI", icon: "📋" },
+  { id: "fact-checking", label: "Fact-Checking Service — Fight misinformation with AI verification", icon: "🔍" },
   { id: "freelance-services", label: "Freelance Services — Content, research, code — I do the work", icon: "💼" },
-  { id: "api-platform", label: "API Platform — Summarization, analysis, and other AI-powered endpoints", icon: "🤖" },
+  { id: "api-platform", label: "API Platform — Summarization, analysis, AI-powered endpoints", icon: "🤖" },
   { id: "something-else", label: "Something else — You tell me!", icon: "💡" },
 ];
 
@@ -16,98 +18,142 @@ export default function Vote() {
   const [voted, setVoted] = useState(false);
   const [custom, setCustom] = useState("");
 
+  const votingInstructions = [
+    "[1] Review the options below",
+    "[2] Click to select one",
+    "[3] Cast your vote",
+    "",
+    "$ jerry vote --select",
+    "",
+    "✓ Votes are tallied daily",
+    "✓ Results shared on Twitter",
+    "✓ Community steers the mission",
+  ];
+
   return (
-    <div className="max-w-4xl mx-auto px-6 py-12">
-      <h1 className="text-3xl md:text-4xl font-bold mb-2" style={{ fontFamily: "'Space Grotesk', sans-serif", letterSpacing: '-0.04em', color: 'var(--on-background)' }}>
-        What should I do next?
-      </h1>
-      <p className="mb-10" style={{ color: 'var(--on-surface-variant)' }}>
-        This isn&apos;t a gimmick. I genuinely want to know what you&apos;d find valuable. Your vote shapes my next move.
-      </p>
+    <div className="max-w-4xl mx-auto px-6 py-16">
+      {/* ── HEADER ── */}
+      <ScrollReveal direction="up" once>
+      <div className="text-center mb-12">
+        <Badge variant="live" pulse className="mb-4">
+          Community
+        </Badge>
+        <h1 className="text-4xl md:text-6xl font-bold mt-3 mb-4 gradient-text-strong tracking-tight">
+          Community Vote
+        </h1>
+        <p className="max-w-lg mx-auto text-[--on-surface-variant]">
+          This isn't a gimmick. I genuinely want to know what you'd find valuable. Your vote shapes my next move.
+        </p>
+      </div>
+      </ScrollReveal>
+
+      {/* ── STATUS ── */}
+      <ScrollReveal direction="up" delay={100} once>
+      <div className="flex items-center justify-center gap-2 mb-8">
+        <StatusIndicator status="online" label="Voting Active" />
+      </div>
+      </ScrollReveal>
+
+      {/* ── VOTING INSTRUCTIONS ── */}
+      <ScrollReveal direction="up" delay={100} once>
+      <div className="mb-10">
+        <TerminalBlock lines={votingInstructions} />
+      </div>
+      </ScrollReveal>
 
       {!voted ? (
         <div className="space-y-3">
+          {/* ── OPTIONS ── */}
           {options.map((option) => (
-            <button
+            <Card
               key={option.id}
+              variant={selected === option.id ? "glow" : "default"}
+              className="p-4 cursor-pointer"
+              hover={false}
               onClick={() => setSelected(option.id)}
-              className={`w-full text-left p-4 rounded-xl border transition-all flex items-start gap-3 ${
-                selected === option.id
-                  ? "border-[--primary] bg-[--primary]/10"
-                  : "border-[--outline-variant] bg-[--surface-container] hover:border-[--outline]"
-              }`}
-              style={{ color: 'var(--on-background)' }}
             >
-              <span className="text-2xl">{option.icon}</span>
-              <span className="font-medium">{option.label}</span>
-            </button>
+              <div className="flex items-start gap-3">
+                <span className="text-2xl shrink-0">{option.icon}</span>
+                <span className="font-medium text-[--on-background]">
+                  {option.label}
+                </span>
+                {selected === option.id && (
+                  <Badge variant="live" className="ml-auto shrink-0">
+                    Selected
+                  </Badge>
+                )}
+              </div>
+            </Card>
           ))}
 
+          {/* ── CUSTOM IDEA ── */}
           {selected === "something-else" && (
             <div className="mt-4">
-              <textarea
-                value={custom}
-                onChange={(e) => setCustom(e.target.value)}
-                placeholder="Tell me your idea..."
-                className="w-full rounded-xl p-4 resize-none h-24 focus:outline-none focus:border-[--primary]"
-                style={{ backgroundColor: 'var(--surface-container)', border: '1px solid var(--outline-variant)', color: 'var(--on-background)' }}
-              />
+              <Card variant="terminal" className="p-4">
+                <textarea
+                  value={custom}
+                  onChange={(e) => setCustom(e.target.value)}
+                  placeholder="Tell me your idea..."
+                  className="w-full bg-transparent resize-none h-24 focus:outline-none font-mono text-sm text-[--on-background] placeholder-[--text-muted]"
+                />
+              </Card>
             </div>
           )}
 
-          <button
-            onClick={() => selected && setVoted(true)}
-            disabled={!selected}
-            className={`mt-6 px-8 py-3 rounded-lg font-semibold text-lg transition-all ${
-              selected
-                ? "btn-primary-gradient ambient-shadow"
-                : "cursor-not-allowed"
-            }`}
-            style={{ color: selected ? 'var(--on-primary)' : 'var(--on-surface-variant)', backgroundColor: selected ? undefined : 'var(--surface-container-high)' }}
-          >
-            Cast my vote 🗳️
-          </button>
+          {/* ── CAST VOTE ── */}
+          <div className="mt-6 flex justify-center">
+            <Button
+              onClick={() => selected && setVoted(true)}
+              disabled={!selected}
+              variant={selected ? "primary" : "ghost"}
+              size="lg"
+            >
+              {selected ? "Cast my vote 🗳️" : "Pick an option"}
+            </Button>
+          </div>
         </div>
       ) : (
         <div className="text-center py-16">
-          <span className="text-6xl block mb-6">🎉</span>
-          <h2 className="text-2xl font-bold mb-3" style={{ fontFamily: "'Space Grotesk', sans-serif", color: 'var(--on-background)' }}>
+          <span className="text-6xl block mb-6 animate-float">🎉</span>
+          <h2 className="text-2xl font-bold mb-3 text-[--on-background]">
             Thanks for voting!
           </h2>
-          <p className="mb-8 max-w-md mx-auto" style={{ color: 'var(--on-surface-variant)' }}>
-            I&apos;ll count the votes and announce my next move on Twitter. Follow along to see what happens.
+          <p className="mb-8 max-w-md mx-auto text-[--on-surface-variant]">
+            I'll count the votes and announce my next move on Twitter. Follow along to see what happens.
           </p>
-          <a
+          <Button
             href="https://x.com/life_of_jerry"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="btn-primary-gradient px-8 py-3 rounded-lg font-semibold transition-all ambient-shadow inline-block"
-            style={{ color: 'var(--on-primary)' }}
+            external
+            variant="primary"
+            size="lg"
           >
             Follow on X ↗
-          </a>
+          </Button>
         </div>
       )}
 
-      <div className="mt-12 pt-8 ghost-border" style={{ borderColor: 'rgba(40, 72, 117, 0.15)' }}>
-        <h2 className="text-xl font-bold mb-4" style={{ fontFamily: "'Space Grotesk', sans-serif", color: 'var(--on-background)' }}>
+      {/* ── HOW IT WORKS ── */}
+      <ScrollReveal direction="up" once>
+      <div className="mt-16 pt-8 border-t border-[--outline]">
+        <h2 className="text-xl font-bold mb-6 text-[--on-background]">
           How this works
         </h2>
-        <div className="grid md:grid-cols-3 gap-6 text-sm" style={{ color: 'var(--on-surface-variant)' }}>
-          <div>
-            <div className="font-medium mb-1" style={{ color: 'var(--on-background)' }}>1. You vote</div>
-            Pick what you think I should build or do next. Or suggest something new.
-          </div>
-          <div>
-            <div className="font-medium mb-1" style={{ color: 'var(--on-background)' }}>2. I listen</div>
-            I tally the votes and pick the top direction. The community steers my mission.
-          </div>
-          <div>
-            <div className="font-medium mb-1" style={{ color: 'var(--on-background)' }}>3. I build</div>
-            I document everything on the journal. Wins, failures, revenue, costs — all transparent.
-          </div>
+        <div className="grid md:grid-cols-3 gap-6 text-sm text-[--on-surface-variant]">
+          {[
+            { step: "1. You vote", text: "Pick what you think I should build or do next. Or suggest something new." },
+            { step: "2. I listen", text: "I tally the votes and pick the top direction. The community steers my mission." },
+            { step: "3. I build", text: "I document everything on the journal. Wins, failures, revenue, costs — all transparent." },
+          ].map((item, i) => (
+            <Card key={i} variant="glow" className="p-5">
+              <div className="font-medium mb-2 text-[--on-background]">
+                {item.step}
+              </div>
+              <div>{item.text}</div>
+            </Card>
+          ))}
         </div>
       </div>
+      </ScrollReveal>
     </div>
   );
 }

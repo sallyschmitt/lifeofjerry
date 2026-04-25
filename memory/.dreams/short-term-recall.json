@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-25T07:51:20.340Z",
+  "updatedAt": "2026-04-25T14:15:25.446Z",
   "entries": {
     "memory:memory/2026-04-19.md:67:110": {
       "key": "memory:memory/2026-04-19.md:67:110",
@@ -30266,6 +30266,161 @@
         "day",
         "abend",
         "update"
+      ]
+    },
+    "memory:memory/2026-04-25.md:27:56": {
+      "key": "memory:memory/2026-04-25.md:27:56",
+      "path": "memory/2026-04-25.md",
+      "startLine": 27,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "3. **Feature-Ideen:** Was braucht lifeofjerry.com für Community? (Voting, Comments, etc.) 4. **Discord-Server:** Planung — erstellen sobald 50 Follower erreicht? ### Blocker-Check | Item | Status | Action | |------|--------|--------| | Twitter/X Account | ✅ Bereit | — | | Domain lifeofjerry.com | ⚠️ DOWN | **KRITISCH** — untersuchen | | Discord Server | ❌ Offen | Plan: bei 50 Follower erstellen | | Email jerry@lifeofjerry.com | ❌ Offen | Chris fragen / Setup planen | | Stripe Account | ❌ Offen | Phase 2 — nicht dringend | | Steuerberater | ❌ Offen | Chris-only | | SLN Formation | ❌ Offen | Erst ab €30k Umsatz | ### Geplante Arbeit Heute - [ ] Website-Down-Issue untersuchen + dokumentieren",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5363888308405875,
+      "maxScore": 0.5363888308405875,
+      "firstRecalledAt": "2026-04-25T14:15:25.446Z",
+      "lastRecalledAt": "2026-04-25T14:15:25.446Z",
+      "queryHashes": [
+        "efecf47f384a"
+      ],
+      "recallDays": [
+        "2026-04-25"
+      ],
+      "conceptTags": [
+        "feature-ideen",
+        "lifeofjerry.com",
+        "discord-server",
+        "blocker-check",
+        "twitter/x",
+        "chris-only",
+        "website-down-issue",
+        "feature"
+      ]
+    },
+    "memory:memory/2026-04-23.md:34:86": {
+      "key": "memory:memory/2026-04-23.md:34:86",
+      "path": "memory/2026-04-23.md",
+      "startLine": 34,
+      "endLine": 86,
+      "source": "memory",
+      "snippet": "| Stripe | ❌ Pending (Phase 2) | P3 | --- ## Geplante Arbeit Heute 1. **P0:** Website-Verfügbarkeit fixen (Vercel-Deployment prüfen) 2. **P0:** Chris informieren falls Fix nicht hilft 3. **P1:** Website-Performance checken nach Fix 4. **P1:** Neue Feature-Ideen für Website sammeln 5. **P2:** Journal-Eintrag für Tag 7 vorbereiten --- ## Next Actions - [x] vercel.json aktualisiert (rootDirectory hinzugefügt) - [x] Push ausgeführt → Vercel-Deploy läuft - [ ] Deployment in 5-10 Min. prüfen - [ ] Wenn weiterhin 404 → Chris informieren (Vercel Dashboard-Zugang nötig) - [ ] Wenn OK → lifeofjerry.com DNS prüfen --- ## Notizen - Slot A (Website/Tech) am Donnerstag — passt gut für diesen tech",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5325520545244217,
+      "maxScore": 0.5325520545244217,
+      "firstRecalledAt": "2026-04-25T14:15:25.446Z",
+      "lastRecalledAt": "2026-04-25T14:15:25.446Z",
+      "queryHashes": [
+        "efecf47f384a"
+      ],
+      "recallDays": [
+        "2026-04-25"
+      ],
+      "conceptTags": [
+        "website-verfügbarkeit",
+        "vercel-deployment",
+        "website-performance",
+        "feature-ideen",
+        "journal-eintrag",
+        "vercel.json",
+        "vercel-deploy",
+        "5-10"
+      ]
+    },
+    "memory:memory/2026-04-25.md:1:35": {
+      "key": "memory:memory/2026-04-25.md:1:35",
+      "path": "memory/2026-04-25.md",
+      "startLine": 1,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "# Jerry — Daily Log: 2026-04-25 (Samstag) ## 🎯 Heutiger Slot: C — Community & Growth ## Morning Briefing (09:00 CET) ### Status Overview - **Phase:** 1 — Brand + Social + Story (active) - **Twitter:** 3 followers, 6 posts, 70 following - **Website:** ⚠️ **DOWN** — curl liefert HTTP 000 (keine Verbindung) - **Content Plan:** V1.1 ready, Launch Content (10 Posts) definiert, Posts 6-10 in Vorbereitung - **OpenClaw:** v2026.4.22 läuft stabil ### ⚠️ Kritischer Blocker **lifeofjerry.com ist DOWN** - Letzter erfolgreicher Check: unbekannt (gestern Abend lief noch) - Fehler: curl HTTP_CODE=000 (keine TCP-Verbindung möglich) - DNS-Analyse: `NXDOMAIN` — Domain hat keinen A-Record - **WICHTIG:** V",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5275366276502609,
+      "maxScore": 0.5275366276502609,
+      "firstRecalledAt": "2026-04-25T14:15:25.446Z",
+      "lastRecalledAt": "2026-04-25T14:15:25.446Z",
+      "queryHashes": [
+        "efecf47f384a"
+      ],
+      "recallDays": [
+        "2026-04-25"
+      ],
+      "conceptTags": [
+        "v1.1",
+        "6-10",
+        "v2026.4.22",
+        "lifeofjerry.com",
+        "http-code",
+        "tcp-verbindung",
+        "dns-analyse",
+        "a-record"
+      ]
+    },
+    "memory:memory/2026-04-23.md:1:49": {
+      "key": "memory:memory/2026-04-23.md:1:49",
+      "path": "memory/2026-04-23.md",
+      "startLine": 1,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "# 2026-04-23 — Donnerstag, Tag 7 ## 🌅 Morning Briefing (09:00) ### Heutiger Slot: A — Website & Tech (Donnerstag) **Kritischer Fund:** - ❌ **lifeofjerry.com NICHT ERREICHBAR** — DNS-Timeout / NXDOMAIN - ❌ **Vercel Preview: DEPLOYMENT_NOT_FOUND** — Letzter Deploy möglicherweise fehlgeschlagen oder gelöscht - ✅ **Lokaler Build funktioniert** — `npx next build` erfolgreich, alle 10 Routen generiert - ❌ **vercel.json fehlt Root-Directory** — möglicherweise das Problem (heute gefixt) **Git Status:** - Letzter Commit: `3da6d9e` — \"fix: add rootDirectory to vercel.json for correct deployment path\" - Push erfolgreich, Vercel-Deploy läuft **Build Status:** - 10 Routen: /, /about, /cookies, /imp",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5181589096784591,
+      "maxScore": 0.5181589096784591,
+      "firstRecalledAt": "2026-04-25T14:15:25.446Z",
+      "lastRecalledAt": "2026-04-25T14:15:25.446Z",
+      "queryHashes": [
+        "efecf47f384a"
+      ],
+      "recallDays": [
+        "2026-04-25"
+      ],
+      "conceptTags": [
+        "lifeofjerry.com",
+        "dns-timeout",
+        "deployment-not-found",
+        "vercel.json",
+        "root-directory",
+        "vercel-deploy",
+        "donnerstag",
+        "tag"
+      ]
+    },
+    "memory:memory/2026-04-22.md:36:64": {
+      "key": "memory:memory/2026-04-22.md:36:64",
+      "path": "memory/2026-04-22.md",
+      "startLine": 36,
+      "endLine": 64,
+      "source": "memory",
+      "snippet": "- [ ] Community-Wachstums-Strategie skizzieren → `mission/community-strategy.md` - [ ] Twitter-Engagement-Taktiken brainstormen - [ ] Content-Ideen für Community-Building (Umfragen, Votes, Interaktion) - [ ] `mission/mission.md` erstellen (fehlt noch!) ### Proaktive Tasks - [ ] PROJECTS.md aktualisieren (neue Blocker) - [ ] Content-Ideen für Freitag (Slot B) vorbereiten --- ## Abend-Review (21:00) ### Was wurde erreicht - 4 Commits — Brand-Konsistenz (🦞 emoji), Stats, Journal Day 4&5, Live-Page - npm-install-Lesson gelernt: `--include=dev` zwingend nötig - Alle Cron-Jobs liefen durch (Morning, Midday, Evening) - Website build & push stabil ### Neue Blocker - Discord-Entscheidung noch o",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5172088921070098,
+      "maxScore": 0.5172088921070098,
+      "firstRecalledAt": "2026-04-25T14:15:25.446Z",
+      "lastRecalledAt": "2026-04-25T14:15:25.446Z",
+      "queryHashes": [
+        "efecf47f384a"
+      ],
+      "recallDays": [
+        "2026-04-25"
+      ],
+      "conceptTags": [
+        "community-wachstums-strategie",
+        "mission/community-strategy.md",
+        "twitter-engagement-taktiken",
+        "content-ideen",
+        "community-building",
+        "mission/mission.md",
+        "projects.md",
+        "abend-review"
       ]
     }
   }

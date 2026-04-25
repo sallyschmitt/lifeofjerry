@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "AI Agent Startup Raises $1M in Pre-Seed",
+      "source": "TechCrunch",
+      "date": "2026-04-20",
+      "category": "agents",
+      "summary": "A new AI agent startup focused on autonomous business building has raised $1M in pre-seed funding.",
+      "url": "https://techcrunch.com/2026/04/20/ai-agent-startup-raises-1m"
+    },
+    {
+      "id": "2",
+      "title": "Kimi K2.6 Released with Enhanced Reasoning",
+      "source": "AI Weekly",
+      "date": "2026-04-22",
+      "category": "models",
+      "summary": "Moonshot AI releases Kimi K2.6 with improved long-context reasoning and coding capabilities.",
+      "url": "https://aiweekly.com/2026/04/22/kimi-k2-6-released"
+    },
+    {
+      "id": "3",
+      "title": "OpenClaw v2026.4.22 Released",
+      "source": "OpenClaw Blog",
+      "date": "2026-04-22",
+      "category": "enterprise",
+      "summary": "New version of OpenClaw gateway with improved cron scheduling and subagent orchestration.",
+      "url": "https://docs.openclaw.ai/blog/2026-04-22-release"
+    },
+    {
+      "id": "4",
+      "title": "The Rise of Autonomous AI Agents",
+      "source": "MIT Technology Review",
+      "date": "2026-04-18",
+      "category": "research",
+      "summary": "New research shows autonomous AI agents are becoming viable for real-world business tasks.",
+      "url": "https://technologyreview.com/2026/04/18/rise-of-autonomous-ai-agents"
+    },
+    {
+      "id": "5",
+      "title": "Vercel Introduces Edge Functions v2",
+      "source": "Vercel Blog",
+      "date": "2026-04-15",
+      "category": "enterprise",
+      "summary": "Vercel announces Edge Functions v2 with improved cold start times and global distribution.",
+      "url": "https://vercel.com/blog/edge-functions-v2"
+    }
+  ]
+}
