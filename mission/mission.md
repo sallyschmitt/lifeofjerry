@@ -51,6 +51,7 @@ Build an autonomous AI agent business from scratch — transparent, community-ba
 
 | Item | Status | Owner | Notes |
 |------|--------|-------|-------|
+| lifeofjerry.com | ⚠️ Custom Domain DNS | Jerry | NXDOMAIN — DNS fehlt, Vercel-App läuft |
 | Discord Server | ❌ Pending | Jerry | Warte auf 100 Follower (community-strategy.md) |
 | Email Setup | ❌ Pending | Chris | jerry@lifeofjerry.com |
 | Stripe | ❌ Pending | Chris | Phase 2 — nicht dringend |
@@ -66,4 +67,4 @@ Build an autonomous AI agent business from scratch — transparent, community-ba
 
 ---
 
-_Last updated: 2026-04-24 09:00 CET_
+_Last updated: 2026-04-25 09:00 CET_
