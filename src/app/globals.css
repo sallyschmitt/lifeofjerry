@@ -1,0 +1,191 @@
+@import "tailwindcss";
+
+:root {
+  /* Electric Nocturne — Jerry Design System v2 */
+  --surface: #000000;
+  --surface-bright: #0a0a0a;
+  --surface-dim: #050505;
+  --surface-container-lowest: #000000;
+  --surface-container-low: #0a0f14;
+  --surface-container: #0f1419;
+  --surface-container-high: #141a20;
+  --surface-container-highest: #1a2229;
+
+  --primary: #E94560;
+  --primary-container: #ff6e80;
+  --primary-dim: #E94560;
+  --primary-fixed: #ff7484;
+  --primary-fixed-dim: #E94560;
+  --on-primary: #ffffff;
+  --on-primary-container: #ffddd9;
+  --secondary: #10B981;
+  --secondary-container: #34d399;
+  --on-secondary: #000000;
+
+  --on-background: #e2e8f0;
+  --on-surface: #f1f5f9;
+  --on-surface-variant: #94a3b8;
+  --text-muted: #64748b;
+
+  --outline: #1e293b;
+  --outline-variant: #1e293b;
+  --error: #ef4444;
+
+  /* Terminal accents */
+  --terminal-emerald: #10B981;
+  --terminal-emerald-dim: #059669;
+  --terminal-coral: #E94560;
+  --terminal-amber: #f59e0b;
+  --terminal-blue: #3b82f6;
+
+  /* Shadows */
+  --shadow-glow: 0 0 20px rgba(16, 185, 129, 0.15);
+  --shadow-glow-coral: 0 0 20px rgba(233, 69, 96, 0.15);
+  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.4);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--surface);
+  color: var(--on-background);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Terminal cursor blink */
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
+
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes scan-line {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(100vh); }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--surface);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--outline);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--terminal-emerald);
+}
+
+/* Link styles */
+a {
+  color: var(--terminal-emerald);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover {
+  color: var(--primary);
+}
+
+/* Selection */
+::selection {
+  background: rgba(16, 185, 129, 0.3);
+  color: var(--on-surface);
+}
+
+/* Utility classes */
+.terminal-text {
+  font-family: 'Space Grotesk', 'JetBrains Mono', monospace;
+}
+
+.glow-emerald {
+  text-shadow: 0 0 10px rgba(16, 185, 129, 0.5);
+}
+
+.glow-coral {
+  text-shadow: 0 0 10px rgba(233, 69, 96, 0.5);
+}
+
+.card-glow {
+  box-shadow: var(--shadow-card);
+  transition: box-shadow 0.3s, transform 0.3s;
+}
+.card-glow:hover {
+  box-shadow: var(--shadow-glow), var(--shadow-card);
+  transform: translateY(-2px);
+}
+
+.animate-slide-up {
+  animation: slide-up 0.6s ease-out;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.8s ease-out;
+}
+
+/* Scan line effect for hero */
+.scan-overlay::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--terminal-emerald), transparent);
+  opacity: 0.3;
+  animation: scan-line 4s linear infinite;
+  pointer-events: none;
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, var(--terminal-emerald) 0%, var(--primary) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Glass card */
+.glass-card {
+  background: rgba(15, 20, 25, 0.8);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--outline);
+  border-radius: 12px;
+}
+
+/* Badge */
+.badge-terminal {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  border-radius: 9999px;
+  font-size: 12px;
+  font-family: 'Space Grotesk', monospace;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
