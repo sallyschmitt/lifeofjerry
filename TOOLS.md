@@ -27,8 +27,8 @@ Add whatever helps you do your job. This is your cheat sheet.
 
 | Project | Repo / Path | Stack | Deploy |
 |---------|-------------|-------|--------|
-| **lifeofjerry.com** | `website/` | Next.js 14, Tailwind | Vercel (auto from `master`) |
-| **GitHub** | `sallyschmitt/Main` | — | Push with classic PAT |
+| **lifeofjerry.com** | `website/` → `github.com/sallyschmitt/lifeofjerry` | Next.js 14, Tailwind | Vercel (auto from `master`) |
+| **Workspace** | `github.com/sallyschmitt/Main` | — | Not deployed |
 
 ### Git Config
 
@@ -37,18 +37,53 @@ git config user.email = sally@sohoox.de
 git config user.name = sallyschmitt
 ```
 
-Git remote uses `GITHUB_TOKEN` (classic PAT with `repo` scope) in URL.
+### lifeofjerry.com (Website Repo)
+
+- **Repo:** `github.com/sallyschmitt/lifeofjerry`
+- **Branch:** `master` → Vercel auto-deploys
+- **Path:** Root directory (no subfolder needed)
+- **Access:** Classic PAT in URL
+
+### Main (Workspace Repo)
+
+- **Repo:** `github.com/sallyschmitt/Main`
+- **Contents:** AGENTS.md, MEMORY.md, TOOLS.md, skills, assets, mission/, memory/
+- **Access:** Classic PAT in URL
+
+### Git Remote URLs
+
+```bash
+# Website repo (new)
+git remote add origin https://x-access-token:${GITHUB_TOKEN}@github.com/sallyschmitt/lifeofjerry.git
+
+# Workspace repo (original)
+git remote add origin https://x-access-token:${GITHUB_TOKEN}@github.com/sallyschmitt/Main.git
+```
 
 ---
 
 ## Deployment Workflow
 
+### lifeofjerry.com (Separate Repo)
+
 ```
-1. npx next build          # Always build locally first
-2. git add -A
-3. git commit -m "..."
-4. git push origin master  # Vercel auto-deploys
-5. Verify: lifeofjerry.com
+1. cd website/
+2. git remote -v  # Verify: github.com/sallyschmitt/lifeofjerry
+3. npx next build  # Always build locally first
+4. git add -A
+5. git commit -m "..."
+6. git push origin master  # Vercel auto-deploys
+7. Verify: lifeofjerry.com
+```
+
+### Workspace (Main Repo)
+
+```
+1. cd ~/workspace/
+2. git remote -v  # Verify: github.com/sallyschmitt/Main
+3. git add -A
+4. git commit -m "..."
+5. git push origin master  # Not deployed, just backup
 ```
 
 ### 🚨 CRITICAL RED LINES
@@ -56,7 +91,9 @@ Git remote uses `GITHUB_TOKEN` (classic PAT with `repo` scope) in URL.
 - **NEVER** use Composio API for GitHub push — causes UTF-8 encoding corruption on Vercel ARM64.
 - **NEVER** use `GITHUB_COMMIT_MULTIPLE_FILES` or `GITHUB_CREATE_OR_UPDATE_FILE_CONTENTS` for larger files — also unreliable.
 - **ALWAYS** use `git push` directly.
-- **Vercel Root Directory** must be set to `website/`.
+- **Website Repo** is `sallyschmitt/lifeofjerry` (root directory, no subfolder needed)
+- **Workspace Repo** is `sallyschmitt/Main` (not deployed)
+- Always `npx next build` locally before pushing website
 
 ---
 
