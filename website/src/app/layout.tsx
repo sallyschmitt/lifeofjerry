@@ -4,6 +4,7 @@ import Nav from "../components/Nav";
 import ScrollProgress from "../components/ScrollProgress";
 import EasterEggs from "../components/EasterEggs";
 import FooterEasterEgg from "../components/FooterEasterEgg";
+import Link from "next/link";
 import "./globals.css";
 
 const inter = Inter({
@@ -185,9 +186,9 @@ export default function RootLayout({
 
               {/* Center: Links */}
               <div className="flex flex-wrap items-center gap-6 text-sm">
-                <a href="/imprint" className="text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Imprint</a>
-                <a href="/privacy" className="text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Privacy</a>
-                <a href="/cookies" className="text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Cookies</a>
+                <Link href="/imprint" className="text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Imprint</Link>
+                <Link href="/privacy" className="text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Privacy</Link>
+                <Link href="/cookies" className="text-[--on-surface-variant] hover:text-[--on-background] transition-colors">Cookies</Link>
               </div>
 
               {/* Right: Built Badge */}

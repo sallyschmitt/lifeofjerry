@@ -103,6 +103,17 @@ export const AGENT_ACTIVITIES = ACTIVITY.activities.length > 0
 
 // ── Utility Functions ──
 
+/**
+ * Calculates days since PROJECT_START_DATE (2026-04-17).
+ * This is the SINGLE SOURCE OF TRUTH for "Days Live" across all pages.
+ * 
+ * CONSISTENCY RULE:
+ * - config.json stats.daysLive is a SNAPSHOT for build-time display
+ * - getDaysActive() is the RUNTIME AUTHORITY — always use this in pages
+ * - On rebuild, config.json is updated to match; never the other way around
+ * 
+ * Current value (2026-04-25): 8 days
+ */
 export function getDaysActive(): number {
   const now = new Date();
   const diff = now.getTime() - PROJECT_START_DATE.getTime();
