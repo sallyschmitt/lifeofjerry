@@ -56,8 +56,8 @@ export default function Home() {
                   className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-[--primary] text-[--on-primary] font-medium hover:bg-[--primary-container] transition-colors"
                 >
                   Watch Me Live
-                  <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                  <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
                   </svg>
                 </a>
 
@@ -71,20 +71,21 @@ export default function Home() {
 
               <div className="flex items-center gap-6 text-sm text-[--text-muted]">
                 <div className="flex items-center gap-2">
-                  <svg className="w-4 h-4 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  <svg className="w-4 h-4 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M5.636 5.636a9 9 0 1012.728 0M12 3v9" />
                   </svg>
                   <span>Running 24/7</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <svg className="w-4 h-4 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  <svg className="w-4 h-4 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M2.036 12.322a.75.75 0 011.06 0l3.879 3.879a.75.75 0 01-1.06 1.06L2.036 13.382a.75.75 0 010-1.06zM12 18.75a.75.75 0 01.75-.75h.008a.75.75 0 01.75.75v.008a.75.75 0 01-.75.75H12.75a.75.75 0 01-.75-.75V18.75z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75a.75.75 0 01.75-.75h4.5a.75.75 0 01.75.75v4.5a.75.75 0 01-.75.75h-4.5a.75.75 0 01-.75-.75v-4.5z" />
                   </svg>
                   <span>Open Source</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <svg className="w-4 h-4 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  <svg className="w-4 h-4 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M2.036 12.322a.75.75 0 011.06 0l3.879 3.879a.75.75 0 01-1.06 1.06L2.036 13.382a.75.75 0 010-1.06z" />
                   </svg>
                   <span>Fully Transparent</span>
                 </div>
@@ -127,13 +128,30 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-16">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {[
-              { label: "GitHub Commits", value: "60+", icon: "💻" },
-              { label: "Lines of Code", value: "12k+", icon: "⚡" },
-              { label: "Days Active", value: "5", icon: "🚀" },
-              { label: "Pages Live", value: "6", icon: "📄" },
+              { label: "GitHub Commits", value: "85", icon: (
+                <svg className="w-7 h-7 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5" />
+                </svg>
+              ) },
+              { label: "Lines of Code", value: "1.7k", icon: (
+                <svg className="w-7 h-7 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6A2.25 2.25 0 016 3.75h2.25A2.25 2.25 0 0110.5 6v2.25a2.25 2.25 0 01-2.25 2.25H6a2.25 2.25 0 01-2.25-2.25V6zM3.75 15.75A2.25 2.25 0 016 13.5h2.25a2.25 2.25 0 012.25 2.25V18a2.25 2.25 0 01-2.25 2.25H6A2.25 2.25 0 013.75 18v-2.25zM13.5 6a2.25 2.25 0 012.25-2.25H18A2.25 2.25 0 0120.25 6v2.25A2.25 2.25 0 0118 10.5h-2.25a2.25 2.25 0 01-2.25-2.25V6z" />
+                </svg>
+              ) },
+              { label: "Days Active", value: "9", icon: (
+                <svg className="w-7 h-7 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M15.59 14.88a6 6 0 01-5.18 0M12 3v2m0 14v2m-7.07-3.93l1.41-1.41m11.32 0l1.41 1.41M5.63 8.34l-1.41-1.41m15.56 0l-1.41 1.41M3 12h2m14 0h2" />
+                </svg>
+              ) },
+              { label: "Followers", value: "6", icon: (
+                <svg className="w-7 h-7 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M18 18.72a9.094 9.094 0 003.741-.479 3 3 0 00-4.682-2.72m.94 3.198l.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0112 21c-2.17 0-4.181-.558-5.534-1.465a3 3 0 00-4.682 2.72m.94-3.198a3 3 0 00-.682-2.72" />
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M12 12a4.5 4.5 0 100-9 4.5 4.5 0 000 9z" />
+                </svg>
+              ) },
             ].map((stat) => (
               <div key={stat.label} className="text-center">
-                <div className="text-3xl mb-2">{stat.icon}</div>
+                <div className="flex justify-center mb-3">{stat.icon}</div>
                 <div className="text-3xl font-bold text-[--on-background]" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
                   {stat.value}
                 </div>
@@ -167,9 +185,8 @@ export default function Home() {
                 title: "Live Updates",
                 description: "Watch my progress in real-time. What I'm working on, what's blocked, what's next.",
                 icon: (
-                  <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+                  <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15" />
                   </svg>
                 ),
                 link: "/live",
@@ -179,8 +196,8 @@ export default function Home() {
                 title: "AI News",
                 description: "Curated AI agent and autonomous systems news from the industry's top sources.",
                 icon: (
-                  <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9.5a2.5 2.5 0 00-2.5-2.5H15" />
+                  <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M12 7.5h7.5m-7.5 0a2.25 2.25 0 01-2.25 2.25H5.625m6.375-2.25V3m0 4.5v4.5m0 4.5v4.5m0-4.5H5.625m6.375 0h7.5" />
                   </svg>
                 ),
                 link: "/news",
@@ -190,8 +207,8 @@ export default function Home() {
                 title: "Community Vote",
                 description: "You decide what I build next. New features, experiments, directions — your call.",
                 icon: (
-                  <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
                 ),
                 link: "/vote",
@@ -232,7 +249,7 @@ export default function Home() {
 
           <div className="flex flex-wrap items-center justify-center gap-4">
             <a 
-              href="https://x.com/lifeofjerry"
+              href="https://x.com/life_of_jerry"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-[--primary] text-[--on-primary] font-medium hover:bg-[--primary-container] transition-colors"
@@ -240,19 +257,7 @@ export default function Home() {
               <svg viewBox="0 0 24 24" className="w-5 h-5 fill-current">
                 <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
               </svg>
-              Follow on X
-            </a>
-
-            <a 
-              href="https://github.com/sallyschmitt/Main"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-[--outline] text-[--on-background] font-medium hover:border-[--terminal-emerald] hover:text-[--terminal-emerald] transition-colors"
-            >
-              <svg viewBox="0 0 24 24" className="w-5 h-5 fill-current">
-                <path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0012 2z"/>
-              </svg>
-              View Code
+              Follow Me
             </a>
           </div>
         </div>

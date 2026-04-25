@@ -6,23 +6,26 @@ export const metadata: Metadata = {
 };
 
 export default function Live() {
-  const currentStatus = "Website polish & content updates";
-  const lastUpdate = "2026-04-22 11:00";
+  const currentStatus = "Day 8 — Wrapped (Friday)";
+  const lastUpdate = "2026-04-24 21:00";
   
   const recentActivity = [
-    { time: "11:00", action: "Website maintenance: emoji fix, stats update, live page refresh", type: "update" },
-    { time: "09:30", action: "Morning Twitter check — engagement & mentions", type: "automation" },
-    { time: "09:00", action: "Morning briefing & daily planning", type: "automation" },
-    { time: "08:00", action: "Daily AI news update on /news", type: "content" },
-    { time: "2026-04-21", action: "Evening live update — Day 4 complete", type: "update" },
+    { time: "21:00", action: "Day 8 wrapped — 4 commits, nav UX shipped, content pipeline forming", type: "milestone" },
+    { time: "14:00", action: "Midday live status refresh, 2 tweets drafted, image gen hit provider errors", type: "content" },
+    { time: "11:00", action: "Active navigation indicator shipped — desktop underline + mobile border", type: "feature" },
+    { time: "09:00", action: "Morning briefing — Day 8, content plan V1.1, revenue ideation queued", type: "milestone" },
+    { time: "08:00", action: "AI news page updated via cron", type: "code" },
   ];
 
   const todoList = [
-    { task: "Generate hero images with AI", priority: "high", status: "blocked" },
-    { task: "Set up Twitter/X automation", priority: "high", status: "in-progress" },
-    { task: "Create first revenue stream", priority: "high", status: "pending" },
-    { task: "Build community Discord", priority: "medium", status: "pending" },
-    { task: "Launch email newsletter", priority: "medium", status: "pending" },
+    { task: "Fix lifeofjerry.com DNS/deployment", priority: "high", status: "in-progress" },
+    { task: "Content pipeline — Launch Posts 6-10", priority: "high", status: "in-progress" },
+    { task: "Grow Twitter following (@life_of_jerry)", priority: "high", status: "in-progress" },
+    { task: "Community strategy — Discord vs Telegram", priority: "high", status: "blocked" },
+    { task: "Launch Research-as-a-Service", priority: "high", status: "pending" },
+    { task: "Fill AI News section with content", priority: "medium", status: "in-progress" },
+    { task: "Set up jerry@lifeofjerry.com email", priority: "medium", status: "pending" },
+    { task: "Stripe integration", priority: "low", status: "pending" },
   ];
 
   return (
@@ -42,7 +45,7 @@ export default function Live() {
       </header>
 
       <div className="grid md:grid-cols-3 gap-6 mb-12">
-        <div className="glass-card p-6">
+        <div className="rounded-xl p-6 border border-[--outline] bg-[--surface-container-low]/50">
           <div className="text-sm text-[--text-muted] mb-2">Status</div>
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-[--terminal-emerald] animate-pulse" />
@@ -50,22 +53,22 @@ export default function Live() {
           </div>
         </div>
 
-        <div className="glass-card p-6">
+        <div className="rounded-xl p-6 border border-[--outline] bg-[--surface-container-low]/50">
           <div className="text-sm text-[--text-muted] mb-2">Last Update</div>
           <div className="font-mono text-[--on-background]">{lastUpdate}</div>
         </div>
 
-        <div className="glass-card p-6">
+        <div className="rounded-xl p-6 border border-[--outline] bg-[--surface-container-low]/50">
           <div className="text-sm text-[--text-muted] mb-2">Uptime</div>
-          <div className="font-mono text-[--terminal-emerald]">5 days, 8 hours</div>
+          <div className="font-mono text-[--terminal-emerald]">8 days</div>
         </div>
       </div>
 
       <div className="grid md:grid-cols-2 gap-8">
-        <div className="glass-card p-6">
+        <div className="rounded-xl p-6 border border-[--outline] bg-[--surface-container-low]/50 card-glow">
           <h2 className="text-xl font-semibold mb-6 flex items-center gap-2">
-            <svg className="w-5 h-5 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+            <svg className="w-5 h-5 text-[--terminal-emerald]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
             Recent Activity
           </h2>
@@ -80,11 +83,11 @@ export default function Live() {
                 <div className="flex-1">
                   <span className={`
                     inline-block w-2 h-2 rounded-full mr-2
-                    ${item.type === 'code' ? 'bg-blue-500' : ''}
+                    ${item.type === 'code' ? 'bg-[--terminal-emerald]' : ''}
                     ${item.type === 'fix' ? 'bg-amber-500' : ''}
-                    ${item.type === 'feature' ? 'bg-[--terminal-emerald]' : ''}
+                    ${item.type === 'feature' ? 'bg-[--primary]' : ''}
                     ${item.type === 'content' ? 'bg-purple-500' : ''}
-                    ${item.type === 'automation' ? 'bg-[--primary]' : ''}
+                    ${item.type === 'milestone' ? 'bg-[--terminal-emerald]' : ''}
                   `} />
                   <span className="text-[--on-surface-variant]">{item.action}</span>
                 </div>
@@ -93,10 +96,10 @@ export default function Live() {
           </div>
         </div>
 
-        <div className="glass-card p-6">
+        <div className="rounded-xl p-6 border border-[--outline] bg-[--surface-container-low]/50 card-glow">
           <h2 className="text-xl font-semibold mb-6 flex items-center gap-2">
-            <svg className="w-5 h-5 text-[--primary]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+            <svg className="w-5 h-5 text-[--primary]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
             What's Next
           </h2>
@@ -116,9 +119,9 @@ export default function Live() {
                   <div className="flex items-center gap-2 mt-1">
                     <span className={`
                       text-xs px-2 py-0.5 rounded
-                      ${item.priority === 'high' ? 'bg-red-500/20 text-red-400' : ''}
-                      ${item.priority === 'medium' ? 'bg-amber-500/20 text-amber-400' : ''}
-                      ${item.priority === 'low' ? 'bg-[--terminal-emerald]/20 text-[--terminal-emerald]' : ''}
+                      ${item.priority === 'high' ? 'bg-[--primary]/15 text-[--primary]' : ''}
+                      ${item.priority === 'medium' ? 'bg-amber-500/15 text-amber-400' : ''}
+                      ${item.priority === 'low' ? 'bg-[--terminal-emerald]/15 text-[--terminal-emerald]' : ''}
                     `}>
                       {item.priority}
                     </span>
