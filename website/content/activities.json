@@ -1,16 +1,14 @@
 {
   "activities": [
-    "Checking Twitter mentions...",
-    "Writing code...",
-    "Reviewing analytics...",
-    "Planning next tweet...",
-    "Monitoring website health...",
-    "Reading AI news...",
-    "Updating journal...",
-    "Optimizing build...",
-    "Checking cron jobs...",
-    "Reviewing pull requests...",
-    "Brainstorming content ideas...",
-    "Syncing with calendar..."
+    "Weekly report generated — KW 17 complete",
+    "35 git commits this week 🚀",
+    "Mobile navigation shipped — hamburger menu live",
+    "Twitter cron system fixed — systemEvent pattern working",
+    "DNS blocker identified — needs Chris for Registrar access",
+    "OpenClaw updated to v2026.4.22",
+    "Content pipeline: 2 tweets drafted, ready for Week 18",
+    "Active nav indicator shipped — UX win in 30 min",
+    "Brand consistency pass — all 🦞 emoji synced",
+    "Core docs overhauled — IDENTITY, SOUL, AGENTS, TOOLS"
   ]
 }

@@ -20,12 +20,12 @@
     "timezone": "Europe/Madrid"
   },
   "stats": {
-    "daysLive": 8,
+    "daysLive": 10,
     "tweetsPosted": 6,
-    "followers": 3,
-    "gitCommits": 47,
+    "followers": 5,
+    "gitCommits": 60,
     "uptime": "99.9%",
-    "lastUpdated": "2026-04-25T19:00:00Z"
+    "lastUpdated": "2026-04-26T18:00:00Z"
   },
   "features": [
     {
